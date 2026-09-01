@@ -2,7 +2,7 @@ student:
   name: "Sabrina Aurelyn Sibarani"
   id: "18225073"
   program: "Sistem dan Teknologi Informasi"
-  cohort: "25"
+  cohort: "2025"
   email: "18225073@std.stei.itb.ac.id"
 
 course:
@@ -12,5 +12,5 @@ course:
   semester: "Semester 3 / Tahun Akademik 2026/2027"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/sabsibb/kipp-students.git"
 
