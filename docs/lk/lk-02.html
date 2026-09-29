@@ -76,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -185,25 +156,23 @@ window.Quarto = {
   <ul>
   <li><a href="#lembar-kerja-praktis-tiga-narasi-atas-satu-peristiwa" id="toc-lembar-kerja-praktis-tiga-narasi-atas-satu-peristiwa" class="nav-link active" data-scroll-target="#lembar-kerja-praktis-tiga-narasi-atas-satu-peristiwa">Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa</a>
   <ul class="collapse">
-  <li><a href="#siklus-pemikiran-dari-rangsangan-menuju-respons" id="toc-siklus-pemikiran-dari-rangsangan-menuju-respons" class="nav-link" data-scroll-target="#siklus-pemikiran-dari-rangsangan-menuju-respons"><strong>Siklus Pemikiran: Dari Rangsangan Menuju Respons</strong></a></li>
-  <li><a href="#bagian-1-identifikasi-kasus-bahan-mentah" id="toc-bagian-1-identifikasi-kasus-bahan-mentah" class="nav-link" data-scroll-target="#bagian-1-identifikasi-kasus-bahan-mentah"><strong>Bagian 1: Identifikasi Kasus (Bahan Mentah)</strong></a>
+  <li><a href="#bagian-1-identifikasi-kasus-bahan-mentah" id="toc-bagian-1-identifikasi-kasus-bahan-mentah" class="nav-link" data-scroll-target="#bagian-1-identifikasi-kasus-bahan-mentah">Bagian 1: Identifikasi Kasus (Bahan Mentah)</a>
   <ul class="collapse">
-  <li><a href="#peristiwa-yang-dapat-diamati-fakta-objektif" id="toc-peristiwa-yang-dapat-diamati-fakta-objektif" class="nav-link" data-scroll-target="#peristiwa-yang-dapat-diamati-fakta-objektif"><strong>1. Peristiwa yang Dapat Diamati (Fakta Objektif)</strong></a></li>
-  <li><a href="#interpretasi-pertama-asumsi-otomatis" id="toc-interpretasi-pertama-asumsi-otomatis" class="nav-link" data-scroll-target="#interpretasi-pertama-asumsi-otomatis"><strong>2. Interpretasi Pertama (Asumsi Otomatis)</strong></a></li>
-  <li><a href="#emosi-sensasi-tubuh" id="toc-emosi-sensasi-tubuh" class="nav-link" data-scroll-target="#emosi-sensasi-tubuh"><strong>3. Emosi &amp; Sensasi Tubuh</strong></a></li>
+  <li><a href="#peristiwa-yang-dapat-diamati-fakta-objektif" id="toc-peristiwa-yang-dapat-diamati-fakta-objektif" class="nav-link" data-scroll-target="#peristiwa-yang-dapat-diamati-fakta-objektif">1. Peristiwa yang Dapat Diamati (Fakta Objektif)</a></li>
+  <li><a href="#interpretasi-pertama-asumsi-otomatis" id="toc-interpretasi-pertama-asumsi-otomatis" class="nav-link" data-scroll-target="#interpretasi-pertama-asumsi-otomatis">2. Interpretasi Pertama (Asumsi Otomatis)</a></li>
+  <li><a href="#emosi-sensasi-tubuh" id="toc-emosi-sensasi-tubuh" class="nav-link" data-scroll-target="#emosi-sensasi-tubuh">3. Emosi &amp; Sensasi Tubuh</a></li>
   </ul></li>
   <li><a href="#bagian-2-membedah-tiga-narasi" id="toc-bagian-2-membedah-tiga-narasi" class="nav-link" data-scroll-target="#bagian-2-membedah-tiga-narasi"><strong>Bagian 2: Membedah Tiga Narasi</strong></a>
   <ul class="collapse">
-  <li><a href="#versi-a-narasi-korban-victim-narrative" id="toc-versi-a-narasi-korban-victim-narrative" class="nav-link" data-scroll-target="#versi-a-narasi-korban-victim-narrative"><strong>Versi A: Narasi Korban (Victim Narrative)</strong></a></li>
-  <li><a href="#versi-b-narasi-analitis-analytical-narrative" id="toc-versi-b-narasi-analitis-analytical-narrative" class="nav-link" data-scroll-target="#versi-b-narasi-analitis-analytical-narrative"><strong>Versi B: Narasi Analitis (Analytical Narrative)</strong></a></li>
-  <li><a href="#versi-c-narasi-pertumbuhan-growth-narrative" id="toc-versi-c-narasi-pertumbuhan-growth-narrative" class="nav-link" data-scroll-target="#versi-c-narasi-pertumbuhan-growth-narrative"><strong>Versi C: Narasi Pertumbuhan (Growth Narrative)</strong></a></li>
+  <li><a href="#versi-a-narasi-korban-victim-narrative" id="toc-versi-a-narasi-korban-victim-narrative" class="nav-link" data-scroll-target="#versi-a-narasi-korban-victim-narrative">Versi A: Narasi Korban (Victim Narrative)</a></li>
+  <li><a href="#versi-b-narasi-analitis-analytical-narrative" id="toc-versi-b-narasi-analitis-analytical-narrative" class="nav-link" data-scroll-target="#versi-b-narasi-analitis-analytical-narrative">Versi B: Narasi Analitis (Analytical Narrative)</a></li>
+  <li><a href="#versi-c-narasi-pertumbuhan-growth-narrative" id="toc-versi-c-narasi-pertumbuhan-growth-narrative" class="nav-link" data-scroll-target="#versi-c-narasi-pertumbuhan-growth-narrative">Versi C: Narasi Pertumbuhan (Growth Narrative)</a></li>
   </ul></li>
-  <li><a href="#bagian-3-merancang-respons-action-support" id="toc-bagian-3-merancang-respons-action-support" class="nav-link" data-scroll-target="#bagian-3-merancang-respons-action-support"><strong>Bagian 3: Merancang Respons (Action &amp; Support)</strong></a>
+  <li><a href="#bagian-3-merancang-respons-action-support" id="toc-bagian-3-merancang-respons-action-support" class="nav-link" data-scroll-target="#bagian-3-merancang-respons-action-support">Bagian 3: Merancang Respons (Action &amp; Support)</a>
   <ul class="collapse">
-  <li><a href="#pilihan-respons-terbaik" id="toc-pilihan-respons-terbaik" class="nav-link" data-scroll-target="#pilihan-respons-terbaik"><strong>1. Pilihan Respons Terbaik</strong></a></li>
-  <li><a href="#dukungan-yang-diperlukan" id="toc-dukungan-yang-diperlukan" class="nav-link" data-scroll-target="#dukungan-yang-diperlukan"><strong>2. Dukungan yang Diperlukan</strong></a></li>
+  <li><a href="#pilihan-respons-terbaik" id="toc-pilihan-respons-terbaik" class="nav-link" data-scroll-target="#pilihan-respons-terbaik">1. Pilihan Respons Terbaik</a></li>
+  <li><a href="#dukungan-yang-diperlukan" id="toc-dukungan-yang-diperlukan" class="nav-link" data-scroll-target="#dukungan-yang-diperlukan">2. Dukungan yang Diperlukan</a></li>
   </ul></li>
-  <li><a href="#panduan-evaluasi-mandiri-rubrik-portofolio" id="toc-panduan-evaluasi-mandiri-rubrik-portofolio" class="nav-link" data-scroll-target="#panduan-evaluasi-mandiri-rubrik-portofolio"><strong>Panduan Evaluasi Mandiri (Rubrik Portofolio)</strong></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -232,30 +201,20 @@ window.Quarto = {
 
 <section id="lembar-kerja-praktis-tiga-narasi-atas-satu-peristiwa" class="level1">
 <h1>Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa</h1>
-<p><em>(Bahan Aktivitas Mandiri &amp; Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)</em></p>
-<p>Lembar kerja ini dirancang untuk melatih kemampuan <strong>kejernihan batin (intrapersonal communication)</strong> Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (<em>chosen response</em>) alih-alih bereaksi secara otomatis (<em>autopilot</em>) atas peristiwa sulit dalam kehidupan sehari-hari [10, 13].</p>
-<hr>
-<section id="siklus-pemikiran-dari-rangsangan-menuju-respons" class="level2">
-<h2 class="anchored" data-anchor-id="siklus-pemikiran-dari-rangsangan-menuju-respons"><strong>Siklus Pemikiran: Dari Rangsangan Menuju Respons</strong></h2>
-<p>Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut [13]: <span class="math display">\[\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}\]</span></p>
-<hr>
-</section>
 <section id="bagian-1-identifikasi-kasus-bahan-mentah" class="level2">
-<h2 class="anchored" data-anchor-id="bagian-1-identifikasi-kasus-bahan-mentah"><strong>Bagian 1: Identifikasi Kasus (Bahan Mentah)</strong></h2>
-<p>Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) [11, 13]. <em>Catatan Etis: Pilih kasus yang cukup aman untuk dipelajari secara akademis. Jangan memilih situasi kekerasan atau trauma berat yang membutuhkan bantuan profesional [13].</em></p>
+<h2 class="anchored" data-anchor-id="bagian-1-identifikasi-kasus-bahan-mentah">Bagian 1: Identifikasi Kasus (Bahan Mentah)</h2>
 <section id="peristiwa-yang-dapat-diamati-fakta-objektif" class="level3">
-<h3 class="anchored" data-anchor-id="peristiwa-yang-dapat-diamati-fakta-objektif"><strong>1. Peristiwa yang Dapat Diamati (Fakta Objektif)</strong></h3>
-<p><em>Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata “selalu” atau “pasti”), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video [13, 145].</em> &gt; <strong>Contoh Kurang Tepat:</strong> <em>“Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok.”</em><br>
-&gt; <strong>Contoh Tepat:</strong> <em>“Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59.”</em> * <strong>Tuliskan Fakta Anda di sini:</strong> __________________________________________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="peristiwa-yang-dapat-diamati-fakta-objektif">1. Peristiwa yang Dapat Diamati (Fakta Objektif)</h3>
+<p>Dalam tugas kelompok, salah satu anggota menyampaikan bahwa ia akan mengirimkan bagian tugasnya pada malam hari agar dapat digabungkan dengan bagian anggota lain. Sampai waktu yang disepakati, bagian tersebut belum dikirimkan dan pesan saya di grup belum mendapat balasan.</p>
 </section>
 <section id="interpretasi-pertama-asumsi-otomatis" class="level3">
-<h3 class="anchored" data-anchor-id="interpretasi-pertama-asumsi-otomatis"><strong>2. Interpretasi Pertama (Asumsi Otomatis)</strong></h3>
-<p><em>Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi [13, 145].</em> * <strong>Tuliskan Interpretasi Pertama Anda di sini:</strong> __________________________________________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="interpretasi-pertama-asumsi-otomatis">2. Interpretasi Pertama (Asumsi Otomatis)</h3>
+<p>Saya langsung berpikir bahwa anggota tersebut tidak serius mengerjakan tugas dan kurang menghargai waktu anggota kelompok lain. Saya juga sempat berpikir bahwa akhirnya saya yang harus membereskan bagian tersebut supaya tugas tetap selesai tepat waktu.</p>
 </section>
 <section id="emosi-sensasi-tubuh" class="level3">
-<h3 class="anchored" data-anchor-id="emosi-sensasi-tubuh"><strong>3. Emosi &amp; Sensasi Tubuh</strong></h3>
-<p><em>Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) [13, 147].</em> * <strong>Emosi yang Dirasakan (dan skala 0-10):</strong> _______________________________________________ * <strong>Sensasi Tubuh yang Muncul:</strong> ___________________________________________________________</p>
-<hr>
+<h3 class="anchored" data-anchor-id="emosi-sensasi-tubuh">3. Emosi &amp; Sensasi Tubuh</h3>
+<p><strong>Emosi yang Dirasakan (dan skala 0–10):</strong> Kesal (8/10), cemas (7/10), kecewa (6/10), dan sedikit tertekan (6/10).</p>
+<p><strong>Sensasi Tubuh yang Muncul:</strong> Bahu terasa tegang, detak jantung sedikit lebih cepat, sulit fokus pada pekerjaan lain, dan muncul dorongan untuk langsung mengirim pesan dengan nada kesal.</p>
 </section>
 </section>
 <section id="bagian-2-membedah-tiga-narasi" class="level2">
@@ -270,42 +229,57 @@ window.Quarto = {
 |  tanpa pilihan tindakan."  bisa saya kendalikan."      dan bertindak."          |
 +---------------------------------------------------------------------------------+</code></pre>
 <section id="versi-a-narasi-korban-victim-narrative" class="level3">
-<h3 class="anchored" data-anchor-id="versi-a-narasi-korban-victim-narrative"><strong>Versi A: Narasi Korban (Victim Narrative)</strong></h3>
-<p><em>Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif [13, 157].</em> * <strong>Isi Narasi Korban Anda:</strong> __________________________________________________________________________________________ __________________________________________________________________________________________ * <strong>Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:</strong> <em>(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)</em> __________________________________________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="versi-a-narasi-korban-victim-narrative">Versi A: Narasi Korban (Victim Narrative)</h3>
+<p><strong>Isi Narasi Korban Anda:</strong></p>
+<p>Saya merasa situasi ini sepenuhnya terjadi karena anggota tersebut tidak bertanggung jawab. Saya sudah berusaha mengerjakan bagian saya dengan tepat waktu, tetapi usaha saya jadi terhambat karena orang lain tidak melakukan bagiannya. Saya merasa tidak punya banyak pilihan selain menunggu atau mengerjakan bagian mereka sendiri. Kalau nanti hasil tugas kelompok kurang maksimal, saya merasa itu bukan kesalahan saya karena saya sudah melakukan bagian saya. Saya juga merasa tidak adil karena saya yang akhirnya harus memikirkan bagaimana tugas ini tetap selesai.</p>
+<p><strong>Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:</strong></p>
+<p>Saya cenderung mendiamkan orang tersebut karena kesal, mengeluh kepada anggota kelompok lain, atau langsung mengambil alih bagian yang belum dikerjakan tanpa membicarakannya terlebih dahulu.</p>
+<hr>
 </section>
 <section id="versi-b-narasi-analitis-analytical-narrative" class="level3">
-<h3 class="anchored" data-anchor-id="versi-b-narasi-analitis-analytical-narrative"><strong>Versi B: Narasi Analitis (Analytical Narrative)</strong></h3>
-<p><em>Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung [13, 157, 158].</em> * <strong>Apa fakta yang benar-benar telah terbukti?</strong> __________________________________________________________________________________________ * <strong>Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?</strong> __________________________________________________________________________________________ * <strong>Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?</strong> __________________________________________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="versi-b-narasi-analitis-analytical-narrative">Versi B: Narasi Analitis (Analytical Narrative)</h3>
+<p><strong>Apa fakta yang benar-benar telah terbukti?</strong></p>
+<ul>
+<li>Ada bagian tugas yang menjadi tanggung jawab anggota tersebut.</li>
+<li>Anggota tersebut menyampaikan bahwa bagian itu akan dikirim pada waktu tertentu.</li>
+<li>Sampai waktu yang disepakati, bagian tersebut belum dikirim.</li>
+<li>Pesan di grup belum mendapatkan balasan.</li>
+<li>Tugas kelompok tetap harus diselesaikan sesuai deadline.</li>
+</ul>
+<p><strong>Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?</strong></p>
+<ol type="1">
+<li>Anggota tersebut mungkin sedang mengalami kendala pribadi atau teknis sehingga belum bisa mengirim bagian tugasnya.</li>
+<li>Bisa saja ia sebenarnya sudah mengerjakan sebagian, tetapi belum mengirim karena merasa hasilnya belum siap atau masih ingin memperbaikinya.</li>
+</ol>
+<p>Selain itu, saya juga belum benar-benar mengetahui apakah ia sengaja menunda atau memang memiliki alasan tertentu.</p>
+<p><strong>Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?</strong></p>
+<p>Saya tidak bisa mengendalikan apakah anggota tersebut akan langsung mengirim tugasnya atau tidak. Namun, saya bisa mengendalikan cara saya menyampaikan masalah, kapan saya menghubunginya, bagaimana saya mengatur ulang pembagian pekerjaan, dan apakah saya memilih untuk tetap fokus pada penyelesaian masalah daripada terus memikirkan kesalahan orang lain.</p>
+<hr>
 </section>
 <section id="versi-c-narasi-pertumbuhan-growth-narrative" class="level3">
-<h3 class="anchored" data-anchor-id="versi-c-narasi-pertumbuhan-growth-narrative"><strong>Versi C: Narasi Pertumbuhan (Growth Narrative)</strong></h3>
-<p><em>Gunakan kacamata belas kasih (</em>compassion<em>) dan pola pikir bertumbuh (</em>growth mindset<em>). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda [13, 151, 157].</em> * <strong>Isi Narasi Pertumbuhan Anda:</strong> __________________________________________________________________________________________ __________________________________________________________________________________________ * <strong>Pelajaran apa yang dapat saya ambil dari situasi ini?</strong> __________________________________________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="versi-c-narasi-pertumbuhan-growth-narrative">Versi C: Narasi Pertumbuhan (Growth Narrative)</h3>
+<p><strong>Isi Narasi Pertumbuhan Anda:</strong></p>
+<p>Situasi ini memang membuat saya kesal dan cemas karena saya ingin tugas kelompok berjalan sesuai rencana. Perasaan itu valid, tetapi saya tidak harus langsung bertindak berdasarkan rasa kesal tersebut. Saya belum mengetahui alasan sebenarnya mengapa bagian tugas belum dikirim, sehingga saya sebaiknya tidak langsung menyimpulkan bahwa orang tersebut tidak bertanggung jawab. Saya bisa tetap tegas terhadap deadline tanpa harus menyerang pribadi orangnya. Yang penting bagi saya adalah mencari cara agar tugas tetap berjalan, sambil belajar berkomunikasi lebih jelas ketika ada masalah dalam kerja kelompok.</p>
+<p><strong>Pelajaran apa yang dapat saya ambil dari situasi ini?</strong></p>
+<p>Saya belajar bahwa keterlambatan orang lain tidak selalu berarti mereka tidak peduli atau tidak bertanggung jawab. Saya juga belajar bahwa saya perlu memisahkan fakta dari asumsi sebelum bereaksi. Selain itu, kerja kelompok membutuhkan komunikasi yang lebih aktif, bukan hanya mengandalkan asumsi bahwa semua orang akan bekerja dengan cara dan kecepatan yang sama.</p>
 <hr>
 </section>
 </section>
 <section id="bagian-3-merancang-respons-action-support" class="level2">
-<h2 class="anchored" data-anchor-id="bagian-3-merancang-respons-action-support"><strong>Bagian 3: Merancang Respons (Action &amp; Support)</strong></h2>
+<h2 class="anchored" data-anchor-id="bagian-3-merancang-respons-action-support">Bagian 3: Merancang Respons (Action &amp; Support)</h2>
 <section id="pilihan-respons-terbaik" class="level3">
-<h3 class="anchored" data-anchor-id="pilihan-respons-terbaik"><strong>1. Pilihan Respons Terbaik</strong></h3>
-<p><em>Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut [13, 157, 158].</em> * <strong>Langkah nyata yang saya pilih:</strong> __________________________________________________________________________________________ __________________________________________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="pilihan-respons-terbaik">1. Pilihan Respons Terbaik</h3>
+<p><strong>Langkah nyata yang saya pilih:</strong></p>
+<p>Saya akan menghubungi anggota tersebut secara langsung dengan pesan yang tenang dan jelas, menanyakan apakah ada kendala dan kapan bagian tugasnya bisa dikirimkan. Saya akan memberikan batas waktu baru yang realistis agar masih ada waktu untuk menggabungkan dan mengecek tugas. Jika sampai batas waktu tersebut tetap belum ada respons, saya akan berdiskusi dengan anggota kelompok lain untuk membagi sementara bagian yang belum selesai agar tugas tetap dapat dikumpulkan. Setelah tugas selesai, saya juga akan menyampaikan bahwa ke depannya kami perlu membuat deadline internal yang lebih jelas.</p>
 </section>
 <section id="dukungan-yang-diperlukan" class="level3">
-<h3 class="anchored" data-anchor-id="dukungan-yang-diperlukan"><strong>2. Dukungan yang Diperlukan</strong></h3>
-<p><em>Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? [13, 158]</em> * <strong>Nama rekan/pendamping:</strong> ______________________________________________________________</p>
+<h3 class="anchored" data-anchor-id="dukungan-yang-diperlukan">2. Dukungan yang Diperlukan</h3>
+<p><strong>Nama rekan/pendamping: A</strong></p>
+<p>Teman satu kelompok yang paling terbuka untuk berdiskusi dan memberikan pendapat jujur ketika saya mulai terlalu terbawa emosi dalam menghadapi masalah kelompok.</p>
 <hr>
-</section>
-</section>
-<section id="panduan-evaluasi-mandiri-rubrik-portofolio" class="level2">
-<h2 class="anchored" data-anchor-id="panduan-evaluasi-mandiri-rubrik-portofolio"><strong>Panduan Evaluasi Mandiri (Rubrik Portofolio)</strong></h2>
-<p>Simpan lembar kerja ini ke dalam <strong>Portofolio Komunikasi</strong> Anda [3, 134]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen [13, 159]:</p>
-<ol type="1">
-<li><strong>Pemisahan Fakta vs Cerita:</strong> Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi? [13, 159]</li>
-<li><strong>Kekayaan Alternatif:</strong> Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda? [13, 159]</li>
-<li><strong>Kematangan Emosional:</strong> Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin? [13, 159]</li>
-<li><strong>Kepemilikan Tindakan:</strong> Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan? [13, 159]</li>
-</ol>
 
 
+</section>
 </section>
 </section>
 
@@ -383,7 +357,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/sabsibb\.github\.io\/kipp-students\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -714,7 +688,7 @@ window.Quarto = {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Sabrina Aurelyn Sibarani</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
