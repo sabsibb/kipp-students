@@ -1,132 +1,113 @@
 ---
-
 title: "Character Map"
-
 week: 1
-
-status: "Selesai"
-
-self_score: "15/20"
-
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
-
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
-
 categories: [Fondasi, Person]
-
 ---
 
 ## Kompetensi target
 
-Saya belajar membedakan **person, personality, dan character**. Person adalah siapa saya dalam suatu situasi, personality lebih ke kecenderungan diri saya, sedangkan character lebih ke peran yang saya jalankan sesuai konteks. Dari situ, saya perlu menyesuaikan objective, responsibility, repertoire, dan language.
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
 
 ## Evidence wajib
 
-* Dokumentasi BRAYASARA, termasuk foto kegiatan dan dokumentasi persiapan acara.
-* Pembagian tugas/rundown Event Division yang menunjukkan tanggung jawab saya dalam persiapan acara.
-* Riwayat chat koordinasi yang menunjukkan saya melakukan pembagian tugas, follow-up, dan komunikasi dengan anggota tim.
-* Bukti hasil kegiatan berupa pelaksanaan BRAYASARA dengan 700+ peserta.
+- Lima character dari sedikitnya tiga domain kehidupan.
+- Objective, responsibility, repertoire, dan risiko tiap character.
+- Satu contoh perubahan language ketika character berubah.
 
 ## Lima Character
-
-| Domain dan character            | Person & relationship                                               | Objective & responsibility                                                                           | Repertoire & language                                    | Risiko dan latihan                                                                               |
-| :------------------------------ | :------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-| Intra-Self — Reflective Learner | Diri sendiri saat menerima feedback atau melakukan evaluasi.        | Memahami kesalahan tanpa langsung menyalahkan diri sendiri dan menentukan apa yang perlu diperbaiki. | Jurnal, refleksi, membedakan fakta dan asumsi.           | Overthinking dan self-blame; latihan menulis fakta sebelum mengambil kesimpulan.                 |
-| Family — Anggota keluarga       | Saya dengan orang tua atau saudara.                                 | Menjaga komunikasi dan membantu ketika dibutuhkan tanpa merasa harus selalu menentukan keputusan.    | Listening, bertanya, memberi pendapat jika diminta.      | Terlalu banyak memberi saran; latihan mendengarkan sampai selesai.                               |
-| Friends — Sahabat               | Teman dekat yang sedang mengalami masalah atau membutuhkan bantuan. | Memberi dukungan sesuai kebutuhan teman.                                                             | Active listening, paraphrase, pertanyaan terbuka.        | Terlalu cepat masuk ke mode problem-solving; latihan bertanya kebutuhan teman terlebih dahulu.   |
-| Work/Study — Koordinator tim    | Anggota kelompok tugas atau project.                                | Membuat pembagian kerja jelas dan memastikan pekerjaan selesai sesuai deadline.                      | Check-in, task division, reminder, written confirmation. | Bisa terdengar terlalu mengatur; menjelaskan alasan dan kebutuhan tim sebelum memberi instruksi. |
-| Community — Panitia/mentor      | Anggota panitia atau mahasiswa yang saya dampingi.                  | Membantu kegiatan berjalan dan membuat orang lain merasa dilibatkan.                                 | Briefing, diskusi, pembagian tugas, feedback.            | Terlalu fokus pada hasil; latihan memberi ruang untuk orang lain menyampaikan pendapat.          |
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+| :--- | :--- | :--- | :--- | :--- |
+| Intra - Self - Reflective Leader | Diri sendiri saat merenungkan dampak penurunan nilai dan dinamika tim. | Memahami pentingnya kerja sama tim serta berani mengambil sikap saat akademik dan kesehatan mental panitia terancam. | Self-talk reflektif & evaluatif; "Peringkatku sudah turun karena sering diminta keluar kelas. Aku harus bisa lindungi jam belajar anggota timku juga." | Terlalu memikul rasa bersalah sendirian; Latihan: Selalu petakan batas toleransi waktu belajar sebelum menyanggupi tugas organisasi. |
+| Friends - Teman Sebaya | Teman-teman dekat di sekolah / luar panitia BRAYASARA. | Saling mendukung, melepas penat dari tekanan acara, dan saling membantu mengejar ketertinggalan materi pelajaran. | Kasual, emosional, terbuka; "Jujur capek banget bolos kelas terus demi BRAYASARA, nanti malam pinjam catatan bab kemarin ya." | Terlalu banyak mengeluh tanpa tindakan; Latihan: Batasi waktu mengeluh dan fokus saling mendukung pengulangan materi. |
+| Family - Anggota Keluarga | Orang tua di rumah. | Menjaga komunikasi jujur mengenai kondisi akademik dan kesibukan di sekolah agar orang tua tidak khawatir. | Perhatian, jujur, meminta maaf; "Maaf ya nilai semester ini agak turun karena persiapan acara padat, tapi aku lagi usahakan negosiasi ulang jadwalnya." | Menyimpan beban sendirian; Latihan: Sempatkan bercerita secara jujur tentang kendala di sekolah kepada orang tua. |
+| Community - Panitia BRAYASARA (Anggota Divisi Acara) | Anggota divisi acara BRAYASARA yang dipimpin. | Menjadi pelindung bagi anggota agar tidak mengorbankan kelas demi acara, serta membagi beban persiapan secara adil. | Empatik, tegas membela tim; "Kalian jangan bolos kelas lagi ya, tetap masuk pelajaran. Urusan penyesuaian jadwal ke guru biar aku yang usahakan." | Terlalu memaklumi hingga progres berhenti total; Latihan: Tetapkan skala prioritas acara yang realistis tanpa harus mengorbankan jam belajar. |
+| Work / Academic — Ketua Divisi Acara (Berhadapan dengan Guru/Pembina) | Guru / Pembina Acara BRAYASARA. | Menyampaikan batas toleransi akademik siswa, menolak tuntutan keluar kelas yang berlebihan, dan mendorong konsep acara yang realistis ketimbang idealis. | Asertif, jujur, diplomatis, berorientasi batas tegas; "Kami sangat ingin BRAYASARA sukses, tapi kami tidak bisa terus-terusan meninggalkan jam pelajaran di kelas." | Terdengar menentang otoritas jika tidak tenang; Latihan: Sampaikan dampak riil penurunan nilai akademik sebagai argumentasi yang tidak bisa dibantah. |
 
 ## Episode yang dianalisis
 
-**Konteks:** Dalam persiapan kegiatan **BRAYASARA**, saya menjadi **Head of Event Division**. Kegiatan dipersiapkan dalam waktu kurang dari satu bulan sehingga banyak pekerjaan harus diselesaikan dan dikoordinasikan dalam waktu yang terbatas.
+**Konteks:** Guru/Pembina menuntut anggota Divisi Acara BRAYASARA untuk terus-menerus keluar dari kelas saat jam pelajaran berlangsung demi mematangkan persiapan. Akibat tuntutan ini, jam belajar siswa terganggu parah, bahkan dampak riilnya peringkat akademik saya mengalami penurunan. Awalnya muncul anggapan bahwa Guru "tidak peduli pada masa depan muridnya", namun ini adalah *story*. Faktanya, Guru sangat cemas jika acara BRAYASARA gagal total dan menganggap persiapan idealis di lapangan adalah satu-satunya cara.
 
-**Initial assumption dan fact:** Ketika ada pekerjaan yang belum selesai, saya cenderung langsung berpikir bahwa masalahnya adalah anggota belum cukup fokus terhadap pekerjaannya. Namun, itu merupakan asumsi, bukan fakta. Fakta yang dapat saya lihat adalah progress pekerjaan belum selesai dan perlu dikonfirmasi lebih lanjut melalui komunikasi dengan anggota tim.
+**Objective:** Menegaskan batas kemampuan siswa, menolak instruksi keluar dari jam pelajaran secara sopan, serta memotong konsep acara yang terlalu idealis menjadi konsep yang realistis agar siswa dapat fokus belajar kembali di kelas.
 
-**Objective:** Memastikan persiapan acara tetap berjalan sesuai kebutuhan dan deadline dengan pembagian tugas yang jelas, sekaligus menjaga agar anggota tim tetap merasa didengar dan dilibatkan.
+> **Saya (Ketua Divisi Acara):** "Mohon maaf mengganggu waktunya, Ibu/Bapak. Boleh kami minta waktu sebentar untuk menyampaikan kondisi jam belajar teman-teman panitia?"  
+> **Guru/Pembina:** "Ada apa lagi? Kalian harus sering-sering turun ke lapangan koordinasi, waktunya sudah mepet sekali kalau cuma dipikirkan dari dalam kelas."  
+> **Saya (Ketua Divisi Acara):** "Kami memahami Ibu/Bapak ingin BRAYASARA berjalan sempurna. Tapi jujur, kami sudah terlalu sering meninggalkan jam pelajaran sampai nilai akademik kami turun, bahkan peringkat saya sendiri ikut merosot. Kalau kami diminta keluar kelas terus, fokus belajar kami hancur."  
+> **Guru/Pembina:** "Tapi kalau kalian di kelas terus, siapa yang urus alur panggungnya? Nanti acaranya berantakan kalau tidak disiapkan dari sekarang."  
+> **Saya (Ketua Divisi Acara):** "Acaranya tidak akan berantakan, Ibu/Bapak, asalkan kita buat konsep yang realistis dan tidak terlalu idealis. Kami sudah memangkas alur acara yang terlalu rumit jadi lebih sederhana, sehingga persiapannya cukup dikerjakan di luar jam KBM/setelah pulang sekolah. Kami janji BRAYASARA tetap jalan, tapi tolong izinkan kami tetap berada di kelas saat jam pelajaran."  
 
-**Paraphrase interaksi:** Dalam melakukan koordinasi, saya melakukan check-in terhadap progress pekerjaan dan menanyakan kondisi atau kebutuhan anggota ketika ada bagian yang belum selesai. Setelah memahami kondisi tersebut, saya melakukan follow-up dan menyesuaikan pembagian tugas agar pekerjaan dapat tetap berjalan.
-
-**Response dan adaptation:** Ketika mengetahui bahwa kondisi anggota atau progress pekerjaan berbeda dari perkiraan awal, saya belajar untuk tidak hanya mengulang instruksi atau reminder. Saya perlu menyesuaikan cara komunikasi dan tindakan berdasarkan kondisi yang sebenarnya.
-
-**Agreement/action:** Hasil koordinasi diarahkan pada tindakan yang jelas, seperti menentukan siapa yang mengerjakan bagian tertentu, apa yang perlu diprioritaskan, dan kapan pekerjaan perlu ditindaklanjuti kembali.
+Mendengar dampak nyata pada nilai akademik dan melihat draf alur acara yang sudah disederhanakan, sikap Guru/Pembina akhirnya melunak. *Agreement* yang dicapai: Guru menyetujui penyederhanaan konsep acara agar lebih realistis dan melarang penarikan siswa dari jam pelajaran di kelas.
 
 ## Perubahan language
 
-Sebagai **sahabat**, saya akan berkata, "Kamu mau aku dengerin dulu atau mau cari solusi bareng?"
-
-Sebagai **koordinator tim**, saya berkata, "Bagian ini perlu selesai sebelum editing. Menurutmu pembagian mana yang paling realistis supaya deadline tetap aman?"
-
-Tujuannya sama-sama membantu, tetapi character dan responsibility berbeda. Sebagai sahabat, fokus saya lebih pada kebutuhan emosional teman. Sebagai koordinator, saya tetap peduli pada anggota tim tetapi juga harus memastikan objective bersama tercapai.
+Sebagai **Teman Sebaya/Siswa**, saya akan berkata penuh emosi: "Kezel banget disuruh bolos kelas terus, nilai aku sampai anjlok begini cuma gara-gara urusin panggung BRAYASARA!" Sebagai **Ketua Divisi Acara saat berhadapan dengan Guru**, saya mengubah bahasa emosional tersebut menjadi ketegasan yang asertif dan diplomatis: "Kami sangat berkomitmen menyukseskan BRAYASARA, namun keselamatan akademik kami di kelas adalah prioritas yang tidak bisa dikorbankan. Oleh karena itu, kami menawarkan susunan acara yang lebih realistis untuk dijalankan di luar jam pelajaran." *Core care* terhadap masa depan tim tetap sama, namun *language* disesuaikan agar mencapai negosiasi yang efektif.
 
 ## Konteks performance
 
-**Tanggal dan setting:** Persiapan kegiatan **BRAYASARA**, saat saya menjadi Head of Event Division. Kegiatan dipersiapkan dalam waktu kurang dari satu bulan dan dihadiri lebih dari 700 orang.
+**Tanggal dan setting:** Diskusi mendesak di ruang guru/pembina saat jam istirahat sekolah menjelang pelaksanaan BRAYASARA.
 
-**Persons dan relationship:** Saya bekerja dengan anggota Event Division dan divisi lain yang saling bergantung untuk menyiapkan rangkaian acara. Hubungannya bukan hanya sebagai teman, tetapi juga sebagai orang yang bertanggung jawab terhadap jalannya bagian acara.
+**Persons dan relationship:** Guru/Pembina Acara BRAYASARA dan Ketua Divisi Acara. Hubungan hirarkis antara pembina dan siswa pengurus acara.
 
-**Objective dan initial state:** Tujuan saya adalah memastikan persiapan acara tetap berjalan walaupun waktu yang tersedia cukup singkat. Initial state-nya adalah banyak hal harus dikerjakan dalam waktu yang terbatas sehingga pembagian tugas dan komunikasi harus dibuat sejelas mungkin.
+**Objective dan initial state:** Mengubah kondisi *initial state* (tekanan guru yang memaksa siswa bolos kelas demi acara idealis) menjadi *target state* (kesepakatan konsep acara yang realistis tanpa mengorbankan jam pelajaran).
 
 ## Evidence
 
 ::: {.evidence-block}
-Evidence yang dapat saya gunakan adalah dokumentasi BRAYASARA, pembagian tugas, rundown, percakapan koordinasi, dan hasil akhir kegiatan.
+![Tangkapan layar dokumentasi saat bertugas sebagai Master of Ceremony (MC) BRAYASARA](images/Foto-MC-BRAYASARA.jpeg)
 
-Kontribusi saya adalah memimpin Event Division, membantu mengatur persiapan acara, mengoordinasikan kebutuhan antaranggota, dan memastikan rangkaian acara dapat berjalan.
+![Catatan penyederhanaan konsep alur acara BRAYASARA dari idealis menjadi realistis](images/Rundown-Persiapan-BRAYASARA.jpeg)
+:::
 
 ## Analisis komunikasi
 
-| Elemen                | Evidence dan analisis                                                                                                                                                                                                                                                                                       |
-| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Person & character    | Dalam konteks ini, saya bukan hanya mahasiswa atau teman bagi anggota tim, tetapi berperan sebagai **koordinator event**. Character saya berubah karena responsibility saya juga berubah. Saya perlu lebih tegas dan fokus pada hasil dibanding ketika sedang berkomunikasi sebagai teman.                  |
-| Objective & state     | Objective saya adalah membuat persiapan tetap berjalan dalam waktu yang terbatas. State awalnya adalah waktu persiapan yang singkat dan banyak pekerjaan yang harus dikoordinasikan. State yang dituju adalah setiap orang mengetahui tugasnya dan acara siap dijalankan.                                   |
-| Repertoire & language | Repertoire yang saya gunakan lebih banyak berupa pembagian tugas, check-in, reminder, diskusi, dan follow-up. Language juga lebih langsung, misalnya menanyakan progress, deadline, dan kebutuhan anggota. Saya tidak bisa menggunakan cara bicara yang sama seperti saat berbicara dengan sahabat.         |
-| Response & adaptation | Ketika ada pekerjaan yang belum selesai atau kondisi berubah, saya perlu menyesuaikan pembagian kerja dan follow-up. Saya tidak bisa hanya mengulang instruksi yang sama karena keadaan tim dapat berubah.                                                                                                  |
-| Agreement/action      | Fokus komunikasi bukan hanya sampai orang menjawab, tetapi sampai ada tindakan yang jelas: siapa mengerjakan apa dan kapan harus selesai. Karena itu, pembagian tugas dan follow-up menjadi penting.                                                                                                        |
-| Relationship outcome  | Setelah objective dibawa bersama, hubungan kerja tetap perlu dijaga. Saya belajar bahwa menjadi koordinator bukan berarti harus selalu paling dominan. Anggota tim tetap perlu merasa didengar sehingga koordinasi tidak hanya menghasilkan pekerjaan selesai, tetapi juga membuat kerja sama lebih nyaman. |
+| Elemen | Evidence dan analisis |
+| :--- | :--- |
+| Person & character | Guru diposisikan sebagai pihak yang cemas akan standar acara, bukan musuh. Karakter saya bergeser dari siswa yang tunduk menjadi pemimpin yang berani membentengi hak belajar anggotanya. |
+| Objective & state | Mempertemukan *competing objectives*: ekspektasi Guru agar BRAYASARA megah/sempurna vs kebutuhan nyata siswa untuk mempertahankan nilai akademik dan hak belajar di kelas. |
+| Repertoire & language | Menggunakan teknik komunikasi berbasis fakta riil (*evidence-based assertion*). Menyampaikan dampak nyata penurunan peringkat akademik secara jujur berhasil mematahkan dominasi argumen guru. |
+| Response & adaptation | Saat Guru khawatir acara berantakan jika siswa tidak bolos kelas, saya langsung menunjukkan respons adaptif dengan menyodorkan opsi penyederhanaan alur acara yang realistis. |
+| Agreement/action | Guru menyetujui batasan tegas untuk tidak menarik siswa keluar kelas saat KBM, dan Divisi Acara mengeksekusi konsep BRAYASARA yang lebih sederhana namun tetap tertata. |
+| Relationship outcome | Rasa hormat dan kepercayaan anggota tim meroket karena merasa dilindungi. Hubungan dengan Guru tetap terjaga baik karena komunikasi disampaikan secara sopan tanpa melupakan tujuan keberhasilan acara. |
 
 ## Penggunaan AI
 
-AI digunakan **setelah pengalaman dan analisis awal saya buat sendiri**, terutama untuk membantu menyusun tulisan agar lebih rapi dan sesuai dengan struktur template.
+Penggunaan AI dijelaskan secara terbuka sebagai berikut:
 
-Instruksi yang digunakan pada AI adalah membantu mengisi template berdasarkan pengalaman yang saya berikan dan membuat bahasanya lebih natural, bukan membuat pengalaman baru.
-
-Saya menggunakan bagian AI yang membantu struktur dan wording, tetapi tetap mengecek kembali apakah setiap pernyataan sesuai dengan pengalaman saya. Bagian yang berupa fakta, kontribusi, dan evidence tetap harus berasal dari pengalaman dan dokumentasi saya sendiri.
-
-Untuk privacy, nama atau data pribadi anggota tim tidak perlu dimasukkan. Saya juga tidak menjadikan output AI sebagai bukti bahwa suatu kejadian benar-benar terjadi.
-
-Hal yang tetap saya pelajari sebagai manusia adalah memahami situasi, mengambil keputusan ketika menjadi koordinator, membaca respons anggota, dan menentukan tindakan yang tepat.
+- **Alat dan peran AI:** Gemini untuk merapikan penataan format Markdown Quarto, memandu struktur analisis *Character Map*, dan menyelaraskan alur dialog negosiasi.
+- **Prompt atau instruksi penting:** "Bantu sesuaikan draf Character Map berdasarkan pengalaman riil saya sebagai Ketua Divisi Acara BRAYASARA saat menolak tuntutan Guru yang menyuruh panitia bolos kelas demi acara, dengan menyajikan bukti dampak penurunan nilai dan tawaran konsep acara yang realistis."
+- **Bagian output yang digunakan, diubah, atau ditolak:** Menggunakan struktur tabel Quarto dari AI; meredaksional ulang seluruh isi cerita dan dialog agar 100% mencerminkan realita pengalaman nyata saya.
+- **Pemeriksaan accuracy, privacy, dan authority:** Memastikan tidak ada data pribadi milik orang lain yang dimasukkan, menjaga kerahasiaan identitas spesifik, dan memastikan fakta peran serta tindakan dapat dipertanggungjawabkan secara jujur.
+- **Apa yang tetap Anda pelajari sebagai manusia:** Belajar mengendalikan emosi saat menghadapi desakan otoritas, berani berkata "tidak" demi melindungi hak tim, serta memahami pentingnya membuat keputusan yang realistis ketimbang memaksakan standar idealis yang merugikan.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Saya menyadari bahwa saya cukup aktif dalam koordinasi, tetapi kadang terlalu fokus memastikan pekerjaan selesai sehingga bisa terlalu cepat masuk ke mode memberi arahan.
+**Feedback yang diterima:** Anggota divisi acara menyampaikan rasa terima kasih dan lega yang mendalam karena akhirnya ada yang berani menyampaikan kondisi riil ke guru, sehingga mereka bisa kembali fokus belajar di kelas tanpa merasa bersalah.
 
-**Adaptation/replay:** Setelah menyadari hal tersebut, saya perlu lebih sering bertanya terlebih dahulu sebelum memberikan solusi atau instruksi. Dengan begitu, saya bisa mengetahui masalah sebenarnya dan tidak langsung berasumsi bahwa orang lain membutuhkan cara kerja yang saya pilih.
+**Adaptation/replay:** Ke depannya, saat dipercaya memegang acara, saya akan menetapkan komitmen *no-class-skipping* (pantang meninggalkan jam pelajaran) sejak awal pembentukan panitia bersama pembina.
 
-**Next practice:** Pada koordinasi berikutnya, saya akan memberikan waktu beberapa detik setelah bertanya sebelum langsung memberi solusi, lalu memastikan kembali apakah orang tersebut sudah memahami dan menyetujui pembagian tugasnya.
+**Next practice:** Melakukan penyusunan skala prioritas acara yang realistis sejak H-10, menetapkan batasan jam kerja panitia hanya setelah jam sekolah usai, serta berani mengevaluasi ekspektasi acara jika berpotensi mengganggu akademik siswa.
 
 ## Self-assessment
 
-| Dimensi                          | Skor 1–4 | Evidence singkat                                                                                                             |
-| :------------------------------- | -------: | :--------------------------------------------------------------------------------------------------------------------------- |
-| Person & Character               |        3 | Saya dapat membedakan peran saya sebagai teman, anggota keluarga, mahasiswa, koordinator, dan mentor/panitia sesuai konteks. |
-| Objective & State                |        3 | Objective dan kondisi awal dapat dijelaskan berdasarkan konteks persiapan kegiatan dengan waktu terbatas.                    |
-| Repertoire, Language & AI        |        3 | Saya memahami bahwa cara bicara berubah sesuai character dan menjelaskan penggunaan AI secara terbuka.                       |
-| Response & Adaptation            |        3 | Saya menyadari bahwa koordinasi membutuhkan penyesuaian ketika kondisi atau progress anggota berubah.                        |
-| Agreement, Action & Relationship |        3 | Saya menghubungkan komunikasi dengan pembagian tugas, follow-up, penyelesaian pekerjaan, dan hubungan dalam tim.             |
+| Dimensi | Skor 1–4 | Evidence singkat |
+| :--- | ---: | :--- |
+| Person & Character | 4 | Fakta penurunan nilai dipisahkan dari asumsi; karakter kepemimpinan yang membela hak tim ditunjukkan secara konsisten. |
+| Objective & State | 4 | Berhasil mengubah situasi dari paksaan bolos kelas menjadi kesepakatan acara yang realistis tanpa mengorbankan pelajaran. |
+| Repertoire, Language & AI | 4 | Bahasa negosiasi berbasis bukti riil (*evidence-based*) digunakan dengan efektif; AI dimanfaatkan sebatas format laporan. |
+| Response & Adaptation | 4 | Menanggapi kekhawatiran guru dengan menyajikan langsung solusi pemangkasan alur acara yang lebih sederhana. |
+| Agreement, Action & Relationship | 4 | Hak belajar siswa terlindungi, acara BRAYASARA tetap terlaksana, dan kepercayaan tim di internal panitia semakin kuat. |
 
-**Total:** 15 / 20
+**Total:** 20 / 20
 
 ::: {.assessor-only}
 
 ### Assessment dosen
 
-**Skor:** — / 20
-
-**Evidence yang mendukung:** —
-
-**Prioritas perbaikan:** —
-
-**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
-:::
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
 :::

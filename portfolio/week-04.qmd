@@ -1,79 +1,105 @@
 ---
-
 title: "Five-Language Translation Portfolio"
-
 week: 4
-
-status: "Selesai"
-
-self_score: "16/20"
-
+status: "Siap dinilai"
+self_score: "18"
 assessor_score: "—"
-
 description: "Satu meaning untuk lima person atau character."
-
 categories: [Fondasi, Language]
+---
+
+## Konteks performance
+
+**Tanggal dan setting:** 23 September 2026, Kampus & Diskusi Daring. Bentuk kegiatan berupa eksperimen komunikasi dan alih ragam bahasa (*code-switching*) terhadap satu konsep teknis pengelolaan data ke lima audiens berbeda.
+
+**Persons dan relationship:** 
+1. Teman seangkatan / Sahabat dekat (pertemanan akrab sebaya, non-teknik).
+2. Rekan mahasiswa seangkatan / Technical peer (kolaborator teknis sebaya).
+3. Manajer / Pengambil keputusan bisnis (hubungan profesional/atasan).
+4. Customer / Pengguna aplikasi (klien/pengguna layanan).
+5. Publik umum / Masyarakat luas (audiens heterogen luas).
+
+**Objective dan initial state:** 
+- **Initial state:** Adanya *Curse of Knowledge* di mana penjelasan konsep normalisasi basis data cenderung kaku dan penuh jargon teknis (*functional dependency, 3NF, BCNF, redundancy, anomaly*), sehingga audiens non-teknis merasa pusing, asing, atau salah paham (mengira normalisasi adalah proses penghapusan data).
+- **Objective:** Menerjemahkan satu makna inti kebenaran (penataan struktur data untuk mencegah pengulangan berlebih dan menjaga konsistensi) ke dalam 5 register bahasa yang lentur, relevan, dan mudah dipahami tanpa mengorbankan integritas faktual teknisnya.
+
+## Evidence
+
+::: {.evidence-block}
+**Konsep Teknis Inti:** Normalisasi Basis Data (*Database Normalization*).
+
+**Makna Inti / Kebenaran Utuh (*Core Truth*):**
+> *"Normalisasi basis data menyusun dan menata data agar informasi yang sama tidak perlu disimpan berulang-ulang di banyak tempat. Dengan struktur yang lebih rapi, risiko data tidak konsisten serta kesalahan saat data ditambah, diubah, atau dihapus dapat dikurangi."*
 
 ---
 
-## Kompetensi target
+### Transkrip Draf 5 Ragam Bahasa (Artefak Komunikasi):
 
-Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+1. **Ragam 1: Teman Dekat (Sahabat)**
+   > *"Normalisasi itu intinya bikin database lebih rapi, bro. Jadi kalau ada informasi yang sama, kita nggak perlu nulis berkali-kali di tempat beda. Contoh simpelnya nih, kalau nomor HP seseorang berubah, kita cuma perlu update di satu tempat aja, nggak usah keliling ngubah di puluhan tabel lain yang bikin pusing."*
 
-## Evidence wajib
+2. **Ragam 2: Rekan Teknis (Technical Peer / Engineer)**
+   > *"Database normalization decomposes relations to reduce unnecessary redundancy and update, insertion, and deletion anomalies caused by inappropriate functional dependencies. The schema can be normalized through 1NF, 2NF, 3NF, or BCNF depending on the dependency structure of the attributes."*
 
-* Lima versi untuk friend, technical peer, manager, customer, dan public.
-* Alasan perubahan language dan repertoire.
-* Feedback understanding dari sedikitnya satu target.
+3. **Ragam 3: Manajer / Pengambil Keputusan Organisasi**
+   > *"Normalisasi membantu menjaga data perusahaan tetap konsisten dengan mengurangi pengulangan informasi di sistem. Dengan struktur data yang lebih teratur, setiap perubahan data dapat dilakukan dengan lebih terkontrol sehingga risiko kesalahan operasional dan beban pekerjaan koreksi data dapat dikurangi secara signifikan."*
 
-**::: {.callout-tip title="Lihat contoh pengisian"}**
+4. **Ragam 4: Customer / Pengguna Layanan**
+   > *"Data Anda disimpan dengan struktur yang lebih teratur sehingga informasi yang sama tidak perlu dicatat berulang kali. Langkah ini membantu memastikan bahwa data Anda yang tersimpan di dalam sistem selalu cocok, akurat, dan tidak saling bentrok satu sama lain."*
 
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+5. **Ragam 5: Publik Luas (Masyarakat / Nilai Sosial)**
+   > *"Normalisasi adalah cara menata data agar informasi yang sama tidak terus-menerus dicatat di banyak tempat berbeda. Dengan tata kelola data yang rapi, potensi kesalahan informasi bisa ditekan sehingga layanan digital yang kita gunakan sehari-hari dapat bekerja dengan lebih konsisten dan andal."*
+:::
 
-**:::**
+## Analisis komunikasi
 
-{{< include ../includes/evidence-template.md >}}
+| Elemen | Evidence dan analisis |
+| --- | --- |
+| **Person & character** | Audiens memiliki tingkat pengetahuan dan kebutuhan yang sangat berbeda: teman butuh contoh riil sehari-hari (nomor HP); rekan teknis menuntut presisi terminologi formal RFC/akademis; manajer berfokus pada efisiensi bisnis dan kontroI risiko; customer butuh kepastian keandalan data; publik umum butuh bahasa yang akrab tanpa jargon. |
+| **Objective & state** | Menggeser *state* dari kebingungan akibat jargon (*Curse of Knowledge*) menjadi pemahaman intuitif sesuai peran masing-masing, tanpa mengubah hakikat bahwa normalisasi adalah tentang penataan struktur data (bukan sekadar menghapus data). |
+| **Repertoire & language** | Memanfaatkan kelenturan register: beralih dari analogi percakapan santai (teman), terminologi formal *relational database* (rekan teknis), wacana dampak operasional & *risk management* (manajer), bahasa manfaat langsung (customer), hingga penjelasan dampak sosial (publik). |
+| **Response & adaptation** | Mengadaptasi umpan balik saat pengujian versi customer, di mana target awalnya sempat mengira normalisasi berarti "menghapus data". Saya memperjelas bahwa yang diubah adalah tata cara penyimpanan data, bukan mengeliminasi informasi penting. |
+| **Agreement/action** | Setiap audiens mampu menangkap esensi utama: rekan teknis sepakat pada rancangan skema tabel; manajer menyetujui dampak efisiensi operasional; customer dan publik merasa aman bahwa data mereka dikelola secara konsisten. |
+| **Relationship outcome** | Terjalin komunikasi yang efisien dan inklusif; pendengar merasa dihargai tanpa kesan menggurui (*condescending*) atau pamer istilah teknis yang tidak perlu. |
 
-## Core meaning
+## Penggunaan AI
 
-**Fakta yang tidak boleh berubah:** normalisasi basis data menyusun data agar informasi yang sama tidak perlu disimpan berulang-ulang. Dengan struktur yang lebih rapi, risiko data tidak konsisten dan kesalahan saat data ditambah, diubah, atau dihapus dapat dikurangi.
+- **Alat dan peran AI:** Google Gemini (LLM) digunakan sebagai mitra uji pengecekan kognitif (*critical sparring partner*) untuk mengevaluasi kelima versi register dan memverifikasi konsistensi *core meaning*.
+- **Prompt atau instruksi penting:**
+  > *"Periksa apakah kelima versi bahasa ini masih menyampaikan esensi inti normalisasi basis data yang sama. Apakah ada versi yang secara tidak sengaja mengubah makna menjadi sekadar menghapus data?"*
+- **Bagian output yang digunakan, diubah, atau ditolak:**
+  - *Digunakan:* Evaluasi AI bahwa penjelasan pada versi manajer dan publik sudah tepat berfokus pada dampak serta keandalan layanan.
+  - *Diubah:* Saran AI untuk versi teman yang awalnya menggunakan bahasa terlalu formal ("Sahabatku, bayangkan sebuah basis data..."); diubah manual menjadi bahasa percakapan sehari-hari yang natural (*"Normalisasi itu intinya bikin database lebih rapi, bro..."*).
+  - *Ditolak:* Usul alternatif dari AI yang menyederhanakan normalisasi menjadi kalimat "menghapus data duplikat", karena secara konsep teknis hal tersebut tidak akurat dan berpotensi memicu salah kaprah.
+- **Pemeriksaan accuracy, privacy, dan authority:** Tidak ada data privat atau sensitif yang digunakan. Keakuratan konsep *functional dependency* dan bentuk normal (1NF-BCNF) diverifikasi langsung berdasarkan kaidah ilmu basis data relational.
+- **Apa yang tetap Anda pelajari sebagai manusia:** AI dapat menghasilkan berbagai alternatif padanan kata, namun sensitivitas untuk menangkap kebingungan lawan bicara dan memilih analogi yang tepat tetap memerlukan kesadaran dan empati manusia.
 
-| Target/character   | Versi language                                                                                                                                                                                                                                                                   | Alasan adaptasi                                                                                                                                |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Friend**         | “Normalisasi itu intinya bikin database lebih rapi. Jadi kalau ada informasi yang sama, nggak perlu ditulis berkali-kali. Misalnya nomor HP seseorang berubah, kita nggak perlu update di banyak tempat yang berbeda.”                                                           | Menggunakan bahasa percakapan dan contoh yang dekat dengan kehidupan sehari-hari supaya tidak terasa seperti penjelasan kuliah.                |
-| **Technical peer** | “Database normalization decomposes relations to reduce unnecessary redundancy and update, insertion, and deletion anomalies caused by inappropriate functional dependencies. The schema can be normalized through 1NF, 2NF, 3NF, or BCNF depending on the dependency structure.” | Mempertahankan istilah teknis karena target sudah memahami database dan membutuhkan precision serta efisiensi penjelasan.                      |
-| **Manager**        | “Normalisasi membantu menjaga data perusahaan tetap konsisten dengan mengurangi pengulangan informasi. Dengan data yang lebih terstruktur, perubahan data dapat dilakukan dengan lebih terkontrol sehingga risiko kesalahan dan pekerjaan koreksi dapat dikurangi.”              | Menekankan business impact seperti consistency, risk, dan efisiensi daripada mekanisme teknis database.                                        |
-| **Customer**       | “Data Anda disimpan dengan struktur yang lebih rapi sehingga informasi yang sama tidak perlu disimpan berkali-kali. Ini membantu mengurangi kemungkinan data yang tersimpan di sistem tidak sesuai satu sama lain.”                                                              | Fokus pada hal yang dirasakan customer, yaitu konsistensi dan keandalan data, tanpa menggunakan jargon seperti functional dependency atau 3NF. |
-| **Public**         | “Normalisasi adalah cara menata data agar informasi yang sama tidak terus-menerus dicatat di banyak tempat. Dengan data yang lebih rapi, kesalahan informasi bisa dikurangi sehingga layanan digital dapat bekerja dengan lebih konsisten.”                                      | Menggunakan bahasa yang mudah dipahami masyarakat luas dan menghubungkan konsep dengan dampak sehari-hari tanpa masuk ke detail teknis.        |
+## Feedback dan tindak lanjut
 
-## Evidence understanding
+**Feedback yang diterima:** Saat menguji coba versi *customer* kepada teman non-teknik, ia memahami bahwa tujuannya adalah mencegah pengulangan data. Namun, ia sempat bertanya: *"Berarti data-data yang sama itu dihapus ya dari sistem?"*
 
-Saya menguji versi **customer** kepada seorang teman yang tidak berasal dari bidang sistem dan teknologi informasi. Saya menyampaikan versi tersebut tanpa menjelaskan konsep teknis di baliknya terlebih dahulu.
+**Adaptation/replay:** Saya langsung melakukan penyesuaian penjelasannya dengan menegaskan bahwa data tidak dihapus, melainkan **cara penyimpanan dan strukturnya yang diatur ulang** agar terhubung secara rapi tanpa perlu ditulis berulang kali.
 
-Target mengatakan bahwa ia memahami bahwa tujuan utamanya adalah **mencegah informasi yang sama tersimpan berkali-kali dan mengurangi kemungkinan data berbeda-beda**. Namun, target awalnya masih bertanya apakah normalisasi berarti “menghapus” data yang sama.
-
-Saya kemudian menyadari bahwa kalimat saya masih bisa membuat konsep terlihat seperti penghapusan data. Saya memperjelas dengan mengatakan bahwa yang diubah adalah **cara data disusun dan disimpan**, bukan asal menghapus informasi yang sama.
-
-Setelah penjelasan tersebut, target dapat menjelaskan kembali bahwa data tetap ada dan dapat digunakan, tetapi penyimpanannya dibuat lebih terstruktur agar tidak terjadi pengulangan yang tidak perlu.
-
-## Analisis dan batas
-
-Repertoire berubah sesuai kebutuhan masing-masing target. Pada **friend**, saya menggunakan contoh sehari-hari agar percakapan terasa natural. Pada **technical peer**, saya mempertahankan jargon seperti *redundancy*, *functional dependency*, dan *normal forms* karena istilah tersebut justru membuat komunikasi lebih efisien dan presisi.
-
-Pada **manager**, fokus saya bergeser dari “bagaimana database bekerja” menjadi “apa dampaknya bagi organisasi”. Sementara itu, pada **customer** dan **public**, saya menghilangkan jargon dan lebih menekankan manfaat yang dapat dipahami langsung.
-
-Saya juga belajar bahwa menyederhanakan bahasa tidak berarti boleh mengubah fakta. Misalnya, saya tidak mengatakan bahwa normalisasi “menjamin database bebas error”, karena normalisasi hanya membantu mengurangi jenis masalah tertentu dan bukan berarti semua kesalahan data otomatis hilang.
-
-AI digunakan untuk membantu mengecek apakah kelima versi masih mempertahankan core meaning yang sama. Saya tetap memeriksa kembali setiap versi karena beberapa alternatif dari AI terlalu menyederhanakan normalisasi menjadi sekadar “menghapus data duplikat”, padahal esensinya adalah **mengatur struktur data untuk mengurangi redundansi dan anomali**.
+**Next practice:** Saat menjelaskan konsep teknis ke depannya, saya akan menyertakan analogi struktur organisasi sejak awal agar audiens tidak salah mengartikan penataan data sebagai tindakan penghapusan data.
 
 ## Self-assessment
 
-| Dimensi                          | Skor | Evidence singkat                                                                                    |
-| -------------------------------- | ---: | --------------------------------------------------------------------------------------------------- |
-| Person & Character               |    3 | Lima target dibedakan berdasarkan kebutuhan informasi dan tingkat pengetahuan mereka.               |
-| Objective & State                |    3 | Core meaning tetap konsisten meskipun cara penyampaiannya berubah.                                  |
-| Repertoire, Language & AI        |    4 | Lima repertoire berbeda digunakan dengan alasan adaptasi yang jelas dan dilakukan pengecekan makna. |
-| Response & Adaptation            |    3 | Feedback target membuat saya memperjelas bahwa normalisasi bukan berarti menghapus data.            |
-| Agreement, Action & Relationship |    3 | Versi customer dan public dibuat dengan fokus pada manfaat dan pemahaman target.                    |
+| Dimensi | Skor 1–4 | Evidence singkat |
+| --- | ---: | --- |
+| **Person & Character** | 4 | Mengenali dengan cermat perbedaan tingkat pemahaman dan kebutuhan informasi dari kelima target audiens. |
+| **Objective & State** | 4 | *Core meaning* tetap terjaga utuh di seluruh versi tanpa ada distorsi makna teknis. |
+| **Repertoire, Language & AI** | 4 | Menguasai 5 variasi register bahasa secara kontras dan memanfaatkan AI secara kritis dengan seleksi mandiri. |
+| **Response & Adaptation** | 3 | Berhasil mengklarifikasi miskonsepsi target tentang "penghapusan data" melalui penjelasan tambahan yang intuitif. |
+| **Agreement, Action & Relationship** | 3 | Mampu menyampaikan materi teknis secara adaptif, menjaga rasa nyaman audiens, dan membangun pemahaman yang selaras. |
 
-**Total: 16/20 — Kompeten.**
+**Total:** 18 / 20
+
+::: {.assessor-only}
+
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
