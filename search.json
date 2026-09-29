@@ -1617,243 +1617,166 @@
   {
     "objectID": "portfolio/week-04.html",
     "href": "portfolio/week-04.html",
-    "title": "Portfolio KIPP-2",
+    "title": "Five-Language Translation Portfolio",
     "section": "",
-    "text": "title: “Five-Language Translation Portfolio”\nweek: 4\nstatus: “Selesai”\nself_score: “16/20”\nassessor_score: “—”\ndescription: “Satu meaning untuk lima person atau character.”\ncategories: [Fondasi, Language]",
+    "text": "Tanggal dan setting: 23 September 2026, Kampus & Diskusi Daring. Bentuk kegiatan berupa eksperimen komunikasi dan alih ragam bahasa (code-switching) terhadap satu konsep teknis pengelolaan data ke lima audiens berbeda.\nPersons dan relationship: 1. Teman seangkatan / Sahabat dekat (pertemanan akrab sebaya, non-teknik). 2. Rekan mahasiswa seangkatan / Technical peer (kolaborator teknis sebaya). 3. Manajer / Pengambil keputusan bisnis (hubungan profesional/atasan). 4. Customer / Pengguna aplikasi (klien/pengguna layanan). 5. Publik umum / Masyarakat luas (audiens heterogen luas).\nObjective dan initial state: - Initial state: Adanya Curse of Knowledge di mana penjelasan konsep normalisasi basis data cenderung kaku dan penuh jargon teknis (functional dependency, 3NF, BCNF, redundancy, anomaly), sehingga audiens non-teknis merasa pusing, asing, atau salah paham (mengira normalisasi adalah proses penghapusan data). - Objective: Menerjemahkan satu makna inti kebenaran (penataan struktur data untuk mencegah pengulangan berlebih dan menjaga konsistensi) ke dalam 5 register bahasa yang lentur, relevan, dan mudah dipahami tanpa mengorbankan integritas faktual teknisnya.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#kompetensi-target",
-    "href": "portfolio/week-04.html#kompetensi-target",
-    "title": "Portfolio KIPP-2",
-    "section": "Kompetensi target",
-    "text": "Kompetensi target\nMengadaptasi repertoire dan language tanpa mengubah core meaning.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#evidence-wajib",
-    "href": "portfolio/week-04.html#evidence-wajib",
-    "title": "Portfolio KIPP-2",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\n\n::: {.callout-tip title=“Lihat contoh pengisian”}\nBuka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.\n:::",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#konteks-performance",
     "href": "portfolio/week-04.html#konteks-performance",
-    "title": "Portfolio KIPP-2",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "title": "Five-Language Translation Portfolio",
+    "section": "",
+    "text": "Tanggal dan setting: 23 September 2026, Kampus & Diskusi Daring. Bentuk kegiatan berupa eksperimen komunikasi dan alih ragam bahasa (code-switching) terhadap satu konsep teknis pengelolaan data ke lima audiens berbeda.\nPersons dan relationship: 1. Teman seangkatan / Sahabat dekat (pertemanan akrab sebaya, non-teknik). 2. Rekan mahasiswa seangkatan / Technical peer (kolaborator teknis sebaya). 3. Manajer / Pengambil keputusan bisnis (hubungan profesional/atasan). 4. Customer / Pengguna aplikasi (klien/pengguna layanan). 5. Publik umum / Masyarakat luas (audiens heterogen luas).\nObjective dan initial state: - Initial state: Adanya Curse of Knowledge di mana penjelasan konsep normalisasi basis data cenderung kaku dan penuh jargon teknis (functional dependency, 3NF, BCNF, redundancy, anomaly), sehingga audiens non-teknis merasa pusing, asing, atau salah paham (mengira normalisasi adalah proses penghapusan data). - Objective: Menerjemahkan satu makna inti kebenaran (penataan struktur data untuk mencegah pengulangan berlebih dan menjaga konsistensi) ke dalam 5 register bahasa yang lentur, relevan, dan mudah dipahami tanpa mengorbankan integritas faktual teknisnya.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#evidence",
     "href": "portfolio/week-04.html#evidence",
-    "title": "Portfolio KIPP-2",
+    "title": "Five-Language Translation Portfolio",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nKonsep Teknis Inti: Normalisasi Basis Data (Database Normalization).\nMakna Inti / Kebenaran Utuh (Core Truth): &gt; “Normalisasi basis data menyusun dan menata data agar informasi yang sama tidak perlu disimpan berulang-ulang di banyak tempat. Dengan struktur yang lebih rapi, risiko data tidak konsisten serta kesalahan saat data ditambah, diubah, atau dihapus dapat dikurangi.”\n\n\nTranskrip Draf 5 Ragam Bahasa (Artefak Komunikasi):\n\nRagam 1: Teman Dekat (Sahabat) &gt; “Normalisasi itu intinya bikin database lebih rapi, bro. Jadi kalau ada informasi yang sama, kita nggak perlu nulis berkali-kali di tempat beda. Contoh simpelnya nih, kalau nomor HP seseorang berubah, kita cuma perlu update di satu tempat aja, nggak usah keliling ngubah di puluhan tabel lain yang bikin pusing.”\nRagam 2: Rekan Teknis (Technical Peer / Engineer) &gt; “Database normalization decomposes relations to reduce unnecessary redundancy and update, insertion, and deletion anomalies caused by inappropriate functional dependencies. The schema can be normalized through 1NF, 2NF, 3NF, or BCNF depending on the dependency structure of the attributes.”\nRagam 3: Manajer / Pengambil Keputusan Organisasi &gt; “Normalisasi membantu menjaga data perusahaan tetap konsisten dengan mengurangi pengulangan informasi di sistem. Dengan struktur data yang lebih teratur, setiap perubahan data dapat dilakukan dengan lebih terkontrol sehingga risiko kesalahan operasional dan beban pekerjaan koreksi data dapat dikurangi secara signifikan.”\nRagam 4: Customer / Pengguna Layanan &gt; “Data Anda disimpan dengan struktur yang lebih teratur sehingga informasi yang sama tidak perlu dicatat berulang kali. Langkah ini membantu memastikan bahwa data Anda yang tersimpan di dalam sistem selalu cocok, akurat, dan tidak saling bentrok satu sama lain.”\nRagam 5: Publik Luas (Masyarakat / Nilai Sosial) &gt; “Normalisasi adalah cara menata data agar informasi yang sama tidak terus-menerus dicatat di banyak tempat berbeda. Dengan tata kelola data yang rapi, potensi kesalahan informasi bisa ditekan sehingga layanan digital yang kita gunakan sehari-hari dapat bekerja dengan lebih konsisten dan andal.”",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#analisis-komunikasi",
     "href": "portfolio/week-04.html#analisis-komunikasi",
-    "title": "Portfolio KIPP-2",
+    "title": "Five-Language Translation Portfolio",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nAudiens memiliki tingkat pengetahuan dan kebutuhan yang sangat berbeda: teman butuh contoh riil sehari-hari (nomor HP); rekan teknis menuntut presisi terminologi formal RFC/akademis; manajer berfokus pada efisiensi bisnis dan kontroI risiko; customer butuh kepastian keandalan data; publik umum butuh bahasa yang akrab tanpa jargon.\n\n\nObjective & state\nMenggeser state dari kebingungan akibat jargon (Curse of Knowledge) menjadi pemahaman intuitif sesuai peran masing-masing, tanpa mengubah hakikat bahwa normalisasi adalah tentang penataan struktur data (bukan sekadar menghapus data).\n\n\nRepertoire & language\nMemanfaatkan kelenturan register: beralih dari analogi percakapan santai (teman), terminologi formal relational database (rekan teknis), wacana dampak operasional & risk management (manajer), bahasa manfaat langsung (customer), hingga penjelasan dampak sosial (publik).\n\n\nResponse & adaptation\nMengadaptasi umpan balik saat pengujian versi customer, di mana target awalnya sempat mengira normalisasi berarti “menghapus data”. Saya memperjelas bahwa yang diubah adalah tata cara penyimpanan data, bukan mengeliminasi informasi penting.\n\n\nAgreement/action\nSetiap audiens mampu menangkap esensi utama: rekan teknis sepakat pada rancangan skema tabel; manajer menyetujui dampak efisiensi operasional; customer dan publik merasa aman bahwa data mereka dikelola secara konsisten.\n\n\nRelationship outcome\nTerjalin komunikasi yang efisien dan inklusif; pendengar merasa dihargai tanpa kesan menggurui (condescending) atau pamer istilah teknis yang tidak perlu.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#penggunaan-ai",
     "href": "portfolio/week-04.html#penggunaan-ai",
-    "title": "Portfolio KIPP-2",
+    "title": "Five-Language Translation Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat dan peran AI: Google Gemini (LLM) digunakan sebagai mitra uji pengecekan kognitif (critical sparring partner) untuk mengevaluasi kelima versi register dan memverifikasi konsistensi core meaning.\nPrompt atau instruksi penting: &gt; “Periksa apakah kelima versi bahasa ini masih menyampaikan esensi inti normalisasi basis data yang sama. Apakah ada versi yang secara tidak sengaja mengubah makna menjadi sekadar menghapus data?”\nBagian output yang digunakan, diubah, atau ditolak:\n\nDigunakan: Evaluasi AI bahwa penjelasan pada versi manajer dan publik sudah tepat berfokus pada dampak serta keandalan layanan.\nDiubah: Saran AI untuk versi teman yang awalnya menggunakan bahasa terlalu formal (“Sahabatku, bayangkan sebuah basis data…”); diubah manual menjadi bahasa percakapan sehari-hari yang natural (“Normalisasi itu intinya bikin database lebih rapi, bro…”).\nDitolak: Usul alternatif dari AI yang menyederhanakan normalisasi menjadi kalimat “menghapus data duplikat”, karena secara konsep teknis hal tersebut tidak akurat dan berpotensi memicu salah kaprah.\n\nPemeriksaan accuracy, privacy, dan authority: Tidak ada data privat atau sensitif yang digunakan. Keakuratan konsep functional dependency dan bentuk normal (1NF-BCNF) diverifikasi langsung berdasarkan kaidah ilmu basis data relational.\nApa yang tetap Anda pelajari sebagai manusia: AI dapat menghasilkan berbagai alternatif padanan kata, namun sensitivitas untuk menangkap kebingungan lawan bicara dan memilih analogi yang tepat tetap memerlukan kesadaran dan empati manusia.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
     "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "title": "Portfolio KIPP-2",
+    "title": "Five-Language Translation Portfolio",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Saat menguji coba versi customer kepada teman non-teknik, ia memahami bahwa tujuannya adalah mencegah pengulangan data. Namun, ia sempat bertanya: “Berarti data-data yang sama itu dihapus ya dari sistem?”\nAdaptation/replay: Saya langsung melakukan penyesuaian penjelasannya dengan menegaskan bahwa data tidak dihapus, melainkan cara penyimpanan dan strukturnya yang diatur ulang agar terhubung secara rapi tanpa perlu ditulis berulang kali.\nNext practice: Saat menjelaskan konsep teknis ke depannya, saya akan menyertakan analogi struktur organisasi sejak awal agar audiens tidak salah mengartikan penataan data sebagai tindakan penghapusan data.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#self-assessment",
     "href": "portfolio/week-04.html#self-assessment",
-    "title": "Portfolio KIPP-2",
+    "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMengenali dengan cermat perbedaan tingkat pemahaman dan kebutuhan informasi dari kelima target audiens.\n\n\nObjective & State\n4\nCore meaning tetap terjaga utuh di seluruh versi tanpa ada distorsi makna teknis.\n\n\nRepertoire, Language & AI\n4\nMenguasai 5 variasi register bahasa secara kontras dan memanfaatkan AI secara kritis dengan seleksi mandiri.\n\n\nResponse & Adaptation\n3\nBerhasil mengklarifikasi miskonsepsi target tentang “penghapusan data” melalui penjelasan tambahan yang intuitif.\n\n\nAgreement, Action & Relationship\n3\nMampu menyampaikan materi teknis secara adaptif, menjaga rasa nyaman audiens, dan membangun pemahaman yang selaras.\n\n\n\nTotal: 18 / 20\n\nAssessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#core-meaning",
-    "href": "portfolio/week-04.html#core-meaning",
-    "title": "Portfolio KIPP-2",
-    "section": "Core meaning",
-    "text": "Core meaning\nFakta yang tidak boleh berubah: normalisasi basis data menyusun data agar informasi yang sama tidak perlu disimpan berulang-ulang. Dengan struktur yang lebih rapi, risiko data tidak konsisten dan kesalahan saat data ditambah, diubah, atau dihapus dapat dikurangi.\n\n\n\n\n\n\n\n\nTarget/character\nVersi language\nAlasan adaptasi\n\n\n\n\nFriend\n“Normalisasi itu intinya bikin database lebih rapi. Jadi kalau ada informasi yang sama, nggak perlu ditulis berkali-kali. Misalnya nomor HP seseorang berubah, kita nggak perlu update di banyak tempat yang berbeda.”\nMenggunakan bahasa percakapan dan contoh yang dekat dengan kehidupan sehari-hari supaya tidak terasa seperti penjelasan kuliah.\n\n\nTechnical peer\n“Database normalization decomposes relations to reduce unnecessary redundancy and update, insertion, and deletion anomalies caused by inappropriate functional dependencies. The schema can be normalized through 1NF, 2NF, 3NF, or BCNF depending on the dependency structure.”\nMempertahankan istilah teknis karena target sudah memahami database dan membutuhkan precision serta efisiensi penjelasan.\n\n\nManager\n“Normalisasi membantu menjaga data perusahaan tetap konsisten dengan mengurangi pengulangan informasi. Dengan data yang lebih terstruktur, perubahan data dapat dilakukan dengan lebih terkontrol sehingga risiko kesalahan dan pekerjaan koreksi dapat dikurangi.”\nMenekankan business impact seperti consistency, risk, dan efisiensi daripada mekanisme teknis database.\n\n\nCustomer\n“Data Anda disimpan dengan struktur yang lebih rapi sehingga informasi yang sama tidak perlu disimpan berkali-kali. Ini membantu mengurangi kemungkinan data yang tersimpan di sistem tidak sesuai satu sama lain.”\nFokus pada hal yang dirasakan customer, yaitu konsistensi dan keandalan data, tanpa menggunakan jargon seperti functional dependency atau 3NF.\n\n\nPublic\n“Normalisasi adalah cara menata data agar informasi yang sama tidak terus-menerus dicatat di banyak tempat. Dengan data yang lebih rapi, kesalahan informasi bisa dikurangi sehingga layanan digital dapat bekerja dengan lebih konsisten.”\nMenggunakan bahasa yang mudah dipahami masyarakat luas dan menghubungkan konsep dengan dampak sehari-hari tanpa masuk ke detail teknis.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#evidence-understanding",
-    "href": "portfolio/week-04.html#evidence-understanding",
-    "title": "Portfolio KIPP-2",
-    "section": "Evidence understanding",
-    "text": "Evidence understanding\nSaya menguji versi customer kepada seorang teman yang tidak berasal dari bidang sistem dan teknologi informasi. Saya menyampaikan versi tersebut tanpa menjelaskan konsep teknis di baliknya terlebih dahulu.\nTarget mengatakan bahwa ia memahami bahwa tujuan utamanya adalah mencegah informasi yang sama tersimpan berkali-kali dan mengurangi kemungkinan data berbeda-beda. Namun, target awalnya masih bertanya apakah normalisasi berarti “menghapus” data yang sama.\nSaya kemudian menyadari bahwa kalimat saya masih bisa membuat konsep terlihat seperti penghapusan data. Saya memperjelas dengan mengatakan bahwa yang diubah adalah cara data disusun dan disimpan, bukan asal menghapus informasi yang sama.\nSetelah penjelasan tersebut, target dapat menjelaskan kembali bahwa data tetap ada dan dapat digunakan, tetapi penyimpanannya dibuat lebih terstruktur agar tidak terjadi pengulangan yang tidak perlu.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#analisis-dan-batas",
-    "href": "portfolio/week-04.html#analisis-dan-batas",
-    "title": "Portfolio KIPP-2",
-    "section": "Analisis dan batas",
-    "text": "Analisis dan batas\nRepertoire berubah sesuai kebutuhan masing-masing target. Pada friend, saya menggunakan contoh sehari-hari agar percakapan terasa natural. Pada technical peer, saya mempertahankan jargon seperti redundancy, functional dependency, dan normal forms karena istilah tersebut justru membuat komunikasi lebih efisien dan presisi.\nPada manager, fokus saya bergeser dari “bagaimana database bekerja” menjadi “apa dampaknya bagi organisasi”. Sementara itu, pada customer dan public, saya menghilangkan jargon dan lebih menekankan manfaat yang dapat dipahami langsung.\nSaya juga belajar bahwa menyederhanakan bahasa tidak berarti boleh mengubah fakta. Misalnya, saya tidak mengatakan bahwa normalisasi “menjamin database bebas error”, karena normalisasi hanya membantu mengurangi jenis masalah tertentu dan bukan berarti semua kesalahan data otomatis hilang.\nAI digunakan untuk membantu mengecek apakah kelima versi masih mempertahankan core meaning yang sama. Saya tetap memeriksa kembali setiap versi karena beberapa alternatif dari AI terlalu menyederhanakan normalisasi menjadi sekadar “menghapus data duplikat”, padahal esensinya adalah mengatur struktur data untuk mengurangi redundansi dan anomali.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#self-assessment-1",
-    "href": "portfolio/week-04.html#self-assessment-1",
-    "title": "Portfolio KIPP-2",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nLima target dibedakan berdasarkan kebutuhan informasi dan tingkat pengetahuan mereka.\n\n\nObjective & State\n3\nCore meaning tetap konsisten meskipun cara penyampaiannya berubah.\n\n\nRepertoire, Language & AI\n4\nLima repertoire berbeda digunakan dengan alasan adaptasi yang jelas dan dilakukan pengecekan makna.\n\n\nResponse & Adaptation\n3\nFeedback target membuat saya memperjelas bahwa normalisasi bukan berarti menghapus data.\n\n\nAgreement, Action & Relationship\n3\nVersi customer dan public dibuat dengan fokus pada manfaat dan pemahaman target.\n\n\n\nTotal: 16/20 — Kompeten.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-02.html",
     "href": "portfolio/week-02.html",
-    "title": "Portfolio KIPP-2",
+    "title": "Intra-Self Communication Journal",
     "section": "",
-    "text": "title: “Intra-Self Communication Journal”\nweek: 2\nstatus: “Selesai”\nself_score: “15/20”\nassessor_score: “—”\ndescription: “Evidence perubahan dari reaction menuju response.”\ncategories: [Fondasi, Intra-Self]",
+    "text": "Memisahkan event, fact, story, emotion, internal character, choice, dan action.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#kompetensi-target",
     "href": "portfolio/week-02.html#kompetensi-target",
-    "title": "Portfolio KIPP-2",
-    "section": "Kompetensi target",
-    "text": "Kompetensi target\nMemisahkan event, fact, story, emotion, internal character, choice, dan action ketika menghadapi situasi yang membuat saya langsung bereaksi.",
+    "title": "Intra-Self Communication Journal",
+    "section": "",
+    "text": "Memisahkan event, fact, story, emotion, internal character, choice, dan action.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#evidence-wajib",
     "href": "portfolio/week-02.html#evidence-wajib",
-    "title": "Portfolio KIPP-2",
+    "title": "Intra-Self Communication Journal",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.",
+    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\nEpisode: Tekanan Persiapan Acara Besar di Tengah Tuntutan Akademik dan Ketimpangan Tim\n\nEvent: Guru penanggung jawab terus menuntut kesempurnaan acara dengan sisa waktu persiapan hanya 1 bulan, bersamaan dengan tingginya tuntutan akademik untuk mempertahankan ranking, sementara pengerjaan teknis divisi acara seluas 11 orang panitia hanya ditanggung oleh 2–3 orang.\nFact (Pengamatan): Waktu menuju hari H tersisa 30 hari. Ada 8 anggota divisi yang tidak memberikan respons atau tidak berkontribusi nyata dalam pengerjaan teknis. Saya harus merombak rundown hingga pukul 02.00 WIB.\nInitial story: Saya merasa terjebak dan diperlakukan tidak adil. Kenapa saya harus menanggung semua beban ini sendirian? Acara ini akan berantakan dan nilai akademik saya akan hancur karena anggota lain tidak bertanggung jawab dan guru hanya tahu menuntut.\nEmotional/body signal: Marah 9/10 (merasa batas kemampuan pribadi dilanggar), Cemas 8/10 (takut akademik dan acara gagal bersamaan), lelah fisik berat, leher terasa tegang, serta insomnia karena terus memikirkan revisi rundown.\nReactive character: “Sang Korban” (merasa terjebak dan menyalahkan keadaan/orang lain) serta “Sang Pencemas” (membesar-besarkan ancaman kegagalan total di acara maupun akademik).\nDesired character: “Pengelola Respons” yang berfokus pada penetapan batas (boundaries) dan komunikasi asertif, serta “Perencana” yang memetakan prioritas secara terstruktur.\n\nAlternative Narratives:\n\nKebutuhan & Kondisi Anggota: Anggota tim yang pasif mungkin merasa bingung dengan pembagian tugas yang belum spesifik, atau sedang menghadapi kendala pribadi/akademik yang tidak mereka komunikasikan secara terbuka.\nKarakteristik Tuntutan Eksternal: Tuntutan dari guru merupakan bentuk ekspektasi dan kepedulian terhadap keberhasilan acara, bukan serangan personal. Saya memiliki hak untuk menyampaikan batasan kapasitas tim secara jujur dan profesional.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#episode",
-    "href": "portfolio/week-02.html#episode",
-    "title": "Portfolio KIPP-2",
-    "section": "Episode",
-    "text": "Episode\nEvent: Saat mengerjakan draft tugas English, saya membaca ulang bagian opening yang sudah saya buat dan merasa tulisan saya masih kurang kuat dibandingkan yang saya inginkan.\n\n\n\n\n\n\n\nLapisan\nCatatan Saya\n\n\n\n\nFact\nSaya sudah memiliki draft opening dan beberapa bagian masih saya revisi. Ada kalimat yang saya ubah karena terasa kurang jelas dan kurang sesuai dengan tujuan tulisan.\n\n\nInitial story\n“Tulisan saya jelek dan saya sebenarnya tidak terlalu bisa menulis dengan baik.”\n\n\nEmotion/body signal\nFrustrasi 7/10, sedikit cemas, ingin berhenti mengedit karena merasa revisinya tidak selesai-selesai.\n\n\nReactive character\n“Critic” yang langsung menilai hasil tulisan secara keseluruhan dari bagian yang belum memuaskan.\n\n\nDesired character\n“Editor” yang melihat tulisan sebagai sesuatu yang masih bisa diperbaiki dan mencari bagian spesifik yang perlu diubah.\n\n\n\nInitial story saya terlalu jauh dibandingkan fakta. Fakta hanya menunjukkan bahwa ada bagian draft yang masih perlu diperbaiki. Itu tidak otomatis berarti saya tidak bisa menulis.",
+    "objectID": "portfolio/week-02.html#evidence",
+    "href": "portfolio/week-02.html#evidence",
+    "title": "Intra-Self Communication Journal",
+    "section": "Evidence",
+    "text": "Evidence\n\n\nArtefak Digital & Riwayat Waktu: Catatan revisi rundown acara yang diperbarui pada pukul 02.14 WIB menunjukkan beban pengerjaan mandiri di luar jam operasional normal.\nCatatan Evaluasi Internal: Dokumentasi pembagian tugas awal yang memperlihatkan ketimpangan distribusi beban kerja (hanya 3 dari 11 anggota yang aktif mengeksekusi item pekerjaan).\nTindakan Lanjutan (Kontribusi Pribadi): Pembuatan dokumen breakdown tugas baru berbasis checklist dan deadline spesifik yang kemudian dikirimkan ke grup divisi untuk mendelegasikan ulang tanggung jawab secara transparan.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#alternative-narratives",
-    "href": "portfolio/week-02.html#alternative-narratives",
-    "title": "Portfolio KIPP-2",
-    "section": "Alternative narratives",
-    "text": "Alternative narratives\n\nImprovement narrative: Draft yang belum bagus bukan berarti kemampuan saya buruk. Saya memang sedang berada pada tahap revisi, jadi menemukan bagian yang perlu diperbaiki adalah hal yang normal.\nSpecific gap narrative: Masalahnya mungkin bukan “saya tidak bisa menulis”, tetapi ada beberapa bagian yang belum cukup jelas atau belum sesuai dengan tujuan opening.\nProcess narrative: Rasa frustrasi muncul karena saya terlalu melihat hasil akhir, bukan proses memperbaiki satu bagian pada satu waktu.\n\nAlternative kedua paling membantu karena membuat masalah menjadi lebih spesifik. Saya tidak perlu langsung menilai kemampuan diri sendiri; saya hanya perlu mencari bagian mana yang memang masih lemah.",
+    "objectID": "portfolio/week-02.html#analisis-komunikasi",
+    "href": "portfolio/week-02.html#analisis-komunikasi",
+    "title": "Intra-Self Communication Journal",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nTerjadi pergeseran dari “Sang Korban” yang menyalahkan situasi menjadi “Pengelola Respons” yang menyadari bahwa saya memiliki kendali atas tindakan dan batasan diri saya sendiri.\n\n\nObjective & state\nBergeser dari unhealthy state (marah, kewalahan, dan merasa terisolasi) menuju healthy state yang lebih tenang dan fokus pada solusi rasional.\n\n\nRepertoire & language\nMenggunakan teknik “Stop & Breathe” saat merespons revisi malam hari untuk memisahkan antara beban emosional dan tugas teknis yang perlu diselesaikan.\n\n\nResponse & adaptation\nMemilih untuk menunda respons impulsif saat marah, lalu mengubah pendekatan dari mengambil alih semua pekerjaan menjadi menyusun pembagian tugas eksplisit.\n\n\nAgreement/action\nInternal agreement untuk tidak lagi mengerjakan tugas anggota lain secara sepihak, dilanjutkan dengan mengomunikasikan re-delegasi tugas secara rinci kepada tim.\n\n\nRelationship outcome\nMenjaga kedewasaan komunikasi internal. Mencegah timbulnya konflik terbuka akibat ledakan emosi dan membangun sistem kerja yang lebih transparan.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#internal-conversation-dan-agreement",
-    "href": "portfolio/week-02.html#internal-conversation-dan-agreement",
-    "title": "Portfolio KIPP-2",
-    "section": "Internal conversation dan agreement",
-    "text": "Internal conversation dan agreement\n\nCritic: “Kalau opening saja masih harus diubah berkali-kali, berarti tulisan ini memang jelek.”\n\n\nEditor: “Yang belum bagus adalah beberapa bagian dari draft, bukan seluruh kemampuan menulis kita. Coba tunjukkan kalimat mana yang sebenarnya bermasalah.”\n\n\nSaya: “Saya akan berhenti menilai keseluruhan tulisan dan memilih tiga bagian yang paling perlu diperbaiki.”\n\nInternal agreement: Saya akan mengambil jeda sebentar, membaca ulang draft berdasarkan tujuan tulisan, lalu memperbaiki bagian yang paling jelas bermasalah sebelum menilai hasil akhirnya.",
+    "objectID": "portfolio/week-02.html#penggunaan-ai",
+    "href": "portfolio/week-02.html#penggunaan-ai",
+    "title": "Intra-Self Communication Journal",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\nMenggunakan AI (Cermin AI) sebagai pelatih netral untuk menguraikan benang kusut pemaknaan.\n\nPrompt: “Saya merasa sangat burnout dan marah karena persiapan acara sisa 1 bulan, guru menuntut banyak hal, saya harus menjaga ranking akademik, dan dari 11 panitia hanya 2-3 orang yang bekerja. Bantu saya memisahkan antara fakta objektif dari situasi ini dan emosi/asumsi yang membuat saya merasa terjebak.”\nOutput: Bagian analisis yang memisahkan fakta (“sisa waktu 1 bulan”, “8 anggota pasif”) dan vonis/asumsi (“saya terjebak sendirian dan pasti gagal”) saya gunakan sepenuhnya untuk mengaktifkan karakter “Pengelola Respons”.\nPembelajaran Manusia: AI memberikan kejelasan struktur berpikir; namun, keputusan untuk menekan ego, menyadari kelelahan, dan menyikapi situasi secara bijak sepenuhnya membutuhkan kepemimpinan batin dari diri sendiri.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#evidence-tindakan",
-    "href": "portfolio/week-02.html#evidence-tindakan",
-    "title": "Portfolio KIPP-2",
-    "section": "Evidence tindakan",
-    "text": "Evidence tindakan\n\nDraft awal dan draft setelah revisi menunjukkan perubahan pada wording dan struktur opening.\nRiwayat revisi dokumen menunjukkan saya melakukan beberapa perubahan setelah membaca ulang draft.\nVersi akhir lebih fokus pada hook dan hubungan antara contoh awal dengan topik yang dibahas.\n\nEvidence ini menunjukkan perubahan dari reaction (“tulisan saya jelek”) menjadi response yang lebih spesifik (“bagian ini belum jelas, jadi saya perlu memperbaikinya”).",
+    "objectID": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
+    "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
+    "title": "Intra-Self Communication Journal",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan ringkasan berbasis evidence perubahan dari reaksi otomatis ke respon terencana.\nAdaptation/replay: Mengubah kalimat respons di grup dari bentuk keluhan pasif-agresif menjadi pembagian tugas berbasis checklist dan deadline yang tegas untuk 8 anggota yang sebelumnya pasif.\nNext practice: Saat menghadapi kebuntuan dan beban berlebih di kepanitiaan, saya akan melatih pembuatan batasan kerja (boundaries) dan delegasi terbuka sebelum mengambil alih pekerjaan orang lain.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#feedback-ai-dan-refleksi",
-    "href": "portfolio/week-02.html#feedback-ai-dan-refleksi",
-    "title": "Portfolio KIPP-2",
-    "section": "Feedback, AI, dan refleksi",
-    "text": "Feedback, AI, dan refleksi\nSaya menggunakan AI untuk membantu melihat apakah wording tertentu sudah jelas dan natural. Namun, saya tidak menggunakan AI untuk menentukan apakah saya “bisa” atau “tidak bisa” menulis. Saya tetap menentukan sendiri bagian yang ingin dipertahankan, diubah, atau dihapus.\nHal yang paling saya sadari dari episode ini adalah saya cukup cepat mengubah satu kekurangan menjadi penilaian terhadap diri sendiri. Padahal, ketika saya memisahkan fact dan story, masalahnya ternyata jauh lebih kecil dan lebih mudah ditangani.\nNext practice: ketika merasa hasil pekerjaan saya “jelek”, saya akan menulis minimal tiga fakta yang bisa diamati sebelum mengambil kesimpulan tentang diri saya.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
     "objectID": "portfolio/week-02.html#self-assessment",
     "href": "portfolio/week-02.html#self-assessment",
-    "title": "Portfolio KIPP-2",
+    "title": "Intra-Self Communication Journal",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya membedakan character “Critic” dan “Editor” sebagai cara merespons, bukan sebagai identitas tetap.\n\n\nObjective & State\n3\nSaya mengubah tujuan dari sekadar “membuat tulisan bagus” menjadi memperbaiki bagian yang spesifik.\n\n\nRepertoire, Language & AI\n3\nSaya menggunakan self-talk, pause, dan AI secara terbatas untuk membantu proses revisi.\n\n\nResponse & Adaptation\n3\nSetelah memisahkan fact dan story, saya mengubah cara melihat masalah dan melanjutkan revisi.\n\n\nAgreement, Action & Relationship\n3\nInternal agreement menghasilkan tindakan konkret berupa memilih bagian yang perlu diperbaiki dan merevisi draft.\n\n\n\nTotal: 15/20 — Kompeten.\n::: {.assessor-only}",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nBerhasil mengenali “Sang Korban” dan beralih ke “Pengelola Respons”.\n\n\nObjective & State\n3\nMampu meredakan kecemasan dan kelelahan mental menjadi langkah terstruktur.\n\n\nRepertoire, Language & AI\n4\nMenggunakan jeda reflektif dan Cermin AI untuk memisahkan fakta dari emosi.\n\n\nResponse & Adaptation\n3\nMengubah tindakan dari memendam/menyelesaikan sendiri menjadi delegasi tugas.\n\n\nAgreement, Action & Relationship\n3\nMenetapkan batasan kerja yang jelas tanpa merusak dinamika kepanitiaan.\n\n\n\nTotal: 16 / 20\n\nAssessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Intra-Self Communication Journal"
     ]
   },
   {
@@ -1861,7 +1784,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n \n\n\nKompetensi target\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\nKompetensi target\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\nKompetensi target\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\nKompetensi target\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\nKompetensi target\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n16\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n18\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -4765,375 +4688,309 @@
   {
     "objectID": "portfolio/week-01.html",
     "href": "portfolio/week-01.html",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "",
-    "text": "title: “Character Map”\nweek: 1\nstatus: “Selesai”\nself_score: “15/20”\nassessor_score: “—”\ndescription: “Evidence person, personality, character, objective, repertoire, language, action, dan relationship.”\ncategories: [Fondasi, Person]",
+    "text": "Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#kompetensi-target",
     "href": "portfolio/week-01.html#kompetensi-target",
-    "title": "Portfolio KIPP-2",
-    "section": "Kompetensi target",
-    "text": "Kompetensi target\nSaya belajar membedakan person, personality, dan character. Person adalah siapa saya dalam suatu situasi, personality lebih ke kecenderungan diri saya, sedangkan character lebih ke peran yang saya jalankan sesuai konteks. Dari situ, saya perlu menyesuaikan objective, responsibility, repertoire, dan language.",
+    "title": "Character Map",
+    "section": "",
+    "text": "Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#evidence-wajib",
     "href": "portfolio/week-01.html#evidence-wajib",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nDokumentasi BRAYASARA, termasuk foto kegiatan dan dokumentasi persiapan acara.\nPembagian tugas/rundown Event Division yang menunjukkan tanggung jawab saya dalam persiapan acara.\nRiwayat chat koordinasi yang menunjukkan saya melakukan pembagian tugas, follow-up, dan komunikasi dengan anggota tim.\nBukti hasil kegiatan berupa pelaksanaan BRAYASARA dengan 700+ peserta.",
+    "text": "Evidence wajib\n\nLima character dari sedikitnya tiga domain kehidupan.\nObjective, responsibility, repertoire, dan risiko tiap character.\nSatu contoh perubahan language ketika character berubah.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#lima-character",
     "href": "portfolio/week-01.html#lima-character",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Lima Character",
-    "text": "Lima Character\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson & relationship\nObjective & responsibility\nRepertoire & language\nRisiko dan latihan\n\n\n\n\nIntra-Self — Reflective Learner\nDiri sendiri saat menerima feedback atau melakukan evaluasi.\nMemahami kesalahan tanpa langsung menyalahkan diri sendiri dan menentukan apa yang perlu diperbaiki.\nJurnal, refleksi, membedakan fakta dan asumsi.\nOverthinking dan self-blame; latihan menulis fakta sebelum mengambil kesimpulan.\n\n\nFamily — Anggota keluarga\nSaya dengan orang tua atau saudara.\nMenjaga komunikasi dan membantu ketika dibutuhkan tanpa merasa harus selalu menentukan keputusan.\nListening, bertanya, memberi pendapat jika diminta.\nTerlalu banyak memberi saran; latihan mendengarkan sampai selesai.\n\n\nFriends — Sahabat\nTeman dekat yang sedang mengalami masalah atau membutuhkan bantuan.\nMemberi dukungan sesuai kebutuhan teman.\nActive listening, paraphrase, pertanyaan terbuka.\nTerlalu cepat masuk ke mode problem-solving; latihan bertanya kebutuhan teman terlebih dahulu.\n\n\nWork/Study — Koordinator tim\nAnggota kelompok tugas atau project.\nMembuat pembagian kerja jelas dan memastikan pekerjaan selesai sesuai deadline.\nCheck-in, task division, reminder, written confirmation.\nBisa terdengar terlalu mengatur; menjelaskan alasan dan kebutuhan tim sebelum memberi instruksi.\n\n\nCommunity — Panitia/mentor\nAnggota panitia atau mahasiswa yang saya dampingi.\nMembantu kegiatan berjalan dan membuat orang lain merasa dilibatkan.\nBriefing, diskusi, pembagian tugas, feedback.\nTerlalu fokus pada hasil; latihan memberi ruang untuk orang lain menyampaikan pendapat.",
+    "text": "Lima Character\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson & relationship\nObjective & responsibility\nRepertoire & language\nRisiko dan latihan\n\n\n\n\nIntra - Self - Reflective Leader\nDiri sendiri saat merenungkan dampak penurunan nilai dan dinamika tim.\nMemahami pentingnya kerja sama tim serta berani mengambil sikap saat akademik dan kesehatan mental panitia terancam.\nSelf-talk reflektif & evaluatif; “Peringkatku sudah turun karena sering diminta keluar kelas. Aku harus bisa lindungi jam belajar anggota timku juga.”\nTerlalu memikul rasa bersalah sendirian; Latihan: Selalu petakan batas toleransi waktu belajar sebelum menyanggupi tugas organisasi.\n\n\nFriends - Teman Sebaya\nTeman-teman dekat di sekolah / luar panitia BRAYASARA.\nSaling mendukung, melepas penat dari tekanan acara, dan saling membantu mengejar ketertinggalan materi pelajaran.\nKasual, emosional, terbuka; “Jujur capek banget bolos kelas terus demi BRAYASARA, nanti malam pinjam catatan bab kemarin ya.”\nTerlalu banyak mengeluh tanpa tindakan; Latihan: Batasi waktu mengeluh dan fokus saling mendukung pengulangan materi.\n\n\nFamily - Anggota Keluarga\nOrang tua di rumah.\nMenjaga komunikasi jujur mengenai kondisi akademik dan kesibukan di sekolah agar orang tua tidak khawatir.\nPerhatian, jujur, meminta maaf; “Maaf ya nilai semester ini agak turun karena persiapan acara padat, tapi aku lagi usahakan negosiasi ulang jadwalnya.”\nMenyimpan beban sendirian; Latihan: Sempatkan bercerita secara jujur tentang kendala di sekolah kepada orang tua.\n\n\nCommunity - Panitia BRAYASARA (Anggota Divisi Acara)\nAnggota divisi acara BRAYASARA yang dipimpin.\nMenjadi pelindung bagi anggota agar tidak mengorbankan kelas demi acara, serta membagi beban persiapan secara adil.\nEmpatik, tegas membela tim; “Kalian jangan bolos kelas lagi ya, tetap masuk pelajaran. Urusan penyesuaian jadwal ke guru biar aku yang usahakan.”\nTerlalu memaklumi hingga progres berhenti total; Latihan: Tetapkan skala prioritas acara yang realistis tanpa harus mengorbankan jam belajar.\n\n\nWork / Academic — Ketua Divisi Acara (Berhadapan dengan Guru/Pembina)\nGuru / Pembina Acara BRAYASARA.\nMenyampaikan batas toleransi akademik siswa, menolak tuntutan keluar kelas yang berlebihan, dan mendorong konsep acara yang realistis ketimbang idealis.\nAsertif, jujur, diplomatis, berorientasi batas tegas; “Kami sangat ingin BRAYASARA sukses, tapi kami tidak bisa terus-terusan meninggalkan jam pelajaran di kelas.”\nTerdengar menentang otoritas jika tidak tenang; Latihan: Sampaikan dampak riil penurunan nilai akademik sebagai argumentasi yang tidak bisa dibantah.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#episode-yang-dianalisis",
     "href": "portfolio/week-01.html#episode-yang-dianalisis",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Episode yang dianalisis",
-    "text": "Episode yang dianalisis\nKonteks: Dalam persiapan kegiatan BRAYASARA, saya menjadi Head of Event Division. Kegiatan dipersiapkan dalam waktu kurang dari satu bulan sehingga banyak pekerjaan harus diselesaikan dan dikoordinasikan dalam waktu yang terbatas.\nInitial assumption dan fact: Ketika ada pekerjaan yang belum selesai, saya cenderung langsung berpikir bahwa masalahnya adalah anggota belum cukup fokus terhadap pekerjaannya. Namun, itu merupakan asumsi, bukan fakta. Fakta yang dapat saya lihat adalah progress pekerjaan belum selesai dan perlu dikonfirmasi lebih lanjut melalui komunikasi dengan anggota tim.\nObjective: Memastikan persiapan acara tetap berjalan sesuai kebutuhan dan deadline dengan pembagian tugas yang jelas, sekaligus menjaga agar anggota tim tetap merasa didengar dan dilibatkan.\nParaphrase interaksi: Dalam melakukan koordinasi, saya melakukan check-in terhadap progress pekerjaan dan menanyakan kondisi atau kebutuhan anggota ketika ada bagian yang belum selesai. Setelah memahami kondisi tersebut, saya melakukan follow-up dan menyesuaikan pembagian tugas agar pekerjaan dapat tetap berjalan.\nResponse dan adaptation: Ketika mengetahui bahwa kondisi anggota atau progress pekerjaan berbeda dari perkiraan awal, saya belajar untuk tidak hanya mengulang instruksi atau reminder. Saya perlu menyesuaikan cara komunikasi dan tindakan berdasarkan kondisi yang sebenarnya.\nAgreement/action: Hasil koordinasi diarahkan pada tindakan yang jelas, seperti menentukan siapa yang mengerjakan bagian tertentu, apa yang perlu diprioritaskan, dan kapan pekerjaan perlu ditindaklanjuti kembali.",
+    "text": "Episode yang dianalisis\nKonteks: Guru/Pembina menuntut anggota Divisi Acara BRAYASARA untuk terus-menerus keluar dari kelas saat jam pelajaran berlangsung demi mematangkan persiapan. Akibat tuntutan ini, jam belajar siswa terganggu parah, bahkan dampak riilnya peringkat akademik saya mengalami penurunan. Awalnya muncul anggapan bahwa Guru “tidak peduli pada masa depan muridnya”, namun ini adalah story. Faktanya, Guru sangat cemas jika acara BRAYASARA gagal total dan menganggap persiapan idealis di lapangan adalah satu-satunya cara.\nObjective: Menegaskan batas kemampuan siswa, menolak instruksi keluar dari jam pelajaran secara sopan, serta memotong konsep acara yang terlalu idealis menjadi konsep yang realistis agar siswa dapat fokus belajar kembali di kelas.\n\nSaya (Ketua Divisi Acara): “Mohon maaf mengganggu waktunya, Ibu/Bapak. Boleh kami minta waktu sebentar untuk menyampaikan kondisi jam belajar teman-teman panitia?”\nGuru/Pembina: “Ada apa lagi? Kalian harus sering-sering turun ke lapangan koordinasi, waktunya sudah mepet sekali kalau cuma dipikirkan dari dalam kelas.”\nSaya (Ketua Divisi Acara): “Kami memahami Ibu/Bapak ingin BRAYASARA berjalan sempurna. Tapi jujur, kami sudah terlalu sering meninggalkan jam pelajaran sampai nilai akademik kami turun, bahkan peringkat saya sendiri ikut merosot. Kalau kami diminta keluar kelas terus, fokus belajar kami hancur.”\nGuru/Pembina: “Tapi kalau kalian di kelas terus, siapa yang urus alur panggungnya? Nanti acaranya berantakan kalau tidak disiapkan dari sekarang.”\nSaya (Ketua Divisi Acara): “Acaranya tidak akan berantakan, Ibu/Bapak, asalkan kita buat konsep yang realistis dan tidak terlalu idealis. Kami sudah memangkas alur acara yang terlalu rumit jadi lebih sederhana, sehingga persiapannya cukup dikerjakan di luar jam KBM/setelah pulang sekolah. Kami janji BRAYASARA tetap jalan, tapi tolong izinkan kami tetap berada di kelas saat jam pelajaran.”\n\nMendengar dampak nyata pada nilai akademik dan melihat draf alur acara yang sudah disederhanakan, sikap Guru/Pembina akhirnya melunak. Agreement yang dicapai: Guru menyetujui penyederhanaan konsep acara agar lebih realistis dan melarang penarikan siswa dari jam pelajaran di kelas.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#perubahan-language",
     "href": "portfolio/week-01.html#perubahan-language",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Perubahan language",
-    "text": "Perubahan language\nSebagai sahabat, saya akan berkata, “Kamu mau aku dengerin dulu atau mau cari solusi bareng?”\nSebagai koordinator tim, saya berkata, “Bagian ini perlu selesai sebelum editing. Menurutmu pembagian mana yang paling realistis supaya deadline tetap aman?”\nTujuannya sama-sama membantu, tetapi character dan responsibility berbeda. Sebagai sahabat, fokus saya lebih pada kebutuhan emosional teman. Sebagai koordinator, saya tetap peduli pada anggota tim tetapi juga harus memastikan objective bersama tercapai.",
+    "text": "Perubahan language\nSebagai Teman Sebaya/Siswa, saya akan berkata penuh emosi: “Kezel banget disuruh bolos kelas terus, nilai aku sampai anjlok begini cuma gara-gara urusin panggung BRAYASARA!” Sebagai Ketua Divisi Acara saat berhadapan dengan Guru, saya mengubah bahasa emosional tersebut menjadi ketegasan yang asertif dan diplomatis: “Kami sangat berkomitmen menyukseskan BRAYASARA, namun keselamatan akademik kami di kelas adalah prioritas yang tidak bisa dikorbankan. Oleh karena itu, kami menawarkan susunan acara yang lebih realistis untuk dijalankan di luar jam pelajaran.” Core care terhadap masa depan tim tetap sama, namun language disesuaikan agar mencapai negosiasi yang efektif.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#konteks-performance",
     "href": "portfolio/week-01.html#konteks-performance",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Persiapan kegiatan BRAYASARA, saat saya menjadi Head of Event Division. Kegiatan dipersiapkan dalam waktu kurang dari satu bulan dan dihadiri lebih dari 700 orang.\nPersons dan relationship: Saya bekerja dengan anggota Event Division dan divisi lain yang saling bergantung untuk menyiapkan rangkaian acara. Hubungannya bukan hanya sebagai teman, tetapi juga sebagai orang yang bertanggung jawab terhadap jalannya bagian acara.\nObjective dan initial state: Tujuan saya adalah memastikan persiapan acara tetap berjalan walaupun waktu yang tersedia cukup singkat. Initial state-nya adalah banyak hal harus dikerjakan dalam waktu yang terbatas sehingga pembagian tugas dan komunikasi harus dibuat sejelas mungkin.",
+    "text": "Konteks performance\nTanggal dan setting: Diskusi mendesak di ruang guru/pembina saat jam istirahat sekolah menjelang pelaksanaan BRAYASARA.\nPersons dan relationship: Guru/Pembina Acara BRAYASARA dan Ketua Divisi Acara. Hubungan hirarkis antara pembina dan siswa pengurus acara.\nObjective dan initial state: Mengubah kondisi initial state (tekanan guru yang memaksa siswa bolos kelas demi acara idealis) menjadi target state (kesepakatan konsep acara yang realistis tanpa mengorbankan jam pelajaran).",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#evidence",
     "href": "portfolio/week-01.html#evidence",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Evidence",
-    "text": "Evidence\n\nEvidence yang dapat saya gunakan adalah dokumentasi BRAYASARA, pembagian tugas, rundown, percakapan koordinasi, dan hasil akhir kegiatan.\nKontribusi saya adalah memimpin Event Division, membantu mengatur persiapan acara, mengoordinasikan kebutuhan antaranggota, dan memastikan rangkaian acara dapat berjalan.\n\nAnalisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nDalam konteks ini, saya bukan hanya mahasiswa atau teman bagi anggota tim, tetapi berperan sebagai koordinator event. Character saya berubah karena responsibility saya juga berubah. Saya perlu lebih tegas dan fokus pada hasil dibanding ketika sedang berkomunikasi sebagai teman.\n\n\nObjective & state\nObjective saya adalah membuat persiapan tetap berjalan dalam waktu yang terbatas. State awalnya adalah waktu persiapan yang singkat dan banyak pekerjaan yang harus dikoordinasikan. State yang dituju adalah setiap orang mengetahui tugasnya dan acara siap dijalankan.\n\n\nRepertoire & language\nRepertoire yang saya gunakan lebih banyak berupa pembagian tugas, check-in, reminder, diskusi, dan follow-up. Language juga lebih langsung, misalnya menanyakan progress, deadline, dan kebutuhan anggota. Saya tidak bisa menggunakan cara bicara yang sama seperti saat berbicara dengan sahabat.\n\n\nResponse & adaptation\nKetika ada pekerjaan yang belum selesai atau kondisi berubah, saya perlu menyesuaikan pembagian kerja dan follow-up. Saya tidak bisa hanya mengulang instruksi yang sama karena keadaan tim dapat berubah.\n\n\nAgreement/action\nFokus komunikasi bukan hanya sampai orang menjawab, tetapi sampai ada tindakan yang jelas: siapa mengerjakan apa dan kapan harus selesai. Karena itu, pembagian tugas dan follow-up menjadi penting.\n\n\nRelationship outcome\nSetelah objective dibawa bersama, hubungan kerja tetap perlu dijaga. Saya belajar bahwa menjadi koordinator bukan berarti harus selalu paling dominan. Anggota tim tetap perlu merasa didengar sehingga koordinasi tidak hanya menghasilkan pekerjaan selesai, tetapi juga membuat kerja sama lebih nyaman.\n\n\n\n\n\nPenggunaan AI\nAI digunakan setelah pengalaman dan analisis awal saya buat sendiri, terutama untuk membantu menyusun tulisan agar lebih rapi dan sesuai dengan struktur template.\nInstruksi yang digunakan pada AI adalah membantu mengisi template berdasarkan pengalaman yang saya berikan dan membuat bahasanya lebih natural, bukan membuat pengalaman baru.\nSaya menggunakan bagian AI yang membantu struktur dan wording, tetapi tetap mengecek kembali apakah setiap pernyataan sesuai dengan pengalaman saya. Bagian yang berupa fakta, kontribusi, dan evidence tetap harus berasal dari pengalaman dan dokumentasi saya sendiri.\nUntuk privacy, nama atau data pribadi anggota tim tidak perlu dimasukkan. Saya juga tidak menjadikan output AI sebagai bukti bahwa suatu kejadian benar-benar terjadi.\nHal yang tetap saya pelajari sebagai manusia adalah memahami situasi, mengambil keputusan ketika menjadi koordinator, membaca respons anggota, dan menentukan tindakan yang tepat.\n\n\nFeedback dan tindak lanjut\nFeedback yang diterima: Saya menyadari bahwa saya cukup aktif dalam koordinasi, tetapi kadang terlalu fokus memastikan pekerjaan selesai sehingga bisa terlalu cepat masuk ke mode memberi arahan.\nAdaptation/replay: Setelah menyadari hal tersebut, saya perlu lebih sering bertanya terlebih dahulu sebelum memberikan solusi atau instruksi. Dengan begitu, saya bisa mengetahui masalah sebenarnya dan tidak langsung berasumsi bahwa orang lain membutuhkan cara kerja yang saya pilih.\nNext practice: Pada koordinasi berikutnya, saya akan memberikan waktu beberapa detik setelah bertanya sebelum langsung memberi solusi, lalu memastikan kembali apakah orang tersebut sudah memahami dan menyetujui pembagian tugasnya.\n\n\nSelf-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya dapat membedakan peran saya sebagai teman, anggota keluarga, mahasiswa, koordinator, dan mentor/panitia sesuai konteks.\n\n\nObjective & State\n3\nObjective dan kondisi awal dapat dijelaskan berdasarkan konteks persiapan kegiatan dengan waktu terbatas.\n\n\nRepertoire, Language & AI\n3\nSaya memahami bahwa cara bicara berubah sesuai character dan menjelaskan penggunaan AI secara terbuka.\n\n\nResponse & Adaptation\n3\nSaya menyadari bahwa koordinasi membutuhkan penyesuaian ketika kondisi atau progress anggota berubah.\n\n\nAgreement, Action & Relationship\n3\nSaya menghubungkan komunikasi dengan pembagian tugas, follow-up, penyelesaian pekerjaan, dan hubungan dalam tim.\n\n\n\nTotal: 15 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Evidence\n\n\n\n\nTangkapan layar dokumentasi saat bertugas sebagai Master of Ceremony (MC) BRAYASARA\n\n\n\n\n\nCatatan penyederhanaan konsep alur acara BRAYASARA dari idealis menjadi realistis",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#analisis-komunikasi",
     "href": "portfolio/week-01.html#analisis-komunikasi",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nDalam konteks ini, saya bukan hanya mahasiswa atau teman bagi anggota tim, tetapi berperan sebagai koordinator event. Character saya berubah karena responsibility saya juga berubah. Saya perlu lebih tegas dan fokus pada hasil dibanding ketika sedang berkomunikasi sebagai teman.\n\n\nObjective & state\nObjective saya adalah membuat persiapan tetap berjalan dalam waktu yang terbatas. State awalnya adalah waktu persiapan yang singkat dan banyak pekerjaan yang harus dikoordinasikan. State yang dituju adalah setiap orang mengetahui tugasnya dan acara siap dijalankan.\n\n\nRepertoire & language\nRepertoire yang saya gunakan lebih banyak berupa pembagian tugas, check-in, reminder, diskusi, dan follow-up. Language juga lebih langsung, misalnya menanyakan progress, deadline, dan kebutuhan anggota. Saya tidak bisa menggunakan cara bicara yang sama seperti saat berbicara dengan sahabat.\n\n\nResponse & adaptation\nKetika ada pekerjaan yang belum selesai atau kondisi berubah, saya perlu menyesuaikan pembagian kerja dan follow-up. Saya tidak bisa hanya mengulang instruksi yang sama karena keadaan tim dapat berubah.\n\n\nAgreement/action\nFokus komunikasi bukan hanya sampai orang menjawab, tetapi sampai ada tindakan yang jelas: siapa mengerjakan apa dan kapan harus selesai. Karena itu, pembagian tugas dan follow-up menjadi penting.\n\n\nRelationship outcome\nSetelah objective dibawa bersama, hubungan kerja tetap perlu dijaga. Saya belajar bahwa menjadi koordinator bukan berarti harus selalu paling dominan. Anggota tim tetap perlu merasa didengar sehingga koordinasi tidak hanya menghasilkan pekerjaan selesai, tetapi juga membuat kerja sama lebih nyaman.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGuru diposisikan sebagai pihak yang cemas akan standar acara, bukan musuh. Karakter saya bergeser dari siswa yang tunduk menjadi pemimpin yang berani membentengi hak belajar anggotanya.\n\n\nObjective & state\nMempertemukan competing objectives: ekspektasi Guru agar BRAYASARA megah/sempurna vs kebutuhan nyata siswa untuk mempertahankan nilai akademik dan hak belajar di kelas.\n\n\nRepertoire & language\nMenggunakan teknik komunikasi berbasis fakta riil (evidence-based assertion). Menyampaikan dampak nyata penurunan peringkat akademik secara jujur berhasil mematahkan dominasi argumen guru.\n\n\nResponse & adaptation\nSaat Guru khawatir acara berantakan jika siswa tidak bolos kelas, saya langsung menunjukkan respons adaptif dengan menyodorkan opsi penyederhanaan alur acara yang realistis.\n\n\nAgreement/action\nGuru menyetujui batasan tegas untuk tidak menarik siswa keluar kelas saat KBM, dan Divisi Acara mengeksekusi konsep BRAYASARA yang lebih sederhana namun tetap tertata.\n\n\nRelationship outcome\nRasa hormat dan kepercayaan anggota tim meroket karena merasa dilindungi. Hubungan dengan Guru tetap terjaga baik karena komunikasi disampaikan secara sopan tanpa melupakan tujuan keberhasilan acara.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#penggunaan-ai",
     "href": "portfolio/week-01.html#penggunaan-ai",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan setelah pengalaman dan analisis awal saya buat sendiri, terutama untuk membantu menyusun tulisan agar lebih rapi dan sesuai dengan struktur template.\nInstruksi yang digunakan pada AI adalah membantu mengisi template berdasarkan pengalaman yang saya berikan dan membuat bahasanya lebih natural, bukan membuat pengalaman baru.\nSaya menggunakan bagian AI yang membantu struktur dan wording, tetapi tetap mengecek kembali apakah setiap pernyataan sesuai dengan pengalaman saya. Bagian yang berupa fakta, kontribusi, dan evidence tetap harus berasal dari pengalaman dan dokumentasi saya sendiri.\nUntuk privacy, nama atau data pribadi anggota tim tidak perlu dimasukkan. Saya juga tidak menjadikan output AI sebagai bukti bahwa suatu kejadian benar-benar terjadi.\nHal yang tetap saya pelajari sebagai manusia adalah memahami situasi, mengambil keputusan ketika menjadi koordinator, membaca respons anggota, dan menentukan tindakan yang tepat.",
+    "text": "Penggunaan AI\nPenggunaan AI dijelaskan secara terbuka sebagai berikut:\n\nAlat dan peran AI: Gemini untuk merapikan penataan format Markdown Quarto, memandu struktur analisis Character Map, dan menyelaraskan alur dialog negosiasi.\nPrompt atau instruksi penting: “Bantu sesuaikan draf Character Map berdasarkan pengalaman riil saya sebagai Ketua Divisi Acara BRAYASARA saat menolak tuntutan Guru yang menyuruh panitia bolos kelas demi acara, dengan menyajikan bukti dampak penurunan nilai dan tawaran konsep acara yang realistis.”\nBagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur tabel Quarto dari AI; meredaksional ulang seluruh isi cerita dan dialog agar 100% mencerminkan realita pengalaman nyata saya.\nPemeriksaan accuracy, privacy, dan authority: Memastikan tidak ada data pribadi milik orang lain yang dimasukkan, menjaga kerahasiaan identitas spesifik, dan memastikan fakta peran serta tindakan dapat dipertanggungjawabkan secara jujur.\nApa yang tetap Anda pelajari sebagai manusia: Belajar mengendalikan emosi saat menghadapi desakan otoritas, berani berkata “tidak” demi melindungi hak tim, serta memahami pentingnya membuat keputusan yang realistis ketimbang memaksakan standar idealis yang merugikan.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#feedback-dan-tindak-lanjut",
     "href": "portfolio/week-01.html#feedback-dan-tindak-lanjut",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Saya menyadari bahwa saya cukup aktif dalam koordinasi, tetapi kadang terlalu fokus memastikan pekerjaan selesai sehingga bisa terlalu cepat masuk ke mode memberi arahan.\nAdaptation/replay: Setelah menyadari hal tersebut, saya perlu lebih sering bertanya terlebih dahulu sebelum memberikan solusi atau instruksi. Dengan begitu, saya bisa mengetahui masalah sebenarnya dan tidak langsung berasumsi bahwa orang lain membutuhkan cara kerja yang saya pilih.\nNext practice: Pada koordinasi berikutnya, saya akan memberikan waktu beberapa detik setelah bertanya sebelum langsung memberi solusi, lalu memastikan kembali apakah orang tersebut sudah memahami dan menyetujui pembagian tugasnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Anggota divisi acara menyampaikan rasa terima kasih dan lega yang mendalam karena akhirnya ada yang berani menyampaikan kondisi riil ke guru, sehingga mereka bisa kembali fokus belajar di kelas tanpa merasa bersalah.\nAdaptation/replay: Ke depannya, saat dipercaya memegang acara, saya akan menetapkan komitmen no-class-skipping (pantang meninggalkan jam pelajaran) sejak awal pembentukan panitia bersama pembina.\nNext practice: Melakukan penyusunan skala prioritas acara yang realistis sejak H-10, menetapkan batasan jam kerja panitia hanya setelah jam sekolah usai, serta berani mengevaluasi ekspektasi acara jika berpotensi mengganggu akademik siswa.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#self-assessment",
     "href": "portfolio/week-01.html#self-assessment",
-    "title": "Portfolio KIPP-2",
+    "title": "Character Map",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya dapat membedakan peran saya sebagai teman, anggota keluarga, mahasiswa, koordinator, dan mentor/panitia sesuai konteks.\n\n\nObjective & State\n3\nObjective dan kondisi awal dapat dijelaskan berdasarkan konteks persiapan kegiatan dengan waktu terbatas.\n\n\nRepertoire, Language & AI\n3\nSaya memahami bahwa cara bicara berubah sesuai character dan menjelaskan penggunaan AI secara terbuka.\n\n\nResponse & Adaptation\n3\nSaya menyadari bahwa koordinasi membutuhkan penyesuaian ketika kondisi atau progress anggota berubah.\n\n\nAgreement, Action & Relationship\n3\nSaya menghubungkan komunikasi dengan pembagian tugas, follow-up, penyelesaian pekerjaan, dan hubungan dalam tim.\n\n\n\nTotal: 15 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nFakta penurunan nilai dipisahkan dari asumsi; karakter kepemimpinan yang membela hak tim ditunjukkan secara konsisten.\n\n\nObjective & State\n4\nBerhasil mengubah situasi dari paksaan bolos kelas menjadi kesepakatan acara yang realistis tanpa mengorbankan pelajaran.\n\n\nRepertoire, Language & AI\n4\nBahasa negosiasi berbasis bukti riil (evidence-based) digunakan dengan efektif; AI dimanfaatkan sebatas format laporan.\n\n\nResponse & Adaptation\n4\nMenanggapi kekhawatiran guru dengan menyajikan langsung solusi pemangkasan alur acara yang lebih sederhana.\n\n\nAgreement, Action & Relationship\n4\nHak belajar siswa terlindungi, acara BRAYASARA tetap terlaksana, dan kepercayaan tim di internal panitia semakin kuat.\n\n\n\nTotal: 20 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Character Map"
     ]
   },
   {
     "objectID": "portfolio/week-03.html",
     "href": "portfolio/week-03.html",
-    "title": "Portfolio KIPP-2",
+    "title": "Relationship Conversation",
     "section": "",
-    "text": "title: “Relationship Conversation”\nweek: 3\nstatus: “Selesai”\nself_score: “16/20”\nassessor_score: “—”\ndescription: “Evidence listening, boundary, request, dan repair dalam percakapan dengan anggota kelompok.”\ncategories: [Fondasi, Relationship]",
+    "text": "Kompetensi Target:\nMelakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.\n\n\n\n\nTanggal dan Setting:\nDiskusi santai secara langsung (empat mata) di area sepi kampus setelah selesai jam KBM; membahas komitmen pengerjaan tugas kelompok.\nPersons dan Relationship:\nSaya (Ketua/Pengkoordinasi Kelompok) dan A (Anggota Kelompok Tugas). Hubungan interpersonal berupa teman seangkatan dan rekan dalam kelompok tugas biasa.\nObjective dan Initial State:\n\nInitial State: A beberapa kali mengumpulkan bagian tugasnya mendekati deadline internal kelompok. Saya merasa tegang dan jengkel (skor ketegangan subjektif 6/10) karena khawatir pengerjaan bagian lain ikut terbengkalai dan saya harus begadang menunggu file darinya. Di sisi lain, A merasa bersalah namun memiliki kesibukan lain di siang hari.\nObjective State: Menyampaikan kebutuhan saya terkait jadwal pengerjaan tugas tanpa menyalahkan karakter A, memahami kendala riilnya, menetapkan boundary waktu yang proporsional, serta merumuskan request pengiriman draf H-1 agar hubungan kerja kelompok tetap terjaga.\n\n\n\n\n\n\n\nCatatan Kontribusi: Transkrip berikut mendokumentasikan dialog langsung di mana saya bertindak sebagai pendengar aktif yang memfasilitasi A untuk mengeksplorasi kendalanya, menetapkan batas toleransi pengerjaan tugas (boundary), dan melakukan repair atas komunikasi ketus saya sebelumnya.\n\n\n\nSaya:\n“A, gue mau ngobrol sebentar dong soal tugas kelompok kita. Gue perhatiin udah dua kali bagian lu masuknya mepet banget sama deadline internal kita, jadi gue agak keteteran pas mau meriksa dan ngerapiin semuanya.”\nA (Penjelasan Kendala):\n“Iya, sorry banget ya. Gue emang seringnya baru bisa pegang laptop malem-malem soalnya dari siang ada urusan lain.”\nSaya (Listening — Paraphrase & Validasi):\n“Oh, paham. Berarti bukannya lu gak mau ngerjain, tapi emang slot waktu lu baru kosong pas malem ya?”\nA:\n“Iya, bener. Gue baru benar-benar bisa fokus ngetik pas semua urusan siang udah kelar.”\nSaya (Setting Boundary & Formulating Request):\n“Oke, masuk akal sih. Sebenarnya gak masalah lu mau ngetik malem, tapi gue butuh jeda waktu buat cek dan gabungin bagian lu sebelum dikumpul. Boleh gak kalau minimal lu lempar draf kasarnya dulu H-1, walaupun belum rapi-rapi amat?”\nA:\n“Bisa sih. Berarti gue kirim draf mentahannya dulu, entar kalau ada yang kurang baru gue susul revisinya?”\nSaya:\n“Nah iya, gitu maksud gue. Jadi gue bisa nyicil rapiin bagian akhir tanpa harus begadang nungguin lu.”\nA:\n“Oke deh, tugas berikutnya gue bikin gitu ya.”\nSaya (Verbal Repair):\n“Oh iya A, sorry juga ya kalau kemarin-kemarin chat gue di grup sempat kedengeran agak nyebelin atau ketus. Waktu itu gue lagi rada panik dikejar deadline, harusnya gue ngomong santai kayak gini dari awal.”\nA:\n“Santai aja bro, gak apa-apa kok. Gue juga paham lu panik.”\n\n\n\n\n\n\n\n\n\n\n\n\nElemen\nEvidence dan Analisis\n\n\n\n\nPerson & Character\nSaya menghargai otonomi dan kesibukan A tanpa langsung memberikan label negatif seperti “tidak bertanggung jawab”. Karakter saya bergeser dari rasa kesal reaktif menjadi komunikator asertif yang berfokus pada penyelesaian masalah bersama.\n\n\nObjective & State\nPercakapan berhasil menurunkan tingkat ketegangan dari rasa cemas dan jengkel (skor 6/10) menjadi kondisi tenang dan saling mengerti (skor 3/10). Fokus dialog diarahkan dari saling menyalahkan ke arah penyelarasan skema kerja.\n\n\nRepertoire & Language\nMenerapkan observasi objektif berbasis fakta (tugas dua kali dikirim mepet), melakukan paraphrase untuk memvalidasi alasan A, menggunakan bahasa santai (gue-lu) agar tidak kaku, serta menyampaikan verbal repair secara terbuka di akhir obrolan.\n\n\nResponse & Adaptation\nSaat mengetahui kendala utama A adalah keterbatasan waktu di siang hari, saya tidak memaksanya mengubah seluruh jadwal pribadinya, melainkan beradaptasi dengan menawarkan solusi draf kasar H-1.\n\n\nAgreement / Action\nBoundary: Menolak untuk menunggu pengumpulan tugas hingga larut malam demi menjaga waktu istirahat. Action: A berkomitmen mengirimkan draf mentah pengerjaan satu hari sebelum deadline internal (H-1) untuk ditinjau secara bertahap.\n\n\nRelationship Outcome\nPsychological safety di dalam kelompok meningkat. Asumsi bahwa A “tidak peduli tugas” terbantahkan, dan kerja sama kelompok menjadi lebih transparan tanpa ada kekesalan yang dipendam.\n\n\n\n\n\n\n\n\nAlat dan Peran AI:\nAI (Gemini) digunakan sebagai pelatih refleksi dan penyusun format dokumentasi (framing assistant) untuk merapikan catatan mentah percakapan menjadi jurnal portofolio terstruktur.\nPrompt atau Instruksi Penting:\nMeminta AI mengonversi transkrip percakapan nyata dan hasil refleksi saya ke dalam format Minggu 3, dengan mempertahankan gaya bahasa natural (gue-lu), detail cerita orisinal, serta skor evaluasi diri tanpa rekayasa konteks.\nBagian Output yang Digunakan, Diubah, atau Ditolak:\n\nDigunakan: Struktur tabel analisis komunikasi, pembagian seksi laporan, dan format Self-Assessment.\nDiubah: Redaksi percakapan disesuaikan agar tetap terdengar alami dan mencerminkan dialog empat mata yang riil.\nDitolak: Penggunaan istilah akademis yang terlalu kaku dan formal pada dialog transkrip karena tidak sesuai dengan dinamika percakapan sehari-hari.\n\nPemeriksaan Accuracy, Privacy, dan Authority:\nIdentitas rekan disamarkan menjadi inisiat A; isi transkrip dijaga agar tetap jujur sesuai alur pembicaraan nyata; otoritas pengambilan keputusan dan kesimpulan refleksi sepenuhnya berada pada diri saya.\nApa yang Tetap Dipelajari sebagai Manusia:\nMemberanikan diri untuk menegur dan membicarakan ketidaknyamanan secara langsung butuh kedewasaan emosional. Menyampaikan repair secara tulus membutuhkan kejujuran batin yang tidak dapat digantikan oleh teknologi.\n\n\n\n\n\n\nFeedback yang Diterima:\nA menyampaikan bahwa dia menghargai cara saya mengajak ngobrol secara langsung dan santai, serta merasa lega karena saya memahami kesibukannya di siang hari ketimbang memarahinya di grup chat.\nAdaptation / Replay:\nDengan menyampaikan repair di akhir obrolan, suasana ketegangan langsung mencair dan A menyambut kompromi pengerjaan draf H-1 dengan terbuka tanpa merasa dipojokkan.\nNext Practice:\nPada tugas-tugas berikutnya, saya akan membiasakan untuk menyepakati skema pengumpulan draf awal di awal pembentukan kelompok, serta berani menyampaikan boundary secara langsung sebelum emosi menumpuk.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1–4)\nEvidence Singkat\n\n\n\n\nPerson & Character\n4\nMenghargai kondisi A dan mampu memisahkan karakter pribadi dari kendala waktu pengerjaan.\n\n\nObjective & State\n3\nMenguraikan ketegangan emosional (6/10 ke 3/10) dan menyelaraskan tujuan kelompok.\n\n\nRepertoire, Language & AI\n4\nEksekusi parafrasa, penyampaian boundary, request draf H-1, repair, dan dokumentasi AI secara etis.\n\n\nResponse & Adaptation\n3\nBeradaptasi dengan menawarkan solusi draf mentah setelah mengetahui kendala waktu A.\n\n\nAgreement, Action & Relationship\n4\nMenghasilkan kesepakatan konkret (draf H-1), hubungan tetap terjaga, dan pengerjaan berikutnya lebih lancar.\n\n\n\nTotal Skor Mahasiswa: 18 / 20 — (Kategori: Unggul / Sangat Kompeten)\n\n\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#kompetensi-target",
-    "href": "portfolio/week-03.html#kompetensi-target",
-    "title": "Portfolio KIPP-2",
-    "section": "Kompetensi target",
-    "text": "Kompetensi target\nMelakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.",
+    "objectID": "portfolio/week-03.html#konteks-performance",
+    "href": "portfolio/week-03.html#konteks-performance",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Tanggal dan Setting:\nDiskusi santai secara langsung (empat mata) di area sepi kampus setelah selesai jam KBM; membahas komitmen pengerjaan tugas kelompok.\nPersons dan Relationship:\nSaya (Ketua/Pengkoordinasi Kelompok) dan A (Anggota Kelompok Tugas). Hubungan interpersonal berupa teman seangkatan dan rekan dalam kelompok tugas biasa.\nObjective dan Initial State:\n\nInitial State: A beberapa kali mengumpulkan bagian tugasnya mendekati deadline internal kelompok. Saya merasa tegang dan jengkel (skor ketegangan subjektif 6/10) karena khawatir pengerjaan bagian lain ikut terbengkalai dan saya harus begadang menunggu file darinya. Di sisi lain, A merasa bersalah namun memiliki kesibukan lain di siang hari.\nObjective State: Menyampaikan kebutuhan saya terkait jadwal pengerjaan tugas tanpa menyalahkan karakter A, memahami kendala riilnya, menetapkan boundary waktu yang proporsional, serta merumuskan request pengiriman draf H-1 agar hubungan kerja kelompok tetap terjaga.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#evidence-wajib",
-    "href": "portfolio/week-03.html#evidence-wajib",
-    "title": "Portfolio KIPP-2",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.",
+    "objectID": "portfolio/week-03.html#evidence-transcript-dan-catatan-percakapan",
+    "href": "portfolio/week-03.html#evidence-transcript-dan-catatan-percakapan",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Catatan Kontribusi: Transkrip berikut mendokumentasikan dialog langsung di mana saya bertindak sebagai pendengar aktif yang memfasilitasi A untuk mengeksplorasi kendalanya, menetapkan batas toleransi pengerjaan tugas (boundary), dan melakukan repair atas komunikasi ketus saya sebelumnya.\n\n\n\nSaya:\n“A, gue mau ngobrol sebentar dong soal tugas kelompok kita. Gue perhatiin udah dua kali bagian lu masuknya mepet banget sama deadline internal kita, jadi gue agak keteteran pas mau meriksa dan ngerapiin semuanya.”\nA (Penjelasan Kendala):\n“Iya, sorry banget ya. Gue emang seringnya baru bisa pegang laptop malem-malem soalnya dari siang ada urusan lain.”\nSaya (Listening — Paraphrase & Validasi):\n“Oh, paham. Berarti bukannya lu gak mau ngerjain, tapi emang slot waktu lu baru kosong pas malem ya?”\nA:\n“Iya, bener. Gue baru benar-benar bisa fokus ngetik pas semua urusan siang udah kelar.”\nSaya (Setting Boundary & Formulating Request):\n“Oke, masuk akal sih. Sebenarnya gak masalah lu mau ngetik malem, tapi gue butuh jeda waktu buat cek dan gabungin bagian lu sebelum dikumpul. Boleh gak kalau minimal lu lempar draf kasarnya dulu H-1, walaupun belum rapi-rapi amat?”\nA:\n“Bisa sih. Berarti gue kirim draf mentahannya dulu, entar kalau ada yang kurang baru gue susul revisinya?”\nSaya:\n“Nah iya, gitu maksud gue. Jadi gue bisa nyicil rapiin bagian akhir tanpa harus begadang nungguin lu.”\nA:\n“Oke deh, tugas berikutnya gue bikin gitu ya.”\nSaya (Verbal Repair):\n“Oh iya A, sorry juga ya kalau kemarin-kemarin chat gue di grup sempat kedengeran agak nyebelin atau ketus. Waktu itu gue lagi rada panik dikejar deadline, harusnya gue ngomong santai kayak gini dari awal.”\nA:\n“Santai aja bro, gak apa-apa kok. Gue juga paham lu panik.”",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#konteks-dan-relationship-state",
-    "href": "portfolio/week-03.html#konteks-dan-relationship-state",
-    "title": "Portfolio KIPP-2",
-    "section": "Konteks dan relationship state",
-    "text": "Konteks dan relationship state\nSaya mengalami situasi ketika salah satu anggota kelompok beberapa kali mengirim bagian tugas mendekati deadline internal kelompok. Sebelumnya saya hanya mengingatkan melalui chat singkat, tetapi belum pernah membicarakan masalah tersebut secara langsung.\nState sebelum percakapan: hubungan dengan anggota kelompok masih baik dan tidak ada konflik besar, tetapi saya mulai merasa tegang karena khawatir pekerjaan anggota lain ikut tertunda. Saya juga mulai merasa kesal karena harus menyesuaikan pengerjaan saya dengan waktu pengiriman bagian tersebut. Tingkat ketegangan saya sebelum percakapan sekitar 6/10.\nObjective saya: menyampaikan kebutuhan saya terkait timeline kerja kelompok tanpa menyalahkan karakter orang tersebut, sekaligus memahami apakah ada kendala yang membuat bagiannya sering terlambat.",
+    "objectID": "portfolio/week-03.html#analisis-komunikasi",
+    "href": "portfolio/week-03.html#analisis-komunikasi",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Elemen\nEvidence dan Analisis\n\n\n\n\nPerson & Character\nSaya menghargai otonomi dan kesibukan A tanpa langsung memberikan label negatif seperti “tidak bertanggung jawab”. Karakter saya bergeser dari rasa kesal reaktif menjadi komunikator asertif yang berfokus pada penyelesaian masalah bersama.\n\n\nObjective & State\nPercakapan berhasil menurunkan tingkat ketegangan dari rasa cemas dan jengkel (skor 6/10) menjadi kondisi tenang dan saling mengerti (skor 3/10). Fokus dialog diarahkan dari saling menyalahkan ke arah penyelarasan skema kerja.\n\n\nRepertoire & Language\nMenerapkan observasi objektif berbasis fakta (tugas dua kali dikirim mepet), melakukan paraphrase untuk memvalidasi alasan A, menggunakan bahasa santai (gue-lu) agar tidak kaku, serta menyampaikan verbal repair secara terbuka di akhir obrolan.\n\n\nResponse & Adaptation\nSaat mengetahui kendala utama A adalah keterbatasan waktu di siang hari, saya tidak memaksanya mengubah seluruh jadwal pribadinya, melainkan beradaptasi dengan menawarkan solusi draf kasar H-1.\n\n\nAgreement / Action\nBoundary: Menolak untuk menunggu pengumpulan tugas hingga larut malam demi menjaga waktu istirahat. Action: A berkomitmen mengirimkan draf mentah pengerjaan satu hari sebelum deadline internal (H-1) untuk ditinjau secara bertahap.\n\n\nRelationship Outcome\nPsychological safety di dalam kelompok meningkat. Asumsi bahwa A “tidak peduli tugas” terbantahkan, dan kerja sama kelompok menjadi lebih transparan tanpa ada kekesalan yang dipendam.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#potongan-transcript",
-    "href": "portfolio/week-03.html#potongan-transcript",
-    "title": "Portfolio KIPP-2",
-    "section": "Potongan transcript",
-    "text": "Potongan transcript\n\nSaya: “Aku mau ngobrol sebentar soal pembagian tugas kita. Aku perhatiin dua kali bagianmu baru masuk cukup dekat sama deadline internal, jadi aku agak kesulitan buat review dan gabungin semuanya.”\n\n\nTeman: “Iya, maaf. Aku sebenarnya sering ngerjainnya malam karena siangnya ada kegiatan lain.”\n\n\nSaya: “Berarti sebenarnya kamu tetap ngerjain bagiannya, tapi waktunya memang sering baru bisa malam, ya?”\n\n\nTeman: “Iya. Kadang aku baru benar-benar bisa fokus setelah semua kegiatan selesai.”\n\n\nSaya: “Oke, aku ngerti. Aku bukan masalah kalau kamu ngerjain malam, tapi aku butuh ada waktu buat cek dan gabungin bagianmu sebelum deadline. Bisa nggak kalau minimal kamu kirim draft awal satu hari sebelumnya, walaupun belum sempurna?”\n\n\nTeman: “Bisa. Berarti aku kirim draft dulu, terus kalau masih ada yang kurang aku revisi setelahnya?”\n\n\nSaya: “Iya, itu yang aku maksud. Jadi aku bisa mulai ngerjain bagian akhir dulu tanpa harus nunggu semuanya selesai.”\n\n\nTeman: “Oke, aku coba begitu buat tugas berikutnya.”",
+    "objectID": "portfolio/week-03.html#penggunaan-ai",
+    "href": "portfolio/week-03.html#penggunaan-ai",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Alat dan Peran AI:\nAI (Gemini) digunakan sebagai pelatih refleksi dan penyusun format dokumentasi (framing assistant) untuk merapikan catatan mentah percakapan menjadi jurnal portofolio terstruktur.\nPrompt atau Instruksi Penting:\nMeminta AI mengonversi transkrip percakapan nyata dan hasil refleksi saya ke dalam format Minggu 3, dengan mempertahankan gaya bahasa natural (gue-lu), detail cerita orisinal, serta skor evaluasi diri tanpa rekayasa konteks.\nBagian Output yang Digunakan, Diubah, atau Ditolak:\n\nDigunakan: Struktur tabel analisis komunikasi, pembagian seksi laporan, dan format Self-Assessment.\nDiubah: Redaksi percakapan disesuaikan agar tetap terdengar alami dan mencerminkan dialog empat mata yang riil.\nDitolak: Penggunaan istilah akademis yang terlalu kaku dan formal pada dialog transkrip karena tidak sesuai dengan dinamika percakapan sehari-hari.\n\nPemeriksaan Accuracy, Privacy, dan Authority:\nIdentitas rekan disamarkan menjadi inisiat A; isi transkrip dijaga agar tetap jujur sesuai alur pembicaraan nyata; otoritas pengambilan keputusan dan kesimpulan refleksi sepenuhnya berada pada diri saya.\nApa yang Tetap Dipelajari sebagai Manusia:\nMemberanikan diri untuk menegur dan membicarakan ketidaknyamanan secara langsung butuh kedewasaan emosional. Menyampaikan repair secara tulus membutuhkan kejujuran batin yang tidak dapat digantikan oleh teknologi.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#analisis-listening-boundary-dan-repair",
-    "href": "portfolio/week-03.html#analisis-listening-boundary-dan-repair",
-    "title": "Portfolio KIPP-2",
-    "section": "Analisis listening, boundary, dan repair",
-    "text": "Analisis listening, boundary, dan repair\nSaya memulai percakapan dengan menyebutkan observasi yang spesifik, yaitu dua kali bagian tugas dikirim mendekati deadline internal. Saya menghindari label seperti “kamu tidak bertanggung jawab” karena saya belum mengetahui alasan sebenarnya.\nEvidence listening terlihat ketika saya melakukan paraphrase: “Berarti sebenarnya kamu tetap ngerjain bagiannya, tapi waktunya memang sering baru bisa malam, ya?” Paraphrase tersebut membantu saya memastikan bahwa saya memahami alasan keterlambatan dengan benar, bukan hanya berasumsi bahwa teman tersebut tidak serius.\nBoundary: saya membutuhkan waktu minimal satu hari untuk melakukan review dan menggabungkan seluruh bagian tugas.\nRequest: teman mengirim draft awal satu hari sebelum deadline internal, meskipun belum sempurna, kemudian melakukan revisi setelahnya.\nPercakapan ini juga menunjukkan relationship awareness karena saya tidak meminta dia mengubah seluruh jadwalnya. Saya hanya meminta perubahan pada bagian yang langsung memengaruhi kerja kelompok.\nUntuk repair, saya menyadari bahwa sebelumnya saya pernah mengirim pesan pengingat dengan nada agak ketus karena sedang terburu-buru. Setelah percakapan, saya menyampaikan:\n\n“Oh iya, sebelumnya kalau chat-ku kedengarannya agak nyebelin, maaf. Waktu itu aku memang lagi panik karena deadline. Harusnya aku ngomong langsung seperti sekarang.”\n\nTeman menerima permintaan maaf tersebut dan percakapan dilanjutkan tanpa konflik.",
+    "objectID": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
+    "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Feedback yang Diterima:\nA menyampaikan bahwa dia menghargai cara saya mengajak ngobrol secara langsung dan santai, serta merasa lega karena saya memahami kesibukannya di siang hari ketimbang memarahinya di grup chat.\nAdaptation / Replay:\nDengan menyampaikan repair di akhir obrolan, suasana ketegangan langsung mencair dan A menyambut kompromi pengerjaan draf H-1 dengan terbuka tanpa merasa dipojokkan.\nNext Practice:\nPada tugas-tugas berikutnya, saya akan membiasakan untuk menyepakati skema pengumpulan draf awal di awal pembentukan kelompok, serta berani menyampaikan boundary secara langsung sebelum emosi menumpuk.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#relationship-outcome-dan-evidence",
-    "href": "portfolio/week-03.html#relationship-outcome-dan-evidence",
-    "title": "Portfolio KIPP-2",
-    "section": "Relationship outcome dan evidence",
-    "text": "Relationship outcome dan evidence\n\nTercapai kesepakatan bahwa draft awal akan dikirim satu hari sebelum deadline internal.\nTeman menjelaskan alasan keterlambatan sehingga asumsi saya bahwa ia “tidak peduli” dapat dikoreksi.\nSaya berhasil menyampaikan kebutuhan tanpa menyalahkan pribadi teman.\nSetelah percakapan, tingkat ketegangan saya turun dari 6/10 menjadi 3/10.\nPada tugas berikutnya, teman mengirim draft lebih awal sehingga saya memiliki waktu untuk melakukan review.\nEvidence utama berupa catatan pribadi setelah percakapan dan timeline pengumpulan tugas di grup.",
+    "objectID": "portfolio/week-03.html#self-assessment-rekomendasi-dosen",
+    "href": "portfolio/week-03.html#self-assessment-rekomendasi-dosen",
+    "title": "Relationship Conversation",
+    "section": "",
+    "text": "Dimensi Penilaian\nSkor (1–4)\nEvidence Singkat\n\n\n\n\nPerson & Character\n4\nMenghargai kondisi A dan mampu memisahkan karakter pribadi dari kendala waktu pengerjaan.\n\n\nObjective & State\n3\nMenguraikan ketegangan emosional (6/10 ke 3/10) dan menyelaraskan tujuan kelompok.\n\n\nRepertoire, Language & AI\n4\nEksekusi parafrasa, penyampaian boundary, request draf H-1, repair, dan dokumentasi AI secara etis.\n\n\nResponse & Adaptation\n3\nBeradaptasi dengan menawarkan solusi draf mentah setelah mengetahui kendala waktu A.\n\n\nAgreement, Action & Relationship\n4\nMenghasilkan kesepakatan konkret (draf H-1), hubungan tetap terjaga, dan pengerjaan berikutnya lebih lancar.\n\n\n\nTotal Skor Mahasiswa: 18 / 20 — (Kategori: Unggul / Sangat Kompeten)\n\n\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-03.html#self-assessment",
-    "href": "portfolio/week-03.html#self-assessment",
-    "title": "Portfolio KIPP-2",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya mempertimbangkan kondisi dan kebutuhan anggota kelompok tanpa langsung memberi label negatif.\n\n\nObjective & State\n3\nTujuan percakapan dan tingkat ketegangan sebelum percakapan dinyatakan dengan jelas.\n\n\nRepertoire, Language & AI\n3\nMenggunakan observasi, paraphrase, boundary, request, dan repair.\n\n\nResponse & Adaptation\n3\nSaya menyesuaikan solusi setelah mengetahui bahwa kendala utama adalah waktu, bukan keengganan mengerjakan tugas.\n\n\nAgreement, Action & Relationship\n4\nAda kesepakatan konkret mengenai draft awal dan hubungan tetap dijaga.\n\n\n\nTotal: 16/20 — Kompeten.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
+      "Relationship Conversation"
     ]
   },
   {
     "objectID": "portfolio/week-05.html",
     "href": "portfolio/week-05.html",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "",
-    "text": "title: “Professional Discovery Interview”\nweek: 5\nstatus: “Selesai”\nself_score: “15/20”\nassessor_score: “—”\ndescription: “Discovery menuju shared problem statement.”\ncategories: [Professional, Discovery]",
+    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan narasumber profesional.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#kompetensi-target",
     "href": "portfolio/week-05.html#kompetensi-target",
-    "title": "Portfolio KIPP-2",
-    "section": "Kompetensi target",
-    "text": "Kompetensi target\nMendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "title": "Professional Discovery Interview",
+    "section": "",
+    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan narasumber profesional.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#evidence-wajib",
     "href": "portfolio/week-05.html#evidence-wajib",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n::: {.callout-tip title=“Lihat contoh pengisian”}\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.\n:::",
+    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#konteks-performance",
     "href": "portfolio/week-05.html#konteks-performance",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Bulan September 2026, Wawancara langsung tatap muka di area kerja narasumber, berdurasi sekitar 1 jam, dalam konteks analisis proses pemantauan pekerjaan harian dan pengambilan keputusan operasional.\nPersons dan relationship: Narasumber merupakan pemilik usaha / manajer operasional proyek. Hubungan awal adalah relasi profesional-kenalan, sehingga memerlukan pendekatan terstruktur agar diskusi tidak bergeser menjadi sekadar obrolan santai tanpa tujuan bisnis yang objektif.\nObjective dan initial state: - Initial state: Terdapat asumsi sepihak bahwa mitra membutuhkan aplikasi/sistem pencatatan proyek terpusat baru karena cara pemantauan saat ini masih tergolong manual. - Objective: Menggali akar masalah operasional yang sebenarnya, menahan dorongan mempresentasikan solusi teknis di awal (no premature proposing), dan menyepakati rumusan masalah bersama (shared problem statement).",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#evidence",
     "href": "portfolio/week-05.html#evidence",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\n\n1. Asumsi Awal vs Realitas\n\nAsumsi Awal Mahasiswa: Mitra membutuhkan aplikasi atau sistem informasi pencatatan proyek terpusat yang baru untuk menggantikan proses pemantauan manual.\nRealitas Lapangan: Hambatan utama bukan pada media pencatatan (Excel), melainkan keterbaruan data (data freshness) dan rasa ragu sebelum mengambil keputusan akibat informasi di rekap yang belum diperbarui oleh tim di lapangan.\n\n\n\n2. Pertanyaan Penemuan Kebutuhan (5 Pertanyaan Inti)\n\nObservasi: “Bisa diceritakan Pak, terakhir kali Bapak perlu mengecek perkembangan salah satu proyek yang sedang jalan, alurnya seperti apa?”\nDampak: “Di antara dua hal ini, mana yang paling mengganggu operasional: waktu yang habis untuk membuka file, atau rasa ragu karena datanya belum tentu kondisi terbaru?”\nKonteks Peran: “Seberapa besar dampaknya ke keputusan bisnis ketika status progres proyek di lapangan belum pasti?”\nAspirasi: “Kondisi ideal seperti apa yang diharapkan agar pemantauan proyek tetap pasti tanpa menghambat alur kerja?”\nBatas (Constraint): “Jika alur pemantauan ini nanti dirapikan, hal penting apa yang tidak boleh berubah atau tidak boleh terganggu?”\n\n\n\n3. Kutipan Kunci & Parafrasa\n\nKutipan Kunci Narasumber: “Biasanya saya buka file Excel rekap dulu buat lihat statusnya. Nah, kalau informasinya di situ kurang jelas atau ragu, baru saya telepon atau chat lagi orang yang pegang proyek di lapangan.”\nParafrasa Mahasiswa (Mengecek Pemahaman): “Berarti data awal sebenarnya sudah ada di rekap Excel, tetapi untuk memastikan kondisi paling update di lapangan, Bapak masih harus konfirmasi manual lagi ke tim ya?”\nKonfirmasi Narasumber: “Iya betul. Soalnya sering kali file Excel itu belum sempat di-update sama anak-anak lapangan pas mereka lagi padat kerjaan.”\n\n\n\n4. Evolusi Pernyataan Masalah\n\nDraf Awal (Sebelum Konfirmasi):\nMitra membutuhkan sistem informasi pencatatan proyek terpusat berbasis aplikasi untuk mendigitalkan seluruh alur pemantauan progres harian.\nDraf Final / Shared Problem Statement (Setelah Konfirmasi):\n&gt; Pemilik usaha dan pengambil keputusan mengalami kesulitan mendapatkan gambaran terbaru mengenai perkembangan proyek ketika informasi di rekap Excel belum selalu diperbarui oleh tim lapangan, sehingga pengambilan keputusan operasional dan pengadaan material menjadi tertahan.\n&gt; Mereka membutuhkan mekanisme pemantauan yang memberikan kepastian informasi proyek yang terbaru dan andal, dengan mempertimbangkan keterbatasan waktu tim site dan tidak menambah beban kerja administrasi di lapangan.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#analisis-komunikasi",
     "href": "portfolio/week-05.html#analisis-komunikasi",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nNarasumber adalah pengambil keputusan yang berorientasi praktis dan berhati-hati terhadap beban kerja staf site. Saya harus aktif memandu percakapan agar tetap berfokus pada peran dan misi bisnis (komunikasi profesional), bukan sekadar perbincangan umum.\n\n\nObjective & state\nMenggeser tujuan dari yang awalnya ingin “merekomendasikan aplikasi pencatatan baru” menjadi “memahami kendala keterbaruan data di balik pemantauan proyek”. State awal berupa asumsi fitur bergeser ke pemahaman kendala operasional nyata.\n\n\nRepertoire & language\nMenghindari jargon teknis arsitektur perangkat lunak. Menggunakan bahasa masalah berbasis alur kerja sehari-hari (keandalan data, waktu konfirmasi, beban admin lapangan).\n\n\nResponse & adaptation\nSadar akan jebakan Prescription Trap, saya menahan diri untuk tidak langsung menyarankan software tertentu di awal. Saat narasumber menyebutkan kendala keterbaruan data Excel, saya langsung mengadaptasi pertanyaan untuk menggali penyebab riil ketidakpastian data alih-alih memaksakan fitur baru.\n\n\nAgreement/action\nMenghasilkan kesepakatan bersama mengenai shared problem statement yang menitikberatkan pada kepastian data terbaru, bukan pemodelan sistem baru yang membebani.\n\n\nRelationship outcome\nKepercayaan profesional meningkat karena narasumber merasa didengarkan kesulitannya di lapangan, bukan sekadar dijadikan objek pengujian ide tugas perkuliahan.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#penggunaan-ai",
     "href": "portfolio/week-05.html#penggunaan-ai",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat dan peran AI: Menggunakan AI (Gemini) sebagai mitra diskusi untuk menstrukturkan catatan wawancara ke dalam kerangka 5 Pertanyaan Penemuan Kebutuhan dan memvalidasi rumusan Shared Problem Statement.\nPrompt atau instruksi penting: Meminta AI mengidentifikasi potensi bias solusi (prescription bias) dari asumsi awal pembuatan aplikasi proyek dan merapikannya sesuai template Anatomi Problem Statement.\nBagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur formulasi problem statement; menolak saran AI yang menambahkan fitur rekomendasi software otomatis karena tidak sesuai dengan kendala nyata narasumber di lapangan.\nPemeriksaan accuracy, privacy, dan authority: Nama spesifik pemilik dan data proyek dianonimkan untuk menjaga privasi. Seluruh poin analisis diverifikasi langsung berdasarkan fakta percakapan lapangan.\nApa yang tetap Anda pelajari sebagai manusia: Memahami dinamika psikologis bahwa mendengarkan secara aktif membutuhkan disiplin ego untuk menahan diri tidak segera memamerkan solusi.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Narasumber mengapresiasi karena fokus diskusi bergeser ke keandalan data dan beban kerja staf: “Bagus kalau sudut pandangnya begitu, karena mau pakai sistem apa pun kalau anak-anak lapangan merasa ribet menginput, datanya tetap tidak akan update.”\nAdaptation/replay: Di awal wawancara, saya hampir tergoda untuk langsung memperlihatkan konsep aplikasi pencatatan proyek yang sudah saya bayangkan. Setelah menyadari narasumber lebih terganggu oleh keterbaruan data, saya menunda presentasi ide dan beralih melakukan parafrasa atas kekhawatiran operasional beliau.\nNext practice: Pada wawancara discovery berikutnya, saya akan secara eksplisit mengalokasikan timer visual/mental minimal 10 menit pertama murni untuk investigasi dampak masalah dan kendala sebelum membahas alternatif solusi.",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
     "objectID": "portfolio/week-05.html#self-assessment",
     "href": "portfolio/week-05.html#self-assessment",
-    "title": "Portfolio KIPP-2",
+    "title": "Professional Discovery Interview",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nBerhasil menavigasi interaksi menjadi perbincangan profesional yang saling menghargai peran bisnis dan kendala lapangan.\n\n\nObjective & State\n3\nBerhasil mendefinisikan shared problem statement meskipun sempat terpengaruh asumsi awal ingin memvalidasi ide sistem.\n\n\nRepertoire, Language & AI\n4\nMenggunakan parafrasa berorientasi masalah tanpa jargon teknis, serta memanfaatkan AI secara etis untuk pemetaan pola.\n\n\nResponse & Adaptation\n3\nMampu menahan diri dari godaan mendemonstrasikan prototipe dan beradaptasi saat isu keterbaruan data diangkat narasumber.\n\n\nAgreement, Action & Relationship\n4\nMendapatkan validasi eksplisit atas rumusan masalah bersama dan memperkuat kredibilitas serta kepercayaan narasumber.\n\n\n\nTotal: 18 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-05.html#initial-assumption-dan-rencana-discovery",
-    "href": "portfolio/week-05.html#initial-assumption-dan-rencana-discovery",
-    "title": "Portfolio KIPP-2",
-    "section": "Initial assumption dan rencana discovery",
-    "text": "Initial assumption dan rencana discovery\nSaya awalnya berasumsi bahwa pemilik usaha mengalami kesulitan karena belum memiliki sistem yang cukup terpusat untuk memantau proyek. Asumsi saya adalah masalah utamanya terletak pada cara pencatatan yang masih manual.\nNamun, sebelum menyimpulkan solusi, saya melakukan discovery untuk memahami bagaimana proses monitoring proyek berjalan sehari-hari.\nPertanyaan utama:\n\nBisa diceritakan terakhir kali Bapak/Ibu perlu mengecek perkembangan salah satu proyek?\nInformasi apa saja yang biasanya Bapak/Ibu cari dan dari mana mendapatkannya?\nPada bagian mana proses pengecekan terasa paling merepotkan?\nApa dampaknya ketika informasi mengenai proyek belum tersedia atau belum diperbarui?\nSelama ini bagaimana cara Bapak/Ibu mengatasi kondisi tersebut?\nApa yang menurut Bapak/Ibu penting untuk tetap dipertahankan dari proses kerja sekarang?",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-05.html#potongan-transcript",
-    "href": "portfolio/week-05.html#potongan-transcript",
-    "title": "Portfolio KIPP-2",
-    "section": "Potongan transcript",
-    "text": "Potongan transcript\n\nSaya: “Bisa diceritakan terakhir kali Bapak/Ibu perlu mengecek perkembangan salah satu proyek?”\n\n\nNarasumber: “Biasanya saya buka Excel dulu untuk lihat progresnya. Kalau belum jelas, saya tanya lagi ke orang yang pegang proyeknya.”\n\n\nSaya: “Berarti informasi awal biasanya ada di Excel, tetapi untuk memastikan kondisi terbarunya masih perlu konfirmasi ke orang lain?”\n\n\nNarasumber: “Iya. Soalnya kadang yang di Excel belum sempat di-update.”\n\n\nSaya: “Kalau begitu, bagian mana yang paling mengganggu? Waktu untuk buka dan cari datanya, atau karena informasinya belum tentu yang terbaru?”\n\n\nNarasumber: “Lebih ke yang kedua. Kalau saya cuma lihat Excel, kadang saya masih belum yakin proyeknya sudah sampai mana.”\n\n\nSaya: “Seberapa besar dampaknya ketika status proyek belum jelas?”\n\n\nNarasumber: “Saya jadi harus cek lagi sebelum ambil keputusan. Misalnya mau tahu pekerjaan sudah sampai mana atau apa yang masih perlu dibeli, saya harus tanya lagi.”\n\n\nSaya: “Selama ini apa yang biasanya Bapak/Ibu lakukan supaya tetap bisa memantau proyek?”\n\n\nNarasumber: “Saya cek Excel, lalu chat atau telepon orang yang terkait. Jadi memang masih beberapa langkah.”\n\n\nSaya: “Apa yang menurut Bapak/Ibu tidak boleh hilang kalau cara kerja ini nanti diperbaiki?”\n\n\nNarasumber: “Jangan sampai malah jadi ribet buat orang lapangan. Mereka tetap harus bisa fokus kerja, jangan sampai harus input terlalu banyak.”",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-05.html#pembaruan-pembacaan",
-    "href": "portfolio/week-05.html#pembaruan-pembacaan",
-    "title": "Portfolio KIPP-2",
-    "section": "Pembaruan pembacaan",
-    "text": "Pembaruan pembacaan\nInitial assumption bahwa masalah utama adalah belum adanya sistem yang terpusat ternyata terlalu cepat dan belum cukup didukung oleh interview.\nEvidence dari percakapan menunjukkan bahwa masalah yang lebih spesifik adalah kesulitan memperoleh informasi proyek yang terbaru dan cukup meyakinkan untuk digunakan saat melakukan monitoring atau mengambil keputusan. Excel sendiri bukan satu-satunya masalah; narasumber masih harus melakukan konfirmasi melalui chat atau telepon karena informasi yang tersedia dapat belum diperbarui.\nInterview juga menunjukkan constraint penting: proses apa pun yang diperbaiki tidak boleh menambah beban input bagi orang yang bekerja di lapangan.\nSaya menyadari bahwa pada awalnya saya terlalu fokus pada “alat apa yang digunakan”, padahal kebutuhan narasumber lebih dekat dengan kepastian dan kemudahan memperoleh informasi terbaru.\nSatu interview ini belum cukup untuk menyimpulkan bahwa masalah tersebut dialami oleh seluruh pemilik usaha atau seluruh proyek. Temuan ini saya perlakukan sebagai discovery awal, bukan validasi final.\nShared problem statement yang dikonfirmasi narasumber:\n\n“Sebagai pemilik usaha, saya mengalami kesulitan mendapatkan gambaran terbaru mengenai perkembangan proyek ketika informasi di Excel belum selalu diperbarui dan saya masih perlu melakukan konfirmasi ke orang lain, sehingga monitoring dan pengambilan keputusan menjadi lebih lambat. Saya membutuhkan cara untuk memperoleh informasi proyek yang lebih jelas dan terbaru tanpa menambah beban kerja orang di lapangan.”\n\nNarasumber menyatakan bahwa rumusan tersebut cukup menggambarkan kondisinya dan terutama menegaskan bahwa informasi terbaru dan beban kerja tim lapangan merupakan hal yang penting.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-05.html#evidence-feedback-dan-next-step",
-    "href": "portfolio/week-05.html#evidence-feedback-dan-next-step",
-    "title": "Portfolio KIPP-2",
-    "section": "Evidence, feedback, dan next step",
-    "text": "Evidence, feedback, dan next step\n\nCatatan wawancara dengan narasumber yang identitasnya disamarkan.\nParaphrase digunakan selama interview untuk memastikan pemahaman saya terhadap masalah.\nShared problem statement dibacakan kembali kepada narasumber untuk dikonfirmasi.\nFeedback narasumber: masalah yang dirasakan bukan sekadar pencatatan manual, tetapi sulitnya mengetahui kondisi proyek yang benar-benar terbaru tanpa melakukan pengecekan ulang.\nConstraint utama yang dikonfirmasi: proses perbaikan tidak boleh membuat tim lapangan semakin terbebani dengan pekerjaan administrasi.\nNext practice: melakukan interview tambahan dengan pihak lain yang terlibat dalam proyek untuk mengetahui apakah masalah yang sama muncul dari sudut pandang mereka dan membandingkan workaround yang digunakan.\nSaya menahan diri untuk tidak langsung menawarkan bentuk solusi tertentu karena pada tahap discovery belum ada cukup evidence untuk memilih solusi.\n\nAI tidak digunakan untuk menghasilkan isi wawancara. Catatan saya hanya digunakan untuk merapikan struktur analisis setelah percakapan selesai, tanpa memasukkan nama, nomor kontak, atau informasi pribadi narasumber.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-05.html#self-assessment-1",
-    "href": "portfolio/week-05.html#self-assessment-1",
-    "title": "Portfolio KIPP-2",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nPeran pemilik usaha, kebutuhan memperoleh informasi terbaru, dan constraint tim lapangan dipetakan.\n\n\nObjective & State\n3\nAsumsi awal tentang “butuh sistem terpusat” diperbarui berdasarkan evidence interview.\n\n\nRepertoire, Language & AI\n3\nMenggunakan open question, paraphrase, pertanyaan dampak, dan clarification tanpa langsung proposing.\n\n\nResponse & Adaptation\n3\nSaya menahan solusi awal setelah mengetahui bahwa masalah sebenarnya berkaitan dengan kejelasan dan keterbaruan informasi.\n\n\nAgreement, Action & Relationship\n3\nShared problem statement dikonfirmasi narasumber dan ada next step untuk discovery tambahan.\n\n\n\nTotal: 15/20 — Kompeten.",
-    "crumbs": [
-      "Beranda",
-      "Kompetensi target"
+      "Professional Discovery Interview"
     ]
   },
   {
