@@ -1,25 +1,91 @@
 ---
+
 title: "Intra-Self Communication Journal"
+
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+
+status: "Selesai"
+
+self_score: "15/20"
+
 assessor_score: "—"
+
 description: "Evidence perubahan dari reaction menuju response."
+
 categories: [Fondasi, Intra-Self]
+
 ---
 
 ## Kompetensi target
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Memisahkan event, fact, story, emotion, internal character, choice, dan action ketika menghadapi situasi yang membuat saya langsung bereaksi.
 
 ## Evidence wajib
 
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+* Satu episode komunikasi dengan diri sendiri.
+* Initial story dan sedikitnya dua alternative narratives.
+* Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Episode
 
-{{< include ../includes/evidence-template.md >}}
+**Event:** Saat mengerjakan draft tugas English, saya membaca ulang bagian opening yang sudah saya buat dan merasa tulisan saya masih kurang kuat dibandingkan yang saya inginkan.
+
+| Lapisan                 | Catatan Saya                                                                                                                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fact**                | Saya sudah memiliki draft opening dan beberapa bagian masih saya revisi. Ada kalimat yang saya ubah karena terasa kurang jelas dan kurang sesuai dengan tujuan tulisan. |
+| **Initial story**       | “Tulisan saya jelek dan saya sebenarnya tidak terlalu bisa menulis dengan baik.”                                                                                        |
+| **Emotion/body signal** | Frustrasi 7/10, sedikit cemas, ingin berhenti mengedit karena merasa revisinya tidak selesai-selesai.                                                                   |
+| **Reactive character**  | “Critic” yang langsung menilai hasil tulisan secara keseluruhan dari bagian yang belum memuaskan.                                                                       |
+| **Desired character**   | “Editor” yang melihat tulisan sebagai sesuatu yang masih bisa diperbaiki dan mencari bagian spesifik yang perlu diubah.                                                 |
+
+Initial story saya terlalu jauh dibandingkan fakta. Fakta hanya menunjukkan bahwa ada bagian draft yang masih perlu diperbaiki. Itu tidak otomatis berarti saya tidak bisa menulis.
+
+## Alternative narratives
+
+1. **Improvement narrative:** Draft yang belum bagus bukan berarti kemampuan saya buruk. Saya memang sedang berada pada tahap revisi, jadi menemukan bagian yang perlu diperbaiki adalah hal yang normal.
+
+2. **Specific gap narrative:** Masalahnya mungkin bukan “saya tidak bisa menulis”, tetapi ada beberapa bagian yang belum cukup jelas atau belum sesuai dengan tujuan opening.
+
+3. **Process narrative:** Rasa frustrasi muncul karena saya terlalu melihat hasil akhir, bukan proses memperbaiki satu bagian pada satu waktu.
+
+Alternative kedua paling membantu karena membuat masalah menjadi lebih spesifik. Saya tidak perlu langsung menilai kemampuan diri sendiri; saya hanya perlu mencari bagian mana yang memang masih lemah.
+
+## Internal conversation dan agreement
+
+> **Critic:** “Kalau opening saja masih harus diubah berkali-kali, berarti tulisan ini memang jelek.”
+
+> **Editor:** “Yang belum bagus adalah beberapa bagian dari draft, bukan seluruh kemampuan menulis kita. Coba tunjukkan kalimat mana yang sebenarnya bermasalah.”
+
+> **Saya:** “Saya akan berhenti menilai keseluruhan tulisan dan memilih tiga bagian yang paling perlu diperbaiki.”
+
+**Internal agreement:** Saya akan mengambil jeda sebentar, membaca ulang draft berdasarkan tujuan tulisan, lalu memperbaiki bagian yang paling jelas bermasalah sebelum menilai hasil akhirnya.
+
+## Evidence tindakan
+
+* Draft awal dan draft setelah revisi menunjukkan perubahan pada wording dan struktur opening.
+* Riwayat revisi dokumen menunjukkan saya melakukan beberapa perubahan setelah membaca ulang draft.
+* Versi akhir lebih fokus pada hook dan hubungan antara contoh awal dengan topik yang dibahas.
+
+Evidence ini menunjukkan perubahan dari **reaction** (“tulisan saya jelek”) menjadi **response** yang lebih spesifik (“bagian ini belum jelas, jadi saya perlu memperbaikinya”).
+
+## Feedback, AI, dan refleksi
+
+Saya menggunakan AI untuk membantu melihat apakah wording tertentu sudah jelas dan natural. Namun, saya tidak menggunakan AI untuk menentukan apakah saya “bisa” atau “tidak bisa” menulis. Saya tetap menentukan sendiri bagian yang ingin dipertahankan, diubah, atau dihapus.
+
+Hal yang paling saya sadari dari episode ini adalah saya cukup cepat mengubah satu kekurangan menjadi penilaian terhadap diri sendiri. Padahal, ketika saya memisahkan **fact** dan **story**, masalahnya ternyata jauh lebih kecil dan lebih mudah ditangani.
+
+**Next practice:** ketika merasa hasil pekerjaan saya “jelek”, saya akan menulis minimal **tiga fakta yang bisa diamati** sebelum mengambil kesimpulan tentang diri saya.
+
+## Self-assessment
+
+| Dimensi                              | Skor | Evidence singkat                                                                                                 |
+| ------------------------------------ | ---: | ---------------------------------------------------------------------------------------------------------------- |
+| **Person & Character**               |    3 | Saya membedakan character “Critic” dan “Editor” sebagai cara merespons, bukan sebagai identitas tetap.           |
+| **Objective & State**                |    3 | Saya mengubah tujuan dari sekadar “membuat tulisan bagus” menjadi memperbaiki bagian yang spesifik.              |
+| **Repertoire, Language & AI**        |    3 | Saya menggunakan self-talk, pause, dan AI secara terbatas untuk membantu proses revisi.                          |
+| **Response & Adaptation**            |    3 | Setelah memisahkan fact dan story, saya mengubah cara melihat masalah dan melanjutkan revisi.                    |
+| **Agreement, Action & Relationship** |    3 | Internal agreement menghasilkan tindakan konkret berupa memilih bagian yang perlu diperbaiki dan merevisi draft. |
+
+**Total: 15/20 — Kompeten.**
+
+**::: {.assessor-only}**

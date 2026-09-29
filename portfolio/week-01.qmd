@@ -1,25 +1,126 @@
 ---
+
 title: "Character Map"
+
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+
+status: "Selesai"
+
+self_score: "15/20"
+
 assessor_score: "—"
+
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+
 categories: [Fondasi, Person]
+
 ---
 
 ## Kompetensi target
 
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+Saya belajar membedakan **person, personality, dan character**. Person adalah siapa saya dalam suatu situasi, personality lebih ke kecenderungan diri saya, sedangkan character lebih ke peran yang saya jalankan sesuai konteks. Dari situ, saya perlu menyesuaikan objective, responsibility, repertoire, dan language.
 
 ## Evidence wajib
+- Dokumentasi BRAYASARA, termasuk foto kegiatan dan dokumentasi persiapan acara.
+- Pembagian tugas/rundown Event Division yang menunjukkan tanggung jawab saya dalam persiapan acara.
+- Riwayat chat koordinasi yang menunjukkan saya melakukan pembagian tugas, follow-up, dan komunikasi dengan anggota tim.
+- Bukti hasil kegiatan berupa pelaksanaan BRAYASARA dengan 700+ peserta.
 
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+### Lima character
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+| Domain dan character            | Person & relationship                                              | Objective & responsibility                                                                          | Repertoire & language                                   | Risiko dan latihan                                                                              |
+| ------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Intra-Self — reflective learner | Diri sendiri saat menerima feedback atau melakukan evaluasi        | Memahami kesalahan tanpa langsung menyalahkan diri sendiri dan menentukan apa yang perlu diperbaiki | Jurnal, refleksi, membedakan fakta dan asumsi           | Overthinking dan self-blame; latihan menulis fakta sebelum mengambil kesimpulan                 |
+| Family — anggota keluarga       | Saya dengan orang tua atau saudara                                 | Menjaga komunikasi dan membantu ketika dibutuhkan tanpa merasa harus selalu menentukan keputusan    | Listening, bertanya, memberi pendapat jika diminta      | Terlalu banyak memberi saran; latihan mendengarkan sampai selesai                               |
+| Friends — sahabat               | Teman dekat yang sedang mengalami masalah atau membutuhkan bantuan | Memberi dukungan sesuai kebutuhan teman                                                             | Active listening, paraphrase, pertanyaan terbuka        | Terlalu cepat masuk ke mode problem-solving; latihan bertanya kebutuhan teman terlebih dahulu   |
+| Work/Study — koordinator tim    | Anggota kelompok tugas atau project                                | Membuat pembagian kerja jelas dan memastikan pekerjaan selesai sesuai deadline                      | Check-in, task division, reminder, written confirmation | Bisa terdengar terlalu mengatur; menjelaskan alasan dan kebutuhan tim sebelum memberi instruksi |
+| Community — panitia/mentor      | Anggota panitia atau mahasiswa yang saya dampingi                  | Membantu kegiatan berjalan dan membuat orang lain merasa dilibatkan                                 | Briefing, diskusi, pembagian tugas, feedback            | Terlalu fokus pada hasil; latihan memberi ruang untuk orang lain menyampaikan pendapat          |
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Persiapan kegiatan **BRAYASARA**, saat saya menjadi Head of Event Division. Kegiatan dipersiapkan dalam waktu kurang dari satu bulan dan dihadiri lebih dari 700 orang.
+
+**Persons dan relationship:** Saya bekerja dengan anggota divisi event dan divisi lain yang saling bergantung untuk menyiapkan rangkaian acara. Hubungannya bukan hanya sebagai teman, tetapi juga sebagai orang yang bertanggung jawab terhadap jalannya bagian acara.
+
+**Objective dan initial state:** Tujuan saya adalah memastikan persiapan acara tetap berjalan walaupun waktu yang tersedia cukup singkat. Initial state-nya adalah banyak hal harus dikerjakan dalam waktu yang terbatas sehingga pembagian tugas dan komunikasi harus dibuat sejelas mungkin.
+
+## Evidence
+
+**::: {.evidence-block}**
+
+Evidence yang dapat saya gunakan adalah dokumentasi BRAYASARA, pembagian tugas, rundown, percakapan koordinasi, dan hasil akhir kegiatan.
+
+Kontribusi saya adalah memimpin Event Division, membantu mengatur persiapan acara, mengoordinasikan kebutuhan antaranggota, dan memastikan rangkaian acara dapat berjalan.
+
+[Bisa ditempel link Google Drive/foto/chat/rundown yang benar-benar saya miliki.]
+
+**:::**
+
+## Analisis komunikasi
+
+| Elemen                | Evidence dan analisis                                                                                                                                                                                                                                                                                       |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Person & character    | Dalam konteks ini, saya bukan hanya mahasiswa atau teman bagi anggota tim, tetapi berperan sebagai **koordinator event**. Character saya berubah karena responsibility saya juga berubah. Saya perlu lebih tegas dan fokus pada hasil dibanding ketika sedang berkomunikasi sebagai teman.                  |
+| Objective & state     | Objective saya adalah membuat persiapan tetap berjalan dalam waktu yang terbatas. State awalnya adalah waktu persiapan yang singkat dan banyak pekerjaan yang harus dikoordinasikan. State yang dituju adalah setiap orang mengetahui tugasnya dan acara siap dijalankan.                                   |
+| Repertoire & language | Repertoire yang saya gunakan lebih banyak berupa pembagian tugas, check-in, reminder, diskusi, dan follow-up. Language juga lebih langsung, misalnya menanyakan progress, deadline, dan kebutuhan anggota. Saya tidak bisa menggunakan cara bicara yang sama seperti saat berbicara dengan sahabat.         |
+| Response & adaptation | Ketika ada pekerjaan yang belum selesai atau kondisi berubah, saya perlu menyesuaikan pembagian kerja dan follow-up. Saya tidak bisa hanya mengulang instruksi yang sama karena keadaan tim bisa berubah.                                                                                                   |
+| Agreement/action      | Fokus komunikasi bukan hanya sampai orang menjawab, tetapi sampai ada tindakan yang jelas: siapa mengerjakan apa dan kapan harus selesai. Karena itu, pembagian tugas dan follow-up menjadi penting.                                                                                                        |
+| Relationship outcome  | Setelah objective dibawa bersama, hubungan kerja tetap perlu dijaga. Saya belajar bahwa menjadi koordinator bukan berarti harus selalu paling dominan. Anggota tim tetap perlu merasa didengar sehingga koordinasi tidak hanya menghasilkan pekerjaan selesai, tetapi juga membuat kerja sama lebih nyaman. |
+
+## Perubahan language ketika character berubah
+
+Saat saya menjadi **sahabat**, saya lebih mungkin berkata:
+
+> “Kamu mau aku dengerin dulu atau mau cari solusi bareng?”
+
+Tetapi saat menjadi **koordinator tim**, language saya perlu lebih berorientasi pada action:
+
+> “Bagian ini perlu selesai sebelum editing. Menurutmu pembagian mana yang paling realistis supaya deadline tetap aman?”
+
+Tujuannya sama-sama membantu, tetapi character dan responsibility berbeda. Sebagai sahabat, fokus saya lebih pada kebutuhan emosional teman. Sebagai koordinator, saya tetap peduli pada anggota tim tetapi juga harus memastikan objective bersama tercapai.
+
+## Penggunaan AI
+
+AI digunakan **setelah pengalaman dan analisis awal saya buat sendiri**, terutama untuk membantu menyusun tulisan agar lebih rapi dan sesuai dengan struktur template.
+
+Instruksi yang digunakan pada AI adalah membantu mengisi template berdasarkan pengalaman yang saya berikan dan membuat bahasanya lebih natural, bukan membuat pengalaman baru.
+
+Saya menggunakan bagian AI yang membantu struktur dan wording, tetapi tetap mengecek kembali apakah setiap pernyataan sesuai dengan pengalaman saya. Bagian yang berupa fakta, kontribusi, dan evidence tetap harus berasal dari pengalaman dan dokumentasi saya sendiri.
+
+Untuk privacy, nama atau data pribadi anggota tim tidak perlu dimasukkan. Saya juga tidak menjadikan output AI sebagai bukti bahwa suatu kejadian benar-benar terjadi.
+
+Hal yang tetap saya pelajari sebagai manusia adalah memahami situasi, mengambil keputusan ketika menjadi koordinator, membaca respons anggota, dan menentukan tindakan yang tepat.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Saya menyadari bahwa saya cukup aktif dalam koordinasi, tetapi kadang terlalu fokus memastikan pekerjaan selesai sehingga bisa terlalu cepat masuk ke mode memberi arahan.
+
+**Adaptation/replay:** Setelah menyadari hal tersebut, saya perlu lebih sering bertanya terlebih dahulu sebelum memberikan solusi atau instruksi. Dengan begitu, saya bisa mengetahui masalah sebenarnya dan tidak langsung berasumsi bahwa orang lain membutuhkan cara kerja yang saya pilih.
+
+**Next practice:** Pada koordinasi berikutnya, saya akan memberikan waktu beberapa detik setelah bertanya sebelum langsung memberi solusi, lalu memastikan kembali apakah orang tersebut sudah memahami dan menyetujui pembagian tugasnya.
+
+## Self-assessment
+
+| Dimensi                          | Skor 1–4 | Evidence singkat                                                                                                             |
+| -------------------------------- | -------: | ---------------------------------------------------------------------------------------------------------------------------- |
+| Person & Character               |        3 | Saya dapat membedakan peran saya sebagai teman, anggota keluarga, mahasiswa, koordinator, dan mentor/panitia sesuai konteks. |
+| Objective & State                |        3 | Objective dan kondisi awal dapat dijelaskan berdasarkan konteks persiapan kegiatan dengan waktu terbatas.                    |
+| Repertoire, Language & AI        |        3 | Saya memahami bahwa cara bicara berubah sesuai character dan menjelaskan penggunaan AI secara terbuka.                       |
+| Response & Adaptation            |        3 | Saya menyadari bahwa koordinasi membutuhkan penyesuaian ketika kondisi atau progress anggota berubah.                        |
+| Agreement, Action & Relationship |        3 | Saya menghubungkan komunikasi dengan pembagian tugas, follow-up, penyelesaian pekerjaan, dan hubungan dalam tim.             |
+
+**Total: 15 / 20**
+
+**::: {.assessor-only}**
+
+### Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai
+
+## **:::**

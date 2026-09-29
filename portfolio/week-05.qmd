@@ -1,11 +1,19 @@
 ---
+
 title: "Professional Discovery Interview"
+
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+
+status: "Selesai"
+
+self_score: "15/20"
+
 assessor_score: "—"
+
 description: "Discovery menuju shared problem statement."
+
 categories: [Professional, Discovery]
+
 ---
 
 ## Kompetensi target
@@ -14,12 +22,102 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 
 ## Evidence wajib
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+* Initial assumption dan pertanyaan discovery.
+* Transcript/paraphrase serta problem impact dan constraint.
+* Shared problem statement yang dikonfirmasi partner.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
+**::: {.callout-tip title="Lihat contoh pengisian"}**
+
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+
+**:::**
 
 {{< include ../includes/evidence-template.md >}}
+
+## Initial assumption dan rencana discovery
+
+Saya awalnya berasumsi bahwa pemilik usaha mengalami kesulitan karena **belum memiliki sistem yang cukup terpusat untuk memantau proyek**. Asumsi saya adalah masalah utamanya terletak pada cara pencatatan yang masih manual.
+
+Namun, sebelum menyimpulkan solusi, saya melakukan discovery untuk memahami bagaimana proses monitoring proyek berjalan sehari-hari.
+
+**Pertanyaan utama:**
+
+1. Bisa diceritakan terakhir kali Bapak/Ibu perlu mengecek perkembangan salah satu proyek?
+
+2. Informasi apa saja yang biasanya Bapak/Ibu cari dan dari mana mendapatkannya?
+
+3. Pada bagian mana proses pengecekan terasa paling merepotkan?
+
+4. Apa dampaknya ketika informasi mengenai proyek belum tersedia atau belum diperbarui?
+
+5. Selama ini bagaimana cara Bapak/Ibu mengatasi kondisi tersebut?
+
+6. Apa yang menurut Bapak/Ibu penting untuk tetap dipertahankan dari proses kerja sekarang?
+
+## Potongan transcript
+
+> **Saya:** “Bisa diceritakan terakhir kali Bapak/Ibu perlu mengecek perkembangan salah satu proyek?”
+
+> **Narasumber:** “Biasanya saya buka Excel dulu untuk lihat progresnya. Kalau belum jelas, saya tanya lagi ke orang yang pegang proyeknya.”
+
+> **Saya:** “Berarti informasi awal biasanya ada di Excel, tetapi untuk memastikan kondisi terbarunya masih perlu konfirmasi ke orang lain?”
+
+> **Narasumber:** “Iya. Soalnya kadang yang di Excel belum sempat di-update.”
+
+> **Saya:** “Kalau begitu, bagian mana yang paling mengganggu? Waktu untuk buka dan cari datanya, atau karena informasinya belum tentu yang terbaru?”
+
+> **Narasumber:** “Lebih ke yang kedua. Kalau saya cuma lihat Excel, kadang saya masih belum yakin proyeknya sudah sampai mana.”
+
+> **Saya:** “Seberapa besar dampaknya ketika status proyek belum jelas?”
+
+> **Narasumber:** “Saya jadi harus cek lagi sebelum ambil keputusan. Misalnya mau tahu pekerjaan sudah sampai mana atau apa yang masih perlu dibeli, saya harus tanya lagi.”
+
+> **Saya:** “Selama ini apa yang biasanya Bapak/Ibu lakukan supaya tetap bisa memantau proyek?”
+
+> **Narasumber:** “Saya cek Excel, lalu chat atau telepon orang yang terkait. Jadi memang masih beberapa langkah.”
+
+> **Saya:** “Apa yang menurut Bapak/Ibu tidak boleh hilang kalau cara kerja ini nanti diperbaiki?”
+
+> **Narasumber:** “Jangan sampai malah jadi ribet buat orang lapangan. Mereka tetap harus bisa fokus kerja, jangan sampai harus input terlalu banyak.”
+
+## Pembaruan pembacaan
+
+Initial assumption bahwa masalah utama adalah **belum adanya sistem yang terpusat** ternyata terlalu cepat dan belum cukup didukung oleh interview.
+
+Evidence dari percakapan menunjukkan bahwa masalah yang lebih spesifik adalah **kesulitan memperoleh informasi proyek yang terbaru dan cukup meyakinkan untuk digunakan saat melakukan monitoring atau mengambil keputusan**. Excel sendiri bukan satu-satunya masalah; narasumber masih harus melakukan konfirmasi melalui chat atau telepon karena informasi yang tersedia dapat belum diperbarui.
+
+Interview juga menunjukkan constraint penting: proses apa pun yang diperbaiki **tidak boleh menambah beban input bagi orang yang bekerja di lapangan**.
+
+Saya menyadari bahwa pada awalnya saya terlalu fokus pada “alat apa yang digunakan”, padahal kebutuhan narasumber lebih dekat dengan **kepastian dan kemudahan memperoleh informasi terbaru**.
+
+Satu interview ini belum cukup untuk menyimpulkan bahwa masalah tersebut dialami oleh seluruh pemilik usaha atau seluruh proyek. Temuan ini saya perlakukan sebagai **discovery awal**, bukan validasi final.
+
+**Shared problem statement yang dikonfirmasi narasumber:**
+
+> “Sebagai pemilik usaha, saya mengalami kesulitan mendapatkan gambaran terbaru mengenai perkembangan proyek ketika informasi di Excel belum selalu diperbarui dan saya masih perlu melakukan konfirmasi ke orang lain, sehingga monitoring dan pengambilan keputusan menjadi lebih lambat. Saya membutuhkan cara untuk memperoleh informasi proyek yang lebih jelas dan terbaru tanpa menambah beban kerja orang di lapangan.”
+
+Narasumber menyatakan bahwa rumusan tersebut cukup menggambarkan kondisinya dan terutama menegaskan bahwa **informasi terbaru** dan **beban kerja tim lapangan** merupakan hal yang penting.
+
+## Evidence, feedback, dan next step
+
+* Catatan wawancara dengan narasumber yang identitasnya disamarkan.
+* Paraphrase digunakan selama interview untuk memastikan pemahaman saya terhadap masalah.
+* Shared problem statement dibacakan kembali kepada narasumber untuk dikonfirmasi.
+* Feedback narasumber: masalah yang dirasakan bukan sekadar pencatatan manual, tetapi sulitnya mengetahui kondisi proyek yang benar-benar terbaru tanpa melakukan pengecekan ulang.
+* Constraint utama yang dikonfirmasi: proses perbaikan tidak boleh membuat tim lapangan semakin terbebani dengan pekerjaan administrasi.
+* Next practice: melakukan interview tambahan dengan pihak lain yang terlibat dalam proyek untuk mengetahui apakah masalah yang sama muncul dari sudut pandang mereka dan membandingkan workaround yang digunakan.
+* Saya menahan diri untuk tidak langsung menawarkan bentuk solusi tertentu karena pada tahap discovery belum ada cukup evidence untuk memilih solusi.
+
+AI tidak digunakan untuk menghasilkan isi wawancara. Catatan saya hanya digunakan untuk merapikan struktur analisis setelah percakapan selesai, tanpa memasukkan nama, nomor kontak, atau informasi pribadi narasumber.
+
+## Self-assessment
+
+| Dimensi                          | Skor | Evidence singkat                                                                                                           |
+| -------------------------------- | ---: | -------------------------------------------------------------------------------------------------------------------------- |
+| Person & Character               |    3 | Peran pemilik usaha, kebutuhan memperoleh informasi terbaru, dan constraint tim lapangan dipetakan.                        |
+| Objective & State                |    3 | Asumsi awal tentang “butuh sistem terpusat” diperbarui berdasarkan evidence interview.                                     |
+| Repertoire, Language & AI        |    3 | Menggunakan open question, paraphrase, pertanyaan dampak, dan clarification tanpa langsung proposing.                      |
+| Response & Adaptation            |    3 | Saya menahan solusi awal setelah mengetahui bahwa masalah sebenarnya berkaitan dengan kejelasan dan keterbaruan informasi. |
+| Agreement, Action & Relationship |    3 | Shared problem statement dikonfirmasi narasumber dan ada next step untuk discovery tambahan.                               |
+
+**Total: 15/20 — Kompeten.**

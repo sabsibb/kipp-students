@@ -1,11 +1,19 @@
 ---
+
 title: "Relationship Conversation"
+
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+
+status: "Selesai"
+
+self_score: "16/20"
+
 assessor_score: "—"
-description: "Evidence listening, boundary, request, atau repair."
+
+description: "Evidence listening, boundary, request, dan repair dalam percakapan dengan anggota kelompok."
+
 categories: [Fondasi, Relationship]
+
 ---
 
 ## Kompetensi target
@@ -14,12 +22,71 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 
 ## Evidence wajib
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+* Transcript atau catatan percakapan.
+* Evidence listening dan response.
+* Analisis relationship state sebelum dan sesudah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks dan relationship state
 
-{{< include ../includes/evidence-template.md >}}
+Saya mengalami situasi ketika salah satu anggota kelompok beberapa kali mengirim bagian tugas mendekati deadline internal kelompok. Sebelumnya saya hanya mengingatkan melalui chat singkat, tetapi belum pernah membicarakan masalah tersebut secara langsung.
+
+**State sebelum percakapan:** hubungan dengan anggota kelompok masih baik dan tidak ada konflik besar, tetapi saya mulai merasa tegang karena khawatir pekerjaan anggota lain ikut tertunda. Saya juga mulai merasa kesal karena harus menyesuaikan pengerjaan saya dengan waktu pengiriman bagian tersebut. Tingkat ketegangan saya sebelum percakapan sekitar **6/10**.
+
+**Objective saya:** menyampaikan kebutuhan saya terkait timeline kerja kelompok tanpa menyalahkan karakter orang tersebut, sekaligus memahami apakah ada kendala yang membuat bagiannya sering terlambat.
+
+## Potongan transcript
+
+> **Saya:** “Aku mau ngobrol sebentar soal pembagian tugas kita. Aku perhatiin dua kali bagianmu baru masuk cukup dekat sama deadline internal, jadi aku agak kesulitan buat review dan gabungin semuanya.”
+
+> **Teman:** “Iya, maaf. Aku sebenarnya sering ngerjainnya malam karena siangnya ada kegiatan lain.”
+
+> **Saya:** “Berarti sebenarnya kamu tetap ngerjain bagiannya, tapi waktunya memang sering baru bisa malam, ya?”
+
+> **Teman:** “Iya. Kadang aku baru benar-benar bisa fokus setelah semua kegiatan selesai.”
+
+> **Saya:** “Oke, aku ngerti. Aku bukan masalah kalau kamu ngerjain malam, tapi aku butuh ada waktu buat cek dan gabungin bagianmu sebelum deadline. Bisa nggak kalau minimal kamu kirim draft awal satu hari sebelumnya, walaupun belum sempurna?”
+
+> **Teman:** “Bisa. Berarti aku kirim draft dulu, terus kalau masih ada yang kurang aku revisi setelahnya?”
+
+> **Saya:** “Iya, itu yang aku maksud. Jadi aku bisa mulai ngerjain bagian akhir dulu tanpa harus nunggu semuanya selesai.”
+
+> **Teman:** “Oke, aku coba begitu buat tugas berikutnya.”
+
+## Analisis listening, boundary, dan repair
+
+Saya memulai percakapan dengan menyebutkan **observasi yang spesifik**, yaitu dua kali bagian tugas dikirim mendekati deadline internal. Saya menghindari label seperti “kamu tidak bertanggung jawab” karena saya belum mengetahui alasan sebenarnya.
+
+Evidence listening terlihat ketika saya melakukan **paraphrase**: “Berarti sebenarnya kamu tetap ngerjain bagiannya, tapi waktunya memang sering baru bisa malam, ya?” Paraphrase tersebut membantu saya memastikan bahwa saya memahami alasan keterlambatan dengan benar, bukan hanya berasumsi bahwa teman tersebut tidak serius.
+
+**Boundary:** saya membutuhkan waktu minimal satu hari untuk melakukan review dan menggabungkan seluruh bagian tugas.
+
+**Request:** teman mengirim **draft awal satu hari sebelum deadline internal**, meskipun belum sempurna, kemudian melakukan revisi setelahnya.
+
+Percakapan ini juga menunjukkan **relationship awareness** karena saya tidak meminta dia mengubah seluruh jadwalnya. Saya hanya meminta perubahan pada bagian yang langsung memengaruhi kerja kelompok.
+
+Untuk **repair**, saya menyadari bahwa sebelumnya saya pernah mengirim pesan pengingat dengan nada agak ketus karena sedang terburu-buru. Setelah percakapan, saya menyampaikan:
+
+> “Oh iya, sebelumnya kalau chat-ku kedengarannya agak nyebelin, maaf. Waktu itu aku memang lagi panik karena deadline. Harusnya aku ngomong langsung seperti sekarang.”
+
+Teman menerima permintaan maaf tersebut dan percakapan dilanjutkan tanpa konflik.
+
+## Relationship outcome dan evidence
+
+* Tercapai kesepakatan bahwa draft awal akan dikirim **satu hari sebelum deadline internal**.
+* Teman menjelaskan alasan keterlambatan sehingga asumsi saya bahwa ia “tidak peduli” dapat dikoreksi.
+* Saya berhasil menyampaikan kebutuhan tanpa menyalahkan pribadi teman.
+* Setelah percakapan, tingkat ketegangan saya turun dari **6/10 menjadi 3/10**.
+* Pada tugas berikutnya, teman mengirim draft lebih awal sehingga saya memiliki waktu untuk melakukan review.
+* Evidence utama berupa catatan pribadi setelah percakapan dan timeline pengumpulan tugas di grup.
+
+## Self-assessment
+
+| Dimensi                          | Skor | Evidence singkat                                                                                                  |
+| -------------------------------- | ---: | ----------------------------------------------------------------------------------------------------------------- |
+| Person & Character               |    3 | Saya mempertimbangkan kondisi dan kebutuhan anggota kelompok tanpa langsung memberi label negatif.                |
+| Objective & State                |    3 | Tujuan percakapan dan tingkat ketegangan sebelum percakapan dinyatakan dengan jelas.                              |
+| Repertoire, Language & AI        |    3 | Menggunakan observasi, paraphrase, boundary, request, dan repair.                                                 |
+| Response & Adaptation            |    3 | Saya menyesuaikan solusi setelah mengetahui bahwa kendala utama adalah waktu, bukan keengganan mengerjakan tugas. |
+| Agreement, Action & Relationship |    4 | Ada kesepakatan konkret mengenai draft awal dan hubungan tetap dijaga.                                            |
+
+**Total: 16/20 — Kompeten.**

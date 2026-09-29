@@ -4,36 +4,24 @@ title: "Lembar Kerja Bab 02"
 
 # Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa
 
-*(Bahan Aktivitas Mandiri & Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)*
+## Bagian 1: Identifikasi Kasus (Bahan Mentah)
 
-Lembar kerja ini dirancang untuk melatih kemampuan **kejernihan batin (intrapersonal communication)** Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (*chosen response*) alih-alih bereaksi secara otomatis (*autopilot*) atas peristiwa sulit dalam kehidupan sehari-hari \[10, 13\].
+### 1. Peristiwa yang Dapat Diamati (Fakta Objektif)
 
-------------------------------------------------------------------------
+Dalam tugas kelompok, salah satu anggota menyampaikan bahwa ia akan mengirimkan bagian tugasnya pada malam hari agar dapat digabungkan dengan bagian anggota lain. Sampai waktu yang disepakati, bagian tersebut belum dikirimkan dan pesan saya di grup belum mendapat balasan.
 
-## **Siklus Pemikiran: Dari Rangsangan Menuju Respons**
+### 2. Interpretasi Pertama (Asumsi Otomatis)
 
-Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut \[13\]: $$\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}$$
+Saya langsung berpikir bahwa anggota tersebut tidak serius mengerjakan tugas dan kurang menghargai waktu anggota kelompok lain. Saya juga sempat berpikir bahwa akhirnya saya yang harus membereskan bagian tersebut supaya tugas tetap selesai tepat waktu.
 
-------------------------------------------------------------------------
+### 3. Emosi & Sensasi Tubuh
 
-## **Bagian 1: Identifikasi Kasus (Bahan Mentah)**
+**Emosi yang Dirasakan (dan skala 0–10):**
+Kesal (8/10), cemas (7/10), kecewa (6/10), dan sedikit tertekan (6/10).
 
-Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) \[11, 13\]. *Catatan Etis: Pilih kasus yang cukup aman untuk dipelajari secara akademis. Jangan memilih situasi kekerasan atau trauma berat yang membutuhkan bantuan profesional \[13\].*
+**Sensasi Tubuh yang Muncul:**
+Bahu terasa tegang, detak jantung sedikit lebih cepat, sulit fokus pada pekerjaan lain, dan muncul dorongan untuk langsung mengirim pesan dengan nada kesal.
 
-### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
-
-*Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video \[13, 145\].* \> **Contoh Kurang Tepat:** *"Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok."*\
-\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* **Tuliskan Fakta Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### **2. Interpretasi Pertama (Asumsi Otomatis)**
-
-*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* **Tuliskan Interpretasi Pertama Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### **3. Emosi & Sensasi Tubuh**
-
-*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Sensasi Tubuh yang Muncul:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-------------------------------------------------------------------------
 
 ## **Bagian 2: Membedah Tiga Narasi**
 
@@ -50,37 +38,65 @@ Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang 
 +---------------------------------------------------------------------------------+
 ```
 
-### **Versi A: Narasi Korban (Victim Narrative)**
+### Versi A: Narasi Korban (Victim Narrative)
 
-*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Isi Narasi Korban Anda:**
 
-### **Versi B: Narasi Analitis (Analytical Narrative)**
+Saya merasa situasi ini sepenuhnya terjadi karena anggota tersebut tidak bertanggung jawab. Saya sudah berusaha mengerjakan bagian saya dengan tepat waktu, tetapi usaha saya jadi terhambat karena orang lain tidak melakukan bagiannya. Saya merasa tidak punya banyak pilihan selain menunggu atau mengerjakan bagian mereka sendiri. Kalau nanti hasil tugas kelompok kurang maksimal, saya merasa itu bukan kesalahan saya karena saya sudah melakukan bagian saya. Saya juga merasa tidak adil karena saya yang akhirnya harus memikirkan bagaimana tugas ini tetap selesai.
 
-*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:**
 
-### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
+Saya cenderung mendiamkan orang tersebut karena kesal, mengeluh kepada anggota kelompok lain, atau langsung mengambil alih bagian yang belum dikerjakan tanpa membicarakannya terlebih dahulu.
 
-*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pelajaran apa yang dapat saya ambil dari situasi ini?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
+
+### Versi B: Narasi Analitis (Analytical Narrative)
+
+**Apa fakta yang benar-benar telah terbukti?**
+
+* Ada bagian tugas yang menjadi tanggung jawab anggota tersebut.
+* Anggota tersebut menyampaikan bahwa bagian itu akan dikirim pada waktu tertentu.
+* Sampai waktu yang disepakati, bagian tersebut belum dikirim.
+* Pesan di grup belum mendapatkan balasan.
+* Tugas kelompok tetap harus diselesaikan sesuai deadline.
+
+**Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?**
+
+1. Anggota tersebut mungkin sedang mengalami kendala pribadi atau teknis sehingga belum bisa mengirim bagian tugasnya.
+2. Bisa saja ia sebenarnya sudah mengerjakan sebagian, tetapi belum mengirim karena merasa hasilnya belum siap atau masih ingin memperbaikinya.
+
+Selain itu, saya juga belum benar-benar mengetahui apakah ia sengaja menunda atau memang memiliki alasan tertentu.
+
+**Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?**
+
+Saya tidak bisa mengendalikan apakah anggota tersebut akan langsung mengirim tugasnya atau tidak. Namun, saya bisa mengendalikan cara saya menyampaikan masalah, kapan saya menghubunginya, bagaimana saya mengatur ulang pembagian pekerjaan, dan apakah saya memilih untuk tetap fokus pada penyelesaian masalah daripada terus memikirkan kesalahan orang lain.
+
+---
+
+### Versi C: Narasi Pertumbuhan (Growth Narrative)
+
+**Isi Narasi Pertumbuhan Anda:**
+
+Situasi ini memang membuat saya kesal dan cemas karena saya ingin tugas kelompok berjalan sesuai rencana. Perasaan itu valid, tetapi saya tidak harus langsung bertindak berdasarkan rasa kesal tersebut. Saya belum mengetahui alasan sebenarnya mengapa bagian tugas belum dikirim, sehingga saya sebaiknya tidak langsung menyimpulkan bahwa orang tersebut tidak bertanggung jawab. Saya bisa tetap tegas terhadap deadline tanpa harus menyerang pribadi orangnya. Yang penting bagi saya adalah mencari cara agar tugas tetap berjalan, sambil belajar berkomunikasi lebih jelas ketika ada masalah dalam kerja kelompok.
+
+**Pelajaran apa yang dapat saya ambil dari situasi ini?**
+
+Saya belajar bahwa keterlambatan orang lain tidak selalu berarti mereka tidak peduli atau tidak bertanggung jawab. Saya juga belajar bahwa saya perlu memisahkan fakta dari asumsi sebelum bereaksi. Selain itu, kerja kelompok membutuhkan komunikasi yang lebih aktif, bukan hanya mengandalkan asumsi bahwa semua orang akan bekerja dengan cara dan kecepatan yang sama.
+
+---
+
+## Bagian 3: Merancang Respons (Action & Support)
+
+### 1. Pilihan Respons Terbaik
+
+**Langkah nyata yang saya pilih:**
+
+Saya akan menghubungi anggota tersebut secara langsung dengan pesan yang tenang dan jelas, menanyakan apakah ada kendala dan kapan bagian tugasnya bisa dikirimkan. Saya akan memberikan batas waktu baru yang realistis agar masih ada waktu untuk menggabungkan dan mengecek tugas. Jika sampai batas waktu tersebut tetap belum ada respons, saya akan berdiskusi dengan anggota kelompok lain untuk membagi sementara bagian yang belum selesai agar tugas tetap dapat dikumpulkan. Setelah tugas selesai, saya juga akan menyampaikan bahwa ke depannya kami perlu membuat deadline internal yang lebih jelas.
+
+### 2. Dukungan yang Diperlukan
+
+**Nama rekan/pendamping: A**
+
+Teman satu kelompok yang paling terbuka untuk berdiskusi dan memberikan pendapat jujur ketika saya mulai terlalu terbawa emosi dalam menghadapi masalah kelompok.
 
 ------------------------------------------------------------------------
-
-## **Bagian 3: Merancang Respons (Action & Support)**
-
-### **1. Pilihan Respons Terbaik**
-
-*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### **2. Dukungan yang Diperlukan**
-
-*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-------------------------------------------------------------------------
-
-## **Panduan Evaluasi Mandiri (Rubrik Portofolio)**
-
-Simpan lembar kerja ini ke dalam **Portofolio Komunikasi** Anda \[3, 134\]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen \[13, 159\]:
-
-1.  **Pemisahan Fakta vs Cerita:** Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi? \[13, 159\]
-2.  **Kekayaan Alternatif:** Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda? \[13, 159\]
-3.  **Kematangan Emosional:** Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin? \[13, 159\]
-4.  **Kepemilikan Tindakan:** Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan? \[13, 159\]
