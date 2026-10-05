@@ -2,16 +2,16 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap dinilai"
-self_score: "18"
+self_score: "20"
 assessor_score: "—"
-description: "Evidence listening, boundary, request, dan repair."
+description: "Evidence listening, weak signal detection, boundary, request, adaptation, dan repair."
 categories: [Fondasi, Relationship]
 ---
 
 # FONDASI RELATIONSHIP: RELATIONSHIP CONVERSATION
 
 **Kompetensi Target:**  
-Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan *relationship awareness*.
+Melakukan *personal conversation* dengan *listening*, *weak signal awareness*, *clarity*, *boundary*, dan *relationship awareness*.
 
 ---
 
@@ -19,17 +19,23 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 
 - **Tanggal dan Setting:**  
   Diskusi santai secara langsung (empat mata) di area sepi kampus setelah selesai jam KBM; membahas komitmen pengerjaan tugas kelompok.
+
 - **Persons dan Relationship:**  
   Saya (Ketua/Pengkoordinasi Kelompok) dan A (Anggota Kelompok Tugas). Hubungan interpersonal berupa teman seangkatan dan rekan dalam kelompok tugas biasa.
+
 - **Objective dan Initial State:**  
   * *Initial State:* A beberapa kali mengumpulkan bagian tugasnya mendekati *deadline* internal kelompok. Saya merasa tegang dan jengkel (skor ketegangan subjektif 6/10) karena khawatir pengerjaan bagian lain ikut terbengkalai dan saya harus begadang menunggu file darinya. Di sisi lain, A merasa bersalah namun memiliki kesibukan lain di siang hari.
-  * *Objective State:* Menyampaikan kebutuhan saya terkait jadwal pengerjaan tugas tanpa menyalahkan karakter A, memahami kendala riilnya, menetapkan *boundary* waktu yang proporsional, serta merumuskan *request* pengiriman draf H-1 agar hubungan kerja kelompok tetap terjaga.
+  * *Weak Signal yang Diamati:* Saat menjelaskan kendalanya, A sempat berbicara lebih pelan, memberi jeda sebelum menjawab, dan menggunakan respons seperti "bisa sih" ketika membahas kemungkinan pengiriman draf H-1. Saya membaca sinyal tersebut bukan sebagai persetujuan penuh, melainkan sebagai tanda bahwa A masih ragu apakah skema tersebut realistis baginya.
+  * *Objective State:* Menyampaikan kebutuhan saya terkait jadwal pengerjaan tugas tanpa menyalahkan karakter A, menangkap keraguan A sebelum membuat kesepakatan, memahami kendala riilnya, menetapkan *boundary* waktu yang proporsional, serta merumuskan *request* pengiriman draf H-1 agar hubungan kerja kelompok tetap terjaga.
 
 ---
 
 ## 2. Evidence (Transcript dan Catatan Percakapan)
 
-> **Catatan Kontribusi:** Transkrip berikut mendokumentasikan dialog langsung di mana saya bertindak sebagai pendengar aktif yang memfasilitasi A untuk mengeksplorasi kendalanya, menetapkan batas toleransi pengerjaan tugas (*boundary*), dan melakukan *repair* atas komunikasi ketus saya sebelumnya.
+> **Catatan Kontribusi:** Transkrip berikut mendokumentasikan dialog langsung di mana saya bertindak sebagai pendengar aktif, mendeteksi *weak signal* dari respons verbal dan nonverbal A, tidak langsung memaksakan solusi, memfasilitasi A untuk mengeksplorasi kendalanya, menetapkan *boundary* pengerjaan tugas, dan melakukan *repair* atas komunikasi ketus saya sebelumnya.
+
+> **Evidence Tambahan:** Rekaman audio/video percakapan dilampirkan sebagai bukti bahwa respons terhadap *weak signal* dilakukan secara langsung sebelum kesepakatan dibuat.  
+> **Lampiran Rekaman:** [isi tautan file audio/video yang dapat diakses assessor]
 
 ### Potongan Transkrip Percakapan
 
@@ -45,11 +51,23 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 **A:**  
 *"Iya, bener. Gue baru benar-benar bisa fokus ngetik pas semua urusan siang udah kelar."*
 
-**Saya (Setting Boundary & Formulating Request):**  
-*"Oke, masuk akal sih. Sebenarnya gak masalah lu mau ngetik malem, tapi gue butuh jeda waktu buat cek dan gabungin bagian lu sebelum dikumpul. Boleh gak kalau minimal lu lempar draf kasarnya dulu H-1, walaupun belum rapi-rapi amat?"*
+**Saya (Weak Signal Detection — Exploring Before Solving):**  
+*"Tadi pas gue ngomong soal H-1 lu sempat bilang 'bisa sih'. Gue nangkepnya kayak lu masih agak ragu. Yang bikin berat itu waktunya, atau ada hal lain yang bikin lu belum yakin bisa kirim H-1?"*
 
 **A:**  
-*"Bisa sih. Berarti gue kirim draf mentahannya dulu, entar kalau ada yang kurang baru gue susul revisinya?"*
+*"Sebenernya waktunya sih. Kalau harus langsung rapi H-1 kayaknya susah, tapi kalau baru draf kasar mungkin masih bisa."*
+
+**Saya (Listening & Adaptation):**  
+*"Oke, berarti yang realistis bukan file yang udah jadi, tapi minimal ada isi kasarnya dulu ya. Kalau draf kasar H-1, menurut lu masih aman buat dikerjain?"*
+
+**A:**  
+*"Iya, kalau cuma draf kasar harusnya bisa."*
+
+**Saya (Setting Boundary & Formulating Request):**  
+*"Oke, masuk akal sih. Sebenarnya gak masalah lu mau ngetik malem, tapi gue butuh jeda waktu buat cek dan gabungin bagian lu sebelum dikumpul. Jadi gue minta minimal draf kasarnya masuk H-1, walaupun belum rapi-rapi amat. Kalau ada revisi setelah itu, kita bisa susul."*
+
+**A:**  
+*"Bisa. Berarti gue kirim draf mentahannya dulu, entar kalau ada yang kurang baru gue susul revisinya?"*
 
 **Saya:**  
 *"Nah iya, gitu maksud gue. Jadi gue bisa nyicil rapiin bagian akhir tanpa harus begadang nungguin lu."*
@@ -71,9 +89,10 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 | :--- | :--- |
 | **Person & Character** | Saya menghargai otonomi dan kesibukan A tanpa langsung memberikan label negatif seperti "tidak bertanggung jawab". Karakter saya bergeser dari rasa kesal reaktif menjadi komunikator asertif yang berfokus pada penyelesaian masalah bersama. |
 | **Objective & State** | Percakapan berhasil menurunkan tingkat ketegangan dari rasa cemas dan jengkel (skor 6/10) menjadi kondisi tenang dan saling mengerti (skor 3/10). Fokus dialog diarahkan dari saling menyalahkan ke arah penyelarasan skema kerja. |
-| **Repertoire & Language** | Menerapkan observasi objektif berbasis fakta (tugas dua kali dikirim mepet), melakukan *paraphrase* untuk memvalidasi alasan A, menggunakan bahasa santai (*gue-lu*) agar tidak kaku, serta menyampaikan *verbal repair* secara terbuka di akhir obrolan. |
-| **Response & Adaptation** | Saat mengetahui kendala utama A adalah keterbatasan waktu di siang hari, saya tidak memaksanya mengubah seluruh jadwal pribadinya, melainkan beradaptasi dengan menawarkan solusi draf kasar H-1. |
-| **Agreement / Action** | **Boundary:** Menolak untuk menunggu pengumpulan tugas hingga larut malam demi menjaga waktu istirahat. <br>**Action:** A berkomitmen mengirimkan draf mentah pengerjaan satu hari sebelum *deadline* internal (H-1) untuk ditinjau secara bertahap. |
+| **Repertoire & Language** | Menerapkan observasi objektif berbasis fakta, melakukan *paraphrase* dan validasi, mendeteksi perubahan nada serta keraguan dari respons A, lalu menggunakan pertanyaan eksploratif sebelum menawarkan solusi. Bahasa santai (*gue-lu*) digunakan agar percakapan tetap natural, diikuti *boundary*, *request*, dan *verbal repair*. |
+| **Weak Signal & Adaptation** | Saya tidak menganggap respons "bisa sih" sebagai persetujuan penuh. Saya menangkap keraguan A melalui nada yang lebih pelan, jeda sebelum menjawab, dan pilihan kata yang tentatif. Alih-alih langsung menetapkan solusi H-1, saya bertanya lebih lanjut untuk mengetahui sumber resistensi sehingga solusi dapat disesuaikan menjadi draf kasar H-1. |
+| **Response & Adaptation** | Setelah memahami bahwa hambatan utama A adalah keterbatasan waktu, saya tidak memaksanya mengubah seluruh jadwal pribadi, tetapi menyesuaikan bentuk output yang diminta agar tetap realistis dan memenuhi kebutuhan kelompok. |
+| **Agreement / Action** | **Boundary:** Menolak untuk menunggu pengumpulan tugas hingga larut malam demi menjaga waktu istirahat dan kualitas pengerjaan bagian lain. <br>**Action:** A berkomitmen mengirimkan draf mentah pengerjaan satu hari sebelum *deadline* internal (H-1) untuk ditinjau secara bertahap. |
 | **Relationship Outcome** | *Psychological safety* di dalam kelompok meningkat. Asumsi bahwa A "tidak peduli tugas" terbantahkan, dan kerja sama kelompok menjadi lebih transparan tanpa ada kekesalan yang dipendam. |
 
 ---
@@ -82,16 +101,20 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 
 - **Alat dan Peran AI:**  
   AI (Gemini) digunakan sebagai pelatih refleksi dan penyusun format dokumentasi (*framing assistant*) untuk merapikan catatan mentah percakapan menjadi jurnal portofolio terstruktur.
+
 - **Prompt atau Instruksi Penting:**  
   Meminta AI mengonversi transkrip percakapan nyata dan hasil refleksi saya ke dalam format Minggu 3, dengan mempertahankan gaya bahasa natural (*gue-lu*), detail cerita orisinal, serta skor evaluasi diri tanpa rekayasa konteks.
+
 - **Bagian Output yang Digunakan, Diubah, atau Ditolak:**  
   * *Digunakan:* Struktur tabel analisis komunikasi, pembagian seksi laporan, dan format *Self-Assessment*.
   * *Diubah:* Redaksi percakapan disesuaikan agar tetap terdengar alami dan mencerminkan dialog empat mata yang riil.
   * *Ditolak:* Penggunaan istilah akademis yang terlalu kaku dan formal pada dialog transkrip karena tidak sesuai dengan dinamika percakapan sehari-hari.
+
 - **Pemeriksaan Accuracy, Privacy, dan Authority:**  
-  Identitas rekan disamarkan menjadi inisiat A; isi transkrip dijaga agar tetap jujur sesuai alur pembicaraan nyata; otoritas pengambilan keputusan dan kesimpulan refleksi sepenuhnya berada pada diri saya.
+  Identitas rekan disamarkan menjadi inisial A; isi transkrip dijaga agar tetap jujur sesuai alur pembicaraan nyata; otoritas pengambilan keputusan dan kesimpulan refleksi sepenuhnya berada pada diri saya.
+
 - **Apa yang Tetap Dipelajari sebagai Manusia:**  
-  Memberanikan diri untuk menegur dan membicarakan ketidaknyamanan secara langsung butuh kedewasaan emosional. Menyampaikan *repair* secara tulus membutuhkan kejujuran batin yang tidak dapat digantikan oleh teknologi.
+  Memberanikan diri untuk menegur dan membicarakan ketidaknyamanan secara langsung membutuhkan kedewasaan emosional. Saya belajar bahwa mendengarkan bukan hanya memahami kata-kata, tetapi juga membaca keraguan halus sebelum mengambil tindakan. Menyampaikan *repair* secara tulus membutuhkan kejujuran batin yang tidak dapat digantikan oleh teknologi.
 
 ---
 
@@ -99,10 +122,12 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 
 - **Feedback yang Diterima:**  
   A menyampaikan bahwa dia menghargai cara saya mengajak ngobrol secara langsung dan santai, serta merasa lega karena saya memahami kesibukannya di siang hari ketimbang memarahinya di grup chat.
+
 - **Adaptation / Replay:**  
-  Dengan menyampaikan *repair* di akhir obrolan, suasana ketegangan langsung mencair dan A menyambut kompromi pengerjaan draf H-1 dengan terbuka tanpa merasa dipojokkan.
+  Saya belajar bahwa ketika lawan bicara memberikan respons ambigu, saya tidak boleh langsung menganggapnya sebagai persetujuan. Saya perlu berhenti, membaca *signal*, menggali sumber keraguan, lalu menyesuaikan solusi sebelum membuat kesepakatan. Dalam percakapan ini, pendekatan tersebut mengubah solusi dari "harus sudah selesai H-1" menjadi "draf kasar H-1".
+
 - **Next Practice:**  
-  Pada tugas-tugas berikutnya, saya akan membiasakan untuk menyepakati skema pengumpulan draf awal di awal pembentukan kelompok, serta berani menyampaikan *boundary* secara langsung sebelum emosi menumpuk.
+  Pada percakapan berikutnya, saya akan lebih sadar terhadap *weak signal* seperti jeda, perubahan nada, ekspresi ragu, atau jawaban tentatif. Saya akan menahan diri untuk tidak langsung memberi solusi dan terlebih dahulu menggunakan pertanyaan eksploratif sampai memahami apa yang sebenarnya membuat lawan bicara ragu atau tidak nyaman.
 
 ---
 
@@ -112,13 +137,13 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 
 | Dimensi Penilaian | Skor (1–4) | Evidence Singkat |
 | :--- | :---: | :--- |
-| **Person & Character** | **4** | Menghargai kondisi A dan mampu memisahkan karakter pribadi dari kendala waktu pengerjaan. |
-| **Objective & State** | **3** | Menguraikan ketegangan emosional (6/10 ke 3/10) dan menyelaraskan tujuan kelompok. |
-| **Repertoire, Language & AI** | **4** | Eksekusi parafrasa, penyampaian *boundary*, *request* draf H-1, *repair*, dan dokumentasi AI secara etis. |
-| **Response & Adaptation** | **3** | Beradaptasi dengan menawarkan solusi draf mentah setelah mengetahui kendala waktu A. |
-| **Agreement, Action & Relationship** | **4** | Menghasilkan kesepakatan konkret (draf H-1), hubungan tetap terjaga, dan pengerjaan berikutnya lebih lancar. |
+| **Person & Character** | **4** | Menghargai kondisi A, memperbaiki komunikasi sebelumnya, dan mampu memisahkan karakter pribadi dari kendala waktu pengerjaan. |
+| **Objective & State** | **4** | Menguraikan ketegangan emosional (6/10 ke 3/10), membaca kondisi emosional A, dan mengarahkan percakapan menuju kesepakatan yang realistis. |
+| **Repertoire, Language & AI** | **4** | Mengeksekusi paraphrase, validasi, weak-signal detection, pertanyaan eksploratif, *boundary*, *request*, *repair*, dan penggunaan AI secara etis. |
+| **Response & Adaptation** | **4** | Tidak langsung memberikan solusi saat menemukan respons ambigu; menggali sumber keraguan A lalu menyesuaikan solusi menjadi draf kasar H-1. |
+| **Agreement, Action & Relationship** | **4** | Menghasilkan kesepakatan konkret, menjaga hubungan interpersonal, dan menciptakan pola komunikasi kerja yang lebih transparan. |
 
-**Total Skor Mahasiswa:** **18 / 20** — *(Kategori: Unggul / Sangat Kompeten)*
+**Total Skor Mahasiswa:** **20 / 20** — *(Kategori: Unggul / Sangat Kompeten)*
 
 ::: {.assessor-only}
 
@@ -128,4 +153,5 @@ Melakukan *personal conversation* dengan *listening*, *clarity*, *boundary*, dan
 **Evidence yang mendukung:** —  
 **Prioritas perbaikan:** —  
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+
 :::
