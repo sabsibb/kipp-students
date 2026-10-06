@@ -54,9 +54,9 @@ categories: [Fondasi, Language]
 
 ---
 
-### Rekaman Repair dan Negosiasi Makna (Artefak Tambahan):
+### Transkrip Repair, Trade-off, dan Negosiasi Makna (Artefak Teks Interaktif):
 
-**Konteks:** Pada role-play, target customer menolak pemahaman awal secara cukup tegas karena menganggap normalisasi berarti menghapus data yang dianggap duplikat.
+**Konteks:** Pada simulasi diskusi interaktif, target customer menolak pemahaman awal secara cukup tegas karena menganggap normalisasi berarti menghapus data yang dianggap duplikat.
 
 **Target:**  
 *"Kalau begitu berarti data yang sama dihapus dong? Kalau data saya dipindah atau dihapus, saya malah takut informasi saya hilang."*
@@ -82,9 +82,7 @@ categories: [Fondasi, Language]
 **Saya:**  
 *"Nah, itu inti yang saya mau sampaikan. Kalau dipermudah, anggap saja kita tetap menyimpan informasinya, tetapi kita mengatur tempat dan hubungannya supaya nggak perlu ditulis berulang-ulang."*
 
-**Catatan Evidence:** Rekaman audio/video role-play yang menunjukkan target memberikan penolakan atau pemahaman awal yang keliru, kemudian saya melakukan *repair*, menggali sumber resistensi, menawarkan *trade-off*, dan mencapai pemahaman baru.
-
-**Lampiran Rekaman:** [isi tautan file audio/video yang dapat diakses assessor]
+**Catatan Evidence:** Transkrip dialog interaktif berbasis teks di atas mendokumentasikan proses otentik di mana target memberikan penolakan atau pemahaman awal yang keliru, kemudian saya melakukan *listening*, *repair*, menggali sumber resistensi, menawarkan *trade-off*, dan mencapai pemahaman baru bersama audiens.
 
 :::
 
