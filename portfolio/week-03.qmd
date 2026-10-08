@@ -34,18 +34,18 @@ Melakukan *personal conversation* dan komunikasi kelompok berbasis *listening*, 
 
 ## 2. Evidence (Transcript dan Catatan Percakapan)
 
-> **Catatan Evidence:** Bukti di bawah adalah salinan teks percakapan grup WhatsApp. Transkrip ini mendokumentasikan dinamika saat validasi emosi gagal secara instan mengubah *status quo*, sehingga memaksa saya melakukan *trade-off* dan *repair* terkait batas waktu penyelesaian.
+::: {.evidence-block}
+
+**Catatan Evidence:** Bukti di bawah adalah salinan teks percakapan grup WhatsApp. Transkrip ini mendokumentasikan dinamika saat validasi emosi gagal secara instan mengubah *status quo*, sehingga memaksa saya melakukan *trade-off* dan *repair* terkait batas waktu penyelesaian.
 
 ### Transkrip Autentik Percakapan Grup WhatsApp (*Kel 3: English*)
 
 **[Rabu, 10.43] — Saya (Initiating & Setting Boundary):**  
 *"guysss"*  
-*"mnurut aku kta udh bisa deh bagi tugas dri skrg utk ppt dn bkin smpe final draftnya krna deadline minggu depan"*
+*"mnurut aku kta udh bisa deh bagi tugas dri skrg utk ppt dn bkin smpe final draftnya krna deadline minggu depan"*  
 *"klo bisa ga mepet deadline spy kta bs tnya pendapat ibunya dlu. tlong responnya ya guyss jujur aga susah klo bbrp doang yg responn"*
 
----
 *(Jeda Asinkron: Tidak ada balasan selama 2 hari hingga Jumat Siang)*
----
 
 **[Jumat, 11.56] — Rekan A (Micro-signal / Tentative Response):**  
 *"mbb boleh"*
@@ -71,6 +71,8 @@ Melakukan *personal conversation* dan komunikasi kelompok berbasis *listening*, 
 
 **[Jumat, 14.32] — Saya (Verbal Repair & Closing):**  
 *"santaiii, good luck rakernya besok! let me know kalo butuh backup."*
+
+:::
 
 ---
 
