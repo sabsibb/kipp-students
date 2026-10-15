@@ -43,7 +43,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 |---|---:|---|---|---|---|
 | Makalah | 10% | 95 | 100 | — | Lengkap |
 | Sesi 1 | 18% | 95 | 100 | — | Lengkap |
-| Sesi 2a | 18% | 95 | 100 | — | Lengkap |
+| Sesi 2a | 18% | 96 | 100 | — | Lengkap |
 | Sesi 2b | 18% | 95 | 100 | — | Lengkap |
 | Sesi 3a | 18% | 97 | 100 | — | Lengkap |
 | Sesi 3b | 18% | 98 | 100 | — | Lengkap |
