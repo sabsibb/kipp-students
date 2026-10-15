@@ -1,7 +1,7 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Dalam pengerjaan"
+status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -22,7 +22,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Periode/tanggal pelaksanaan | 15 Oktober 2026 |
 | Versi bank/paket aktif | 2.0 |
 | Modalitas | Teks |
-| Status pengumpulan | Belum diunggah |
+| Status pengumpulan | Sudah diunggah |
 
 ## Makalah dan lima laporan
 
@@ -30,10 +30,10 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 |---|---|---|---|---|
 | Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | File lengkap disimpan |
 | 1 | [hasil_1_18225073.qmd](UTS/hasil_1_18225073.qmd) | Diri mahasiswa; Dimas (K1-04) | Selesai | U001-U003 lengkap |
-| 2a | [hasil_2a_18225073.qmd](UTS/hasil_2a_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
-| 2b | [hasil_2b_18225073.qmd](UTS/hasil_2b_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
-| 3a | [hasil_3a_18225073.qmd](UTS/hasil_3a_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
-| 3b | [hasil_3b_18225073.qmd](UTS/hasil_3b_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
+| 2a | [hasil_2a_18225073.qmd](UTS/hasil_2a_18225073.qmd) | Target kasus 2a | Selesai | File lengkap disimpan |
+| 2b | [hasil_2b_18225073.qmd](UTS/hasil_2b_18225073.qmd) | Target kasus 2b | Selesai | File lengkap disimpan |
+| 3a | [hasil_3a_18225073.qmd](UTS/hasil_3a_18225073.qmd) | Target kasus 3a | Selesai | File lengkap disimpan |
+| 3b | [hasil_3b_18225073.qmd](UTS/hasil_3b_18225073.qmd) | Target kasus 3b | Selesai | File lengkap disimpan |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +41,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | 100 | — | Lengkap (6/6 dimensi x 4) |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | 95 | 100 | — | Lengkap |
+| Sesi 1 | 18% | 95 | 100 | — | Lengkap |
+| Sesi 2a | 18% | 95 | 100 | — | Lengkap |
+| Sesi 2b | 18% | 95 | 100 | — | Lengkap |
+| Sesi 3a | 18% | 97 | 100 | — | Lengkap |
+| Sesi 3b | 18% | 98 | 100 | — | Lengkap |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
