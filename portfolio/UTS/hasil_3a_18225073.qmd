@@ -1,0 +1,166 @@
+---
+title: "Laporan UTS KIPP - Sesi 3a"
+subtitle: "Menawarkan solusi TI dan AI - target pertama"
+author: "Sabrina Aurelyn Sibarani"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Sabrina Aurelyn Sibarani |
+| NIM | 18225073 |
+| Kelas | K-03 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
+| Target | Budi (ID K3-02) |
+| Versi bank/paket | 2.0 |
+| Sumber penugasan | kasus_3a_18225073.zip dan PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Fiktif (Simulasi) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_3a_18225073.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada Tahap F sebelum laporan dibuat |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Pak Budi menghadapi masalah pesan berulang dan pesanan tercecer karena tenaga terbatas, tetapi ia belum yakin butuh AI, takut biaya mahal, dan khawatir prosedur terganggu. Tujuan komunikasinya adalah menggali kebutuhan dan menawarkan uji coba sistem TI/AI secara bertahap.
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Meyakinkan Pak Budi untuk mencoba sistem TI/AI melalui uji coba sederhana terlebih dahulu. |
+| Keadaan awal | Pak Budi sudah nyaman dengan cara manual, takut biaya mahal, dan khawatir operasional terganggu. |
+| Indikator keberhasilan | Pak Budi bersedia menyetujui pilot project/uji coba sistem dengan prosedur cadangan yang jelas. |
+| Batas dan pilihan target | Tidak memaksa perombakan sistem total secara mendadak dan tetap mempertahankan prosedur manual sebagai cadangan. |
+| Tenggat | Dalam kerangka waktu operasional harian. |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: Empati pada operasional klien dan menawarkan pendekatan bertahap. | U001, U002 | Dieksekusi dengan baik dalam simulasi. |
+| Attitude | Terbuka, menghargai sistem lama, dan tidak memaksa. | U001, U002 | Terlihat dari cara menyapa dan menanggapi keberatan. |
+| Knowledge | Mengetahui masalah operasional klien (pesanan tercecer, chat berulang). | U001 | Observasi awal kasus. |
+| Skill | Mampu meredakan kecemasan klien dan merumuskan solusi bertahap. | U003, U005 | Terlihat saat menangani krisis/error sistem. |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan | - | - |
+| Peran, karakter, kultur/ko-kultur | Penyedia solusi TI yang suportif dan menghargai prosedur. | Keseluruhan transkrip | Jelas teramati. |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyetujui uji coba sistem AI. | - | - | Pak Budi setuju pilot project. |
+| Attention | Menolak karena merasa cara lama sudah cukup. | Mengakui kebaikan sistem manual. | Pendekatan menghargai operasional lama. | Pak Budi merespons dan menjelaskan detail kendalanya. |
+| Interest | Takut biaya dan gangguan prosedur. | Menjelaskan perbandingan alur kerja & opsi bertahap. | Memberikan gambaran alur manual vs AI. | Pak Budi meminta rincian biaya dan prosedur cadangan. |
+| Desire | Ingin keamanan operasional terjamin. | Menawarkan SOP cadangan manual. | Jaminan prosedur manual tetap jalan. | Pak Budi merasa aman dan bersedia uji coba. |
+| Action | Memulai pilot project. | Menyetujui uji coba 20 pesanan pertama. | Kesepakatan uji coba bersyarat. | Pak Budi setuju mencoba sistem. |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Simulasi Awal
+Selamat pagi, Pak Budi. Perkenalkan, saya Sabrina. Saya dengar akhir-akhir ini Bapak cukup kewalahan membalas chat pelanggan dan mengatur pesanan. Saya paham pasti cukup merepotkan, apalagi kalau staf terbatas. Saya ingin ngobrol sebentar untuk memahami kendala yang Bapak hadapi dan mencari solusi yang bisa membantu, tanpa harus langsung mengubah cara kerja yang sudah berjalan. Apakah Bapak berkenan, Pak?
+
+### AI001 - Budi - Simulasi Awal
+Selamat pagi, Mbak Sabrina. Terima kasih atas perhatiannya. Memang betul belakangan ini pesanan sedang ramai, jadi ada beberapa chat pelanggan yang lambat terbalas dan satu-dua pesanan yang tercecer oleh staf saya. Tapi sebenarnya, prosedur manual yang kami pakai sekarang sudah sangat jelas alurnya bagi kami. Mengapa kami harus berubah? Saya justru khawatir kalau pakai sistem TI yang baru itu malah membuat staf saya bingung, mengganggu operasional harian yang sedang jalan, dan pastinya memakan biaya yang tidak sedikit.
+
+### U002 - Mahasiswa - Simulasi Awal
+Saya paham kekhawatiran Bapak. Kalau cara manual selama ini sudah berjalan baik, tentu kita tidak ingin malah mengganggu operasional. Saya tidak bermaksud meminta Bapak langsung mengganti sistem yang ada. Mungkin kita bisa mencoba solusi sederhana terlebih dahulu untuk membantu membalas pertanyaan berulang dan mencatat pesanan agar tidak terlewat. Uji cobanya bisa dilakukan secara bertahap, jadi staf punya waktu untuk beradaptasi. Menurut Bapak, apakah pendekatan seperti ini bisa dipertimbangkan?
+
+### AI002 - Budi - Simulasi Awal
+Pendekatan bertahap itu masuk akal, Mbak Sabrina. Saya hargai Mbak tidak memaksakan perombakan total secara mendadak. Tapi, 'solusi sederhana' yang Mbak maksud itu wujud konkretnya seperti apa? Saya butuh gambaran perbandingan alur kerjanya: kalau pakai cara manual staf saya seperti apa, lalu kalau pakai sistem AI ini jadinya bagaimana? Lalu soal uji coba tadi, apakah ada biaya yang harus saya keluarkan di awal? Saya harus tahu hitung-hitungannya dulu, dan saya juga harus memastikan staf saya tetap bisa pakai cara manual sebagai prosedur cadangan kalau tiba-tiba sistem barunya error pas lagi ramai.
+
+### U003 - Mahasiswa - Simulasi Awal
+Baik, Pak. Gambaran sederhananya, kalau sekarang staf harus membalas chat dan mencatat pesanan satu per satu, nantinya AI bisa membantu menjawab pertanyaan umum pelanggan, sementara pesanan tercatat otomatis di sistem agar lebih mudah dipantau. Staf tetap bertugas mengecek dan mengonfirmasi pesanan. Untuk biaya, kita bisa mulai dari uji coba skala kecil menggunakan opsi yang paling terjangkau. Saya akan menjelaskan biayanya terlebih dahulu sebelum Bapak memutuskan. Selama uji coba, staf juga tetap bisa menggunakan prosedur manual sebagai cadangan jika sistem mengalami kendala. Jadi, operasional tetap berjalan seperti biasa. Bagaimana, Pak, apakah Bapak bersedia mencoba pada sebagian kecil pesanan terlebih dahulu?
+
+### AI003 - Budi - Simulasi Awal
+Baik, penjelasan alur perbandingannya cukup masuk akal buat saya, Mbak Sabrina. Saya setuju dengan konsep bahwa AI hanya menangani pertanyaan umum di awal, sementara staf saya tetap memegang kontrol akhir untuk konfirmasi pesanan. Itu membuat saya merasa lebih aman. Kalau memang prosedur manual kami tidak dihilangkan dan bisa jadi cadangan, saya bersedia mencoba pilot project ini. Mari kita coba untuk 20 pesanan pertama besok saja dulu. Tapi ingat ya Mbak, tolong kirimkan rincian biayanya untuk saya pelajari sebelum sistemnya benar-benar dinyalakan.
+
+### AI004 - Budi - Uji Ulang
+Mbak Sabrina, pagi ini sistem AI-nya sepertinya salah membaca format alamat dari beberapa pelanggan baru. Akibatnya, datanya tidak masuk ke rekap pesanan. Staf saya sekarang panik dan bingung karena tidak ada panduan tertulis atau SOP tentang langkah apa yang harus dilakukan jika sistemnya error seperti ini. Kami harus bagaimana sekarang? Apakah sistemnya dimatikan saja dulu dan kita kembali 100% ke manual sampai masalahnya beres?
+
+### U004 - Mahasiswa - Uji Ulang
+Selamat pagi, Pak. Tenang dulu, Pak, kita tangani satu per satu. Untuk sementara, pesanan yang alamatnya gagal terbaca bisa dicatat secara manual agar tidak ada pesanan yang terlewat. Minta staf memeriksa kembali alamat pelanggan sebelum pesanan diproses. Saya sarankan fitur pembacaan alamat AI dihentikan sementara, tetapi fitur lain yang masih berjalan normal tetap digunakan. Saya juga akan membantu menyusun SOP sederhana untuk menangani error, termasuk langkah pemeriksaan dan prosedur kembali ke manual jika diperlukan. Setelah masalah alamat diperbaiki dan diuji, kita bisa menggunakannya kembali secara bertahap. Jadi, operasional tetap berjalan tanpa harus membuang sistem yang sudah kita uji, Pak.
+
+### AI005 - Budi - Uji Ulang
+Syukurlah kalau begitu, Mbak Sabrina. Instruksinya sangat jelas dan masuk akal. Saya sudah minta staf untuk langsung mencatat alamat secara manual sesuai prosedur lama khusus untuk pesanan yang bermasalah ini, dan membiarkan AI tetap jalan untuk membalas chat umum. Tolong SOP daruratnya segera dikirimkan ya Mbak, walau sederhana tidak apa-apa, yang penting staf saya punya pegangan tertulis kalau ada kendala lagi. Terima kasih atas respons cepatnya dan tidak memaksa sistemnya jalan terus saat sedang error. Operasional kami jadi bisa jalan terus pagi ini.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Takut biaya dan gangguan prosedur (A rendah). | Bersedia uji coba bersyarat (Pilot Project). | AI003 | Bukti dialog tertulis. |
+| Attitude | Hati-hati, mengutamakan kepastian. | Lebih terbuka setelah dijelaskan alur dan prosedur cadangan. | AI003, AI005 | Respons setuju dan kooperatif. |
+| Knowledge | Menguasai prosedur lama, skeptis pada alternatif. | Memahami perbandingan alur kerja manual vs AI. | AI003 | Persetujuan atas penjelasan alur. |
+| Skill/kesiapan | Perlu panduan dan prosedur cadangan. | Siap menjalankan pilot project dengan SOP darurat. | AI005 | Implementasi pencatatan manual darurat. |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001-AI002 | A rendah (takut perubahan & biaya). | Menawarkan ngobrol tanpa merombak total sistem lama. | Menanyakan wujud konkret, rincian biaya, dan prosedur cadangan. | A meningkat karena dihargai. | Mahasiswa memberikan alur perbandingan kerja. |
+| U003-AI003 | S siap dengan syarat prosedur cadangan. | Menjelaskan alur bertahap & manual sebagai cadangan. | Setuju uji coba 20 pesanan pertama. | S/kesiapan tercapai untuk pilot project. | Mahasiswa mengawal dengan penjelasan biaya. |
+| AI004-U004 | K/S panik saat sistem error. | Menenangkan, mengisolasi error, & menyarankan manual sementara. | Merasa tenang, meminta SOP tertulis, dan melanjutkan operasional. | Kesiapan krisis teratasi dengan baik. | Mahasiswa menawarkan pembuatan SOP darurat. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U001 | "tanpa harus langsung mengubah cara kerja yang sudah berjalan" | "Saya hargai Mbak tidak memaksakan perombakan total..." | Kepercayaan awal terbangun. | Menurunkan defensivitas (A). |
+| U003 | "selama uji coba, staf juga tetap bisa menggunakan prosedur manual..." | "Itu membuat saya merasa lebih aman... bersedia mencoba..." | Rasa aman tinggi berkat opsi cadangan. | Tercapainya kesepakatan uji coba. |
+| U004 | "Tenang dulu, Pak... pesanan bisa dicatat secara manual..." | "Instruksinya sangat jelas dan masuk akal... Terima kasih atas respons cepatnya" | Kepercayaan dan kredibilitas menguat saat krisis. | Mempertahankan sistem tanpa kepanikan. |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Sistem AI salah membaca format alamat pada pesanan baru saat uji coba pagi hari (AI004). |
+| Respons awal dibanding uji ulang | Pak Budi sempat panik dan ingin mematikan total, tetapi langsung tenang setelah diarahkan menggunakan prosedur manual darurat (AI005). |
+| Revisi rencana/dukungan | Mengisolasi modul yang error (alamat), mempertahankan fitur chat, dan menyusun SOP darurat tertulis (U004). |
+| Indikator perbaikan | Staf tetap melanjutkan operasional tanpa menghentikan seluruh sistem (AI005). |
+| Transfer dan keterbatasan | Kemampuan mengelola krisis teknis pada klien yang sangat prosedural (ISTJ). |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U003 | Sangat fokus meyakinkan klien lewat uji coba bertahap yang relevan. |
+| Persepsi dan validasi profil/status | 4 | U001, U002 | Sangat menghargai prosedur lama klien dan kekhawatiran biayanya. |
+| Pemilihan dan urutan repertoar | 4 | Keseluruhan | Dengar kendala -> tawarkan tanpa merombak -> jelaskan alur -> siapkan cadangan. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004 | Komunikasi sangat terstruktur, tenang, dan solutif saat krisis. |
+| Evaluasi dan adaptasi | 4 | U004 | Cepat beradaptasi saat terjadi error alamat dengan solusi SOP darurat. |
+| Refleksi dan lesson learned | 4 | Refleksi F | Memahami pentingnya validasi ketakutan klien dan penyediaan prosedur cadangan. |
+
+**Nilai sesi:** Usulan AI = 24 / 24 x 100 = **100** *(Memerlukan moderasi dosen)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Dugaan awal terbukti benar; Pak Budi memang khawatir biaya mahal, operasional terganggu, dan staf kesulitan beradaptasi.
+- **Stimulus efektif/tidak efektif:** Memahami kekhawatiran pelanggan, memberikan solusi bertahap, dan menyediakan prosedur cadangan manual sangat efektif.
+- **Pertumbuhan PASK/ASK diri:** Belajar cara menawarkan solusi teknologi kepada pelaku usaha tradisional tanpa membuat mereka merasa terancam atau dipaksa.
+- **Relasi:** Menjaga ketenangan, tidak langsung mematikan sistem saat error, dan menyediakan solusi manual sementara membuat Pak Budi merasa aman dan percaya.
+- **Preferensi, peran, budaya:** Menghargai sifat ISTJ yang prosedural, membutuhkan kepastian detail alur kerja, dan mengutamakan SOP tertulis.
+- **Pelajaran untuk situasi berikutnya:** Saat mengenalkan teknologi baru pada bisnis konvensional, selalu siapkan rencana cadangan (fallback plan) dan SOP tertulis untuk mengantisipasi kepanikan saat error.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Pencatatan manual darurat | Staf Pak Budi | Segera (Pagi ini) | Panduan mahasiswa | Tidak ada pesanan terlewat | Terlaksana |
+| Mematikan sementara fitur alamat | Sabrina / Tim IT | Pagi ini | Isolasi sistem | Error tidak meluas | Terlaksana |
+| Menyusun SOP darurat tertulis | Sabrina | Hari ini | Format dokumen sederhana | SOP dikirim ke Pak Budi | Disepakati |
+| Uji ulang modul alamat | Sabrina & Staf | Setelah perbaikan | Evaluasi bersama | Fitur alamat berfungsi normal | Direncanakan |
+
+**Konfirmasi akhir:** Terkonfirmasi pada Tahap F (Hasil & Refleksi) sebelum laporan dibuat.
+
+{{< include "../../includes/uts-penilaian.md" >}}

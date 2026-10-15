@@ -1,7 +1,7 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Dalam pengerjaan"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -16,24 +16,24 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Sabrina Aurelyn Sibarani |
+| NIM | 18225073 |
+| Kelas | K-03 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 |
+| Versi bank/paket aktif | 2.0 |
+| Modalitas | Teks |
+| Status pengumpulan | Belum diunggah |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | File lengkap disimpan |
+| 1 | [hasil_1_18225073.qmd](UTS/hasil_1_18225073.qmd) | Diri mahasiswa; Dimas (K1-04) | Selesai | U001-U003 lengkap |
+| 2a | [hasil_2a_18225073.qmd](UTS/hasil_2a_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
+| 2b | [hasil_2b_18225073.qmd](UTS/hasil_2b_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
+| 3a | [hasil_3a_18225073.qmd](UTS/hasil_3a_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
+| 3b | [hasil_3b_18225073.qmd](UTS/hasil_3b_18225073.qmd) | [Belum diketahui] | Belum dimulai | Belum dijalankan |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -42,7 +42,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
 | Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
+| Sesi 1 | 18% | — | 100 | — | Lengkap (6/6 dimensi x 4) |
 | Sesi 2a | 18% | — | — | — | Belum dinilai |
 | Sesi 2b | 18% | — | — | — | Belum dinilai |
 | Sesi 3a | 18% | — | — | — | Belum dinilai |

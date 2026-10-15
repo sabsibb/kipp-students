@@ -1,0 +1,165 @@
+---
+title: "Laporan UTS KIPP - Sesi 1"
+subtitle: "Memimpin diri dan terus belajar"
+author: "Sabrina Aurelyn Sibarani"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+::: {.callout-tip title="Status"}
+Laporan ini telah selesai disusun berdasarkan simulasi interaktif Sesi 1.
+:::
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Sabrina Aurelyn Sibarani |
+| NIM | 18225073 |
+| Kelas | K-03 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
+| Target | Diri mahasiswa; tokoh pembanding Dimas (K1-04) |
+| Versi bank/paket | 2.0 |
+| Sumber penugasan | kasus_1_18225073.zip dan PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (refleksi diri mahasiswa) dan hipotetis/fiktif (tokoh pembanding Dimas) |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_1_18225073.qmd |
+| Konfirmasi identitas/ringkasan | ID Giliran U001 |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Mahasiswa mengevaluasi cara memimpin diri sendiri saat menghadapi hambatan belajar atau perubahan mendadak, merefleksikan kekuatan dan kelemahan komunikasi (SWOT subjektif & ASK), serta menguji coba pendekatan penyampaian pesan logis kepada tokoh pembanding (Dimas).
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Memetakan hambatan personal dalam menerima kritik dan perubahan rencana, serta merumuskan tindakan adaptasi regulasi emosi. |
+| Keadaan awal | Mahasiswa menyadari kelemahan dalam menerima perubahan rencana mendadak dan memiliki reaksi awal tersinggung saat dikritik. |
+| Indikator keberhasilan | Mahasiswa mampu merumuskan langkah konkret menenangkan diri dan dapat memberikan argumen yang rasional serta memvalidasi kendala tokoh pembanding. |
+| Batas dan pilihan target | Tidak memaksa pengubahan karakter MBTI secara fundamental, melainkan penyesuaian bentuk respons (dari reaktif menjadi responsif/apresiatif). |
+| Tenggat | Fleksibel / Simulasi saat ini |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | S: Melihat berbagai sudut pandang, empati. W: Sulit terima perubahan rencana, tersinggung di awal kritik. O: Belajar dari kesalahan. | U001 | Laporan diri mahasiswa yang cukup akurat dan sadar-diri. |
+| Attitude | Menjaga perasaan orang lain (harmoni), terbuka pada perbaikan jika disampaikan dengan baik. | U001 | Laporan diri; terbukti dalam skenario penyelesaian konflik. |
+| Knowledge | Paham bahwa kritik adalah bentuk kepedulian. | U001 | Laporan diri. |
+| Skill | Mendengarkan aktif, menyesuaikan emosi, klarifikasi pendapat. | U001 | Laporan diri. |
+| Preferensi/MBTI jika dilaporkan | ESFJ | U001 | Laporan diri dari hasil tes sebelumnya, bukan diagnosis simulasi. |
+| Peran, karakter, kultur/ko-kultur | Kolaborator yang mengutamakan kedamaian dan kejelasan struktural. | U001 | Dugaan berdasarkan respons orientasi harmoni. |
+
+## Dugaan awal profil target dan rencana
+
+*Catatan: Target pada kasus ini adalah diri sendiri dan penyesuaian gaya ke tokoh K1-04 (Dimas - INTJ).*
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Dimas (K1-04) | A: Skeptis, butuh efisiensi. | Validasi kendala waktunya, tawarkan analisis rasional (K/S). | Persetujuan mempertimbangkan komparasi. |
+| Attention | Tinggi (ada keluhan konkret) | - | Menyatakan pengertian atas waktunya. | "Aku ngerti waktumu terbatas." |
+| Interest | Rendah terhadap metode baru | S: Buktikan efektivitas. | Tawarkan perbandingan. | Kesediaan membandingkan plus-minus. |
+| Desire | - | - | Fokus pada hasil akhir yang efektif. | Pemilihan pendekatan paling logis. |
+| Action | Evaluasi bersama | K: Analisis objektif. | Keputusan berdasarkan perbandingan. | Kesepakatan langkah tanpa buang waktu. |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Identifikasi & Refleksi Awal
+Nama: Sabrina Aurelyn Sibarani
+NIM: 18225073
+Kelas: K-03
+
+Terkait profil dan komunikasiku: Berdasarkan tes, aku seorang ESFJ. Saat menyampaikan ide, aku biasanya melihat situasi dan audiensnya dulu. Kalau merasa nyaman dan kondisinya pas, aku bisa langsung berbicara. Tapi kalau suasananya sudah didominasi orang lain, aku cenderung mendengarkan dulu. Untuk memahami sesuatu, aku butuh gambaran besar konsep sekaligus contoh konkretnya, tergantung mana yang jadi prioritas. 
+
+Kekuatanku adalah aku selalu memiliki rencana. Namun, kelemahanku adalah aku agak susah menerima perubahan rencana secara mendadak. Kalau dikritik, jujur aku merasa berterima kasih karena tanpa itu aku nggak akan tahu kalau aku salah; itu tandanya orang tersebut peduli. Meski begitu, tergantung cara penyampaiannya, di awal mungkin aku merasa sedikit tersinggung atau malu. Namun, aku pasti akan memproses dan merenungkannya sebagai bahan refleksi diri.
+
+Dalam komunikasi, aku selalu berusaha memahami berbagai sudut pandang dan karakteristik orang lain, sehingga aku bisa menyesuaikan emosi dan tindakanku. Kalau aku salah, aku akan minta maaf duluan, baru mencoba menjelaskan sudut pandangku, sambil tetap menjaga perasaan lawan bicara.
+
+### AI001 - Fasilitator - Tahap Simulasi
+Berdasarkan refleksi awal Anda, terlihat peta SWOT dan ASK subjektif yang sangat baik. Kekuatan Anda ada pada empati dan kemampuan melihat berbagai sudut pandang. Namun, ada keterbatasan yaitu kesulitan menerima perubahan rencana secara mendadak. 
+
+Bayangkan Anda sedang berada dalam situasi nyata di mana rencana tugas kelompok yang sudah Anda susun rapi tiba-tiba harus dirombak total di menit-menit terakhir. Sebagai bentuk memimpin diri sendiri, tuliskan pesan (dialog internal atau self-talk) yang akan Anda sampaikan kepada diri Anda sendiri di momen krisis tersebut. Apa yang Anda katakan pada Sabrina?
+
+### U002 - Mahasiswa - Tahap Simulasi
+Aku akan berusaha memahami situasi yang terjadi dan menerimanya. Aku akan mencoba mengatakan pada diriku sendiri untuk tenang dulu, tidak panik, dan pelan-pelan menyesuaikan diri dengan perubahan tersebut. 
+
+### AI002 - Fasilitator - Simulasi Pembanding & Uji Ulang
+Baik. Sekarang mari kita uji pendekatan tersebut ke tokoh pembanding, serta melihat tindakan nyata Anda. Jawab dua situasi ini:
+1. Tokoh Pembanding (Dimas): Bayangkan temanmu Dimas merasa frustrasi karena rencana kelompok berubah mendadak. Dia tipe kritis dan logis, lalu bilang ke kamu, "Apa bukti pendekatan adaptasi ini lebih baik? Waktuku terbatas buat eksperimen hal baru." Apa balasan singkatmu ke Dimas?
+2. Uji Ulang Diri: Jika minggu depan rencana tugasmu mendadak dirombak lagi, apa tindakan konkret pertamamu sebelum emosi (tersinggung/malu) mengambil alih?
+
+### U003 - Mahasiswa - Respons Pembanding & Uji Ulang
+1. “Aku ngerti waktumu terbatas. Gimana kalau kita bandingkan dulu kelebihan dan kekurangan cara lama dengan cara baru, supaya kita bisa memilih pendekatan yang paling efektif tanpa membuang banyak waktu?”
+2. “Aku akan mencoba menenangkan diri dulu dan memahami alasan perubahan rencana tersebut. Setelah itu, aku akan menyusun ulang prioritas dan menyesuaikan rencanaku, daripada langsung merasa kecewa karena rencana awalku berubah. Karena aku belajar bahwa tidak semua hal bisa sesuai dengan yang kita inginkan”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Cenderung panik/kecewa saat rencana berubah mendadak. | Mampu merasionalkan situasi dan menata ulang prioritas. | U003 | Laporan niat perbaikan mahasiswa (self-talk hipotetis). |
+| Attitude | Tersinggung di awal jika dikritik secara kasar. | Menerima realita "tidak semua hal bisa sesuai keinginan". | U003 | Pergeseran sikap menjadi lebih berbesar hati (responsif). |
+| Knowledge | Tahu kelemahan diri sendiri. | Tahu cara menenangkan Dimas (INTJ) dengan data komparatif. | U003 | Repertoar komunikasi yang ditunjukkan. |
+| Skill/kesiapan | Kesulitan beradaptasi spontan. | Menyiapkan kerangka tindakan: diam, pahami alasan, tata prioritas. | U003 | Kesiapan mental untuk skenario nyata. |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target (Dugaan) | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| Pembanding (Dimas) - U003 | Dimas skeptis dan efisien waktunya (K1-04 INTJ). | "Aku ngerti waktumu terbatas. Gimana kalau kita bandingkan dulu kelebihan dan kekurangan..." | Keterbukaan berkat validasi jadwal dan argumen logika. | Sikap kolaboratif meningkat tanpa mengorbankan logika/data. | Menyesuaikan gaya empati ESFJ menjadi lebih struktural/komparatif. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 | "Aku ngerti waktumu terbatas... supaya bisa milih yg efektif tanpa buang waktu" | (Proyeksi respons positif) | Kepercayaan tingkat SEDANG/TINGGI dari tokoh karena ada validasi waktu/otonomi. | A membaik karena merasa dipahami hambatannya. |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Minggu depan rencana tugas dirombak lagi secara tiba-tiba (U002). |
+| Respons awal dibanding uji ulang | Awal: kecewa dan enggan. Uji ulang: "mencoba menenangkan diri dulu dan memahami alasan". |
+| Revisi rencana/dukungan | Menyusun ulang prioritas daripada larut dalam kekecewaan (U003). |
+| Indikator perbaikan | Mampu menghentikan emosi refleks menjadi responsif; adanya jeda untuk berpikir. |
+| Transfer dan keterbatasan | Kesiapan mental perumusan langkah, namun pelaksanaan nyata di dunia fisik belum diamati. |
+
+## Penilaian enam dimensi (Usulan AI)
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U003 | Memahami arah pengembangan diri dan menangkap inti konteks kendala Dimas. |
+| Persepsi dan validasi profil/status | 4 | U003 ("Aku ngerti waktumu terbatas") | Memvalidasi keengganan Dimas secara akurat tanpa memaksa harmoni buta. |
+| Pemilihan dan urutan repertoar | 4 | U003 | Urutan sangat logis: empati awal -> tawarkan proses analisis objektif. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003 | Penyampaian lugas, jelas, dan sangat peduli pada kebutuhan efisiensi lawan bicara. |
+| Evaluasi dan adaptasi | 3 | U003 | Mengubah pola reaktif internal menjadi langkah regulasi emosi struktural. |
+| Refleksi dan lesson learned | 4 | U003 ("Karena aku belajar...") | Sintesis refleksi yang kuat tentang hakikat beradaptasi dengan realitas. |
+
+**Nilai sesi:** Usulan AI (perlu dimoderasi dosen). Keseluruhan respons menunjukan pemahaman luar biasa terhadap prinsip komunikasi *interpersonal* PASK.
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Kesulitan beradaptasi dengan perubahan tidak harus direspons dengan kepanikan, melainkan dapat dipotong dengan jeda menenangkan diri dan mencari rasionalisasi (alasan).
+- **Stimulus efektif/tidak efektif:** Kepada rekan yang kritis dan tidak suka buang waktu, stimulus paling efektif adalah mengakui batasan waktu mereka lalu menawarkan perbandingan plus-minus yang konkret.
+- **Pertumbuhan PASK/ASK diri:** Sikap (Attitude) bertumbuh lewat kesadaran "tidak semua hal sesuai keinginan". Keterampilan (Skill) bertumbuh dengan merumuskan langkah praktis saat kecewa melanda.
+- **Relasi:** Memvalidasi kekhawatiran orang lain (seperti "aku tahu waktumu sempit") membangun jembatan relasi yang lebih kuat daripada sekadar menyuruh tenang.
+- **Pelajaran untuk situasi berikutnya:** Jeda (pause) antara stimulus dan respons (refleks) adalah kunci utama meregulasi emosi dan menyusun prioritas ulang.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Praktik jeda emosional (bernafas/menjauh sebentar) jika terjadi revisi dadakan di kampus | Sabrina | Dalam kuliah / tugas kelompok | Refleksi pribadi | Tidak ada reaksi defensif spontan di menit pertama perubahan. | Terencana |
+
+**Konfirmasi akhir:** Dikonfirmasi oleh mahasiswa pada ID U003. Laporan siap di-render.
+
+{{< include "../../includes/uts-penilaian.md" >}}
